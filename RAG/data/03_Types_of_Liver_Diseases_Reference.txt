@@ -1,0 +1,175 @@
+==========================================================================================
+                        TYPES OF LIVER DISEASES — REFERENCE GUIDE                         
+==========================================================================================
+
+A detailed reference describing the major types of liver disease, their causes, symptoms,
+diagnosis, and treatment. It is intended as background knowledge for a liver-health
+information system.
+
+  [ NOTE ]
+  Medical disclaimer: This document is an educational reference compiled for general
+  information and for use in a retrieval-augmented (RAG) knowledge base. It is not a
+  substitute for professional medical advice, diagnosis, or treatment. Always consult a
+  qualified physician, hepatologist, or registered dietitian before making decisions about
+  diet, medication, or lifestyle. In an emergency, contact local emergency services
+  immediately.
+
+
+1. OVERVIEW
+-----------
+
+Liver diseases can be broadly grouped into infections (viral hepatitis), fat-related
+disease (fatty liver), alcohol-related disease, immune and genetic disorders, scarring
+(fibrosis and cirrhosis), and tumours. Many conditions, if untreated, progress along a
+common path: inflammation → fibrosis → cirrhosis → liver failure or cancer.
+
+
+2. FATTY LIVER DISEASE
+----------------------
+
+
+  2.1 Non-Alcoholic Fatty Liver Disease (NAFLD / MASLD)
+
+Fat builds up in liver cells in people who drink little or no alcohol. It is now the most
+common liver disease worldwide and is strongly linked to obesity, diabetes, and metabolic
+syndrome. It is increasingly called MASLD (metabolic dysfunction-associated steatotic
+liver disease).
+
+  - Causes: obesity, type 2 diabetes, insulin resistance, high cholesterol, poor diet.
+  - Symptoms: often none; sometimes fatigue or mild right-upper-abdomen discomfort.
+  - Progression: simple fat can advance to NASH (inflammation), then fibrosis and
+    cirrhosis.
+  - Diagnosis: ultrasound, FibroScan, LFT, and sometimes biopsy.
+  - Treatment: weight loss, diet, exercise, and control of diabetes and cholesterol.
+
+
+  2.2 Alcoholic Fatty Liver Disease
+
+The earliest stage of alcohol-related liver damage, caused by fat accumulation from excess
+drinking. It is often reversible if alcohol is stopped early.
+
+
+3. VIRAL HEPATITIS
+------------------
+
+Hepatitis means inflammation of the liver. Five main viruses cause it: A, B, C, D, and E.
+
+  +-------------+----------------------------------------+------------------------------+-------------------------------------+
+  | Type        | Spread                                 | Nature                       | Prevention                          |
+  +-------------+----------------------------------------+------------------------------+-------------------------------------+
+  | Hepatitis A | Contaminated food/water                | Acute, usually self-limiting | Vaccine, hygiene                    |
+  +-------------+----------------------------------------+------------------------------+-------------------------------------+
+  | Hepatitis B | Blood, sexual contact, mother-to-child | Acute or chronic             | Vaccine, safe practices             |
+  +-------------+----------------------------------------+------------------------------+-------------------------------------+
+  | Hepatitis C | Blood contact, needles                 | Often chronic                | No vaccine; curable with antivirals |
+  +-------------+----------------------------------------+------------------------------+-------------------------------------+
+  | Hepatitis D | Only with hepatitis B                  | Worsens hepatitis B          | Hepatitis B vaccine                 |
+  +-------------+----------------------------------------+------------------------------+-------------------------------------+
+  | Hepatitis E | Contaminated water                     | Acute; risky in pregnancy    | Clean water, hygiene                |
+  +-------------+----------------------------------------+------------------------------+-------------------------------------+
+
+  - Common symptoms: jaundice, fatigue, nausea, loss of appetite, dark urine, abdominal
+    pain.
+  - Chronic hepatitis B and C are major causes of cirrhosis and liver cancer.
+  - Hepatitis B and C can now be well controlled or cured with modern antiviral drugs.
+
+
+4. ALCOHOLIC LIVER DISEASE (ALD)
+--------------------------------
+
+A spectrum of damage from long-term heavy alcohol use, ranging from fatty liver to
+alcoholic hepatitis and finally cirrhosis.
+
+  - Alcoholic fatty liver: reversible early stage.
+  - Alcoholic hepatitis: liver inflammation that can be mild or life-threatening.
+  - Alcoholic cirrhosis: permanent scarring from years of drinking.
+  - Main treatment: complete and permanent alcohol cessation, nutrition, and medical care.
+
+
+5. LIVER FIBROSIS AND CIRRHOSIS
+-------------------------------
+
+
+  5.1 Fibrosis
+
+Fibrosis is the build-up of scar tissue as the liver tries to repair ongoing damage. Early
+fibrosis can improve if the cause is removed.
+
+
+  5.2 Cirrhosis
+
+Cirrhosis is advanced, widespread scarring that permanently affects liver structure and
+function. It is the end result of many chronic liver diseases.
+
+  - Causes: chronic hepatitis B/C, long-term alcohol use, advanced fatty liver, autoimmune
+    and genetic diseases.
+  - Symptoms: fatigue, jaundice, fluid in the abdomen (ascites), leg swelling, easy
+    bruising, and confusion in advanced stages.
+  - Complications: internal bleeding from varices, liver cancer, and liver failure.
+  - Treatment: treat the cause, manage complications, and consider transplant when severe.
+
+
+6. AUTOIMMUNE AND CHOLESTATIC LIVER DISEASES
+--------------------------------------------
+
+  - Autoimmune hepatitis: the immune system attacks liver cells; treated with
+    immune-suppressing drugs.
+  - Primary Biliary Cholangitis (PBC): slow immune-mediated damage to small bile ducts.
+  - Primary Sclerosing Cholangitis (PSC): scarring and narrowing of bile ducts, often
+    linked to inflammatory bowel disease.
+
+
+7. GENETIC AND METABOLIC LIVER DISEASES
+---------------------------------------
+
+  - Hemochromatosis: the body absorbs and stores too much iron, damaging the liver.
+  - Wilson's disease: copper accumulates in the liver and brain.
+  - Alpha-1 antitrypsin deficiency: a genetic protein defect that can injure the liver.
+
+
+8. LIVER CANCER
+---------------
+
+The most common primary liver cancer is hepatocellular carcinoma (HCC), which usually
+develops on a background of cirrhosis or chronic hepatitis. The liver can also be affected
+by cancers that spread from other organs (metastatic cancer).
+
+  - Risk factors: cirrhosis, chronic hepatitis B/C, heavy alcohol use, advanced fatty
+    liver.
+  - Symptoms: weight loss, abdominal pain or mass, worsening jaundice, loss of appetite.
+  - Screening: ultrasound (often with AFP blood test) every 6 months in high-risk
+    patients.
+  - Treatment: surgery, ablation, targeted therapy, or transplant depending on the stage.
+
+
+9. OTHER LIVER CONDITIONS
+-------------------------
+
+  - Drug-Induced Liver Injury (DILI): damage from medicines, overdoses, or supplements.
+  - Liver abscess: a pus-filled infection, often bacterial or amoebic.
+  - Liver cysts and hemangiomas: usually benign fluid- or blood-filled growths.
+  - Gallstone-related disease: stones can block bile ducts and injure the liver.
+  - Acute liver failure: rapid loss of liver function, a medical emergency.
+
+
+10. HOW LIVER DISEASES ARE DIAGNOSED
+------------------------------------
+
+  - Blood tests: LFT, viral markers, autoimmune and genetic panels, AFP.
+  - Imaging: ultrasound, FibroScan, CT, and MRI.
+  - Liver biopsy: a tissue sample when the diagnosis or stage is unclear.
+
+
+11. GENERAL PRINCIPLES OF TREATMENT
+-----------------------------------
+
+  1. Identify and treat the underlying cause (virus, alcohol, fat, immune, or genetic).
+  2. Stop all liver toxins, especially alcohol and unnecessary drugs.
+  3. Support the liver with good nutrition and weight control.
+  4. Monitor for and manage complications early.
+  5. Refer advanced cases to specialist and transplant centres.
+
+Summary: liver diseases range from easily reversible fatty liver to life-threatening
+cirrhosis and cancer. Early detection, removing the cause, and regular follow-up are the
+keys to good outcomes across almost every type.
+

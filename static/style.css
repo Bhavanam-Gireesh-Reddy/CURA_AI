@@ -1,0 +1,874 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Poppins",sans-serif;
+}
+
+
+body{
+    background:#f4f8fb;
+    color:#1f2937;
+}
+
+
+
+/* NAVBAR */
+
+.navbar{
+
+    width:100%;
+    padding:20px 8%;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    background:white;
+
+    box-shadow:0 4px 15px rgba(0,0,0,0.08);
+
+    position:sticky;
+    top:0;
+    z-index:100;
+
+}
+
+
+.logo{
+
+    font-size:28px;
+    font-weight:700;
+    color:#2563eb;
+
+}
+
+
+
+.nav-links{
+
+    display:flex;
+    gap:30px;
+
+}
+
+
+
+.nav-links a{
+
+    text-decoration:none;
+    color:#374151;
+    font-weight:500;
+
+}
+
+
+.nav-links a:hover{
+
+    color:#2563eb;
+
+}
+
+
+
+
+
+/* HERO */
+
+.hero{
+
+    min-height:350px;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    text-align:center;
+
+    padding:40px;
+
+    background:
+    linear-gradient(
+    135deg,
+    #2563eb,
+    #06b6d4
+    );
+
+    color:white;
+
+}
+
+
+
+.hero h1{
+
+    font-size:42px;
+    margin-bottom:15px;
+
+}
+
+
+
+.hero p{
+
+    font-size:18px;
+
+}
+
+
+
+
+
+/* SECTIONS */
+
+
+.prediction-section{
+
+    padding:50px 8%;
+
+}
+
+
+
+
+
+/* CARD */
+
+
+.card{
+
+    background:white;
+
+    max-width:700px;
+
+    margin:auto;
+
+    padding:35px;
+
+    border-radius:20px;
+
+
+    box-shadow:
+    0 10px 30px rgba(0,0,0,0.1);
+
+}
+
+
+
+.card h2{
+
+    text-align:center;
+
+    color:#2563eb;
+
+    margin-bottom:15px;
+
+}
+
+
+
+.card p{
+
+    text-align:center;
+
+}
+
+
+
+
+
+/* FILE INPUT */
+
+
+input[type="file"]{
+
+    width:100%;
+
+    padding:15px;
+
+    border:2px dashed #2563eb;
+
+    border-radius:12px;
+
+    background:#eff6ff;
+
+}
+
+
+
+
+
+
+
+/* LIVER FORM */
+
+
+#liverForm{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:10px;
+
+}
+
+
+
+#liverForm label{
+
+    margin-top:12px;
+
+    font-weight:600;
+
+    color:#374151;
+
+    text-align:left;
+
+}
+
+
+
+#liverForm input{
+
+    width:100%;
+
+    padding:12px 15px;
+
+    border-radius:10px;
+
+    border:1px solid #d1d5db;
+
+    outline:none;
+
+    font-size:15px;
+
+    transition:.3s;
+
+}
+
+
+
+#liverForm input:focus{
+
+    border-color:#2563eb;
+
+    box-shadow:
+    0 0 8px rgba(37,99,235,0.2);
+
+}
+
+
+
+
+
+/* Error Message */
+
+
+#liverForm span{
+
+    color:#dc2626;
+
+    font-size:13px;
+
+    text-align:left;
+
+    min-height:18px;
+
+}
+
+
+
+.invalid{
+
+    border:2px solid #dc2626 !important;
+
+    background:#fef2f2;
+
+}
+
+
+
+
+
+
+/* BUTTON */
+
+
+button{
+
+    margin-top:20px;
+
+    padding:14px 35px;
+
+    border:none;
+
+    border-radius:30px;
+
+    background:#2563eb;
+
+    color:white;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+
+
+button:hover{
+
+    background:#1d4ed8;
+
+    transform:translateY(-3px);
+
+}
+
+
+
+button:disabled{
+
+    background:#9ca3af;
+
+    cursor:not-allowed;
+
+}
+
+
+
+
+
+
+/* RESULT */
+
+.result{
+
+    margin-top:35px;
+
+    padding:25px;
+
+    border-radius:18px;
+
+    background:#f8fafc;
+
+    border-left:5px solid #2563eb;
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    justify-content:center;
+
+    text-align:center;
+
+}
+
+
+
+.prediction-box{
+
+    width:450px;
+
+    margin:20px auto;
+
+    padding:25px;
+
+    background:#ffffff;
+
+    border-radius:15px;
+
+    box-shadow:
+    0 8px 20px rgba(0,0,0,0.1);
+
+    text-align:center;
+
+}
+
+
+.result-row{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:20px;
+
+    align-items:center;
+
+    padding:12px 5px;
+
+    border-bottom:1px solid #ddd;
+
+}
+
+
+.result-row span{
+
+    font-weight:600;
+
+    min-width:150px;
+
+    text-align:right;
+
+}
+
+
+.result-row strong{
+
+    min-width:150px;
+
+    text-align:left;
+
+}
+
+
+.prediction-box p{
+
+    font-size:18px;
+
+    margin:10px;
+
+}
+
+
+
+
+
+/* IMAGE */
+
+
+.uploaded-image{
+
+    width:320px;
+
+    height:320px;
+
+    max-width:100%;
+
+    object-fit:contain;
+
+    background:black;
+
+    padding:10px;
+
+    border-radius:15px;
+
+    margin:20px auto;
+
+    display:block;
+
+}
+
+
+
+
+
+
+/* LOADING */
+
+#xrayLoading,
+#mriLoading{
+
+    margin-top:15px;
+
+    color:#2563eb;
+
+    font-weight:600;
+
+}
+
+
+
+
+
+
+/* FOOTER */
+
+
+footer{
+
+    text-align:center;
+
+    padding:25px;
+
+    background:#111827;
+
+    color:white;
+
+    margin-top:40px;
+
+}
+
+
+
+
+
+
+
+/* RESPONSIVE */
+
+
+@media(max-width:768px){
+
+
+.navbar{
+
+    flex-direction:column;
+
+    gap:15px;
+
+}
+
+
+.nav-links{
+
+    gap:15px;
+
+}
+
+
+.hero h1{
+
+    font-size:30px;
+
+}
+
+
+.card{
+
+    padding:25px;
+
+}
+
+
+.prediction-section{
+
+    padding:30px 5%;
+
+}
+
+
+}
+
+/* X-Ray Background */
+
+.xray-bg{
+
+    background:#eef6ff;
+
+}
+
+
+
+/* MRI Background */
+
+.mri-bg{
+
+    background:#f3f0ff;
+
+}
+
+
+
+/* Liver Background */
+
+.liver-bg{
+
+    background:#ecfdf5;
+
+}
+
+.xray-bg{
+    background:linear-gradient(
+        135deg,
+        #e0f2fe,
+        #f8fafc
+    );
+}
+
+
+.mri-bg{
+    background:linear-gradient(
+        135deg,
+        #ede9fe,
+        #f8fafc
+    );
+}
+
+
+.liver-bg{
+    background:linear-gradient(
+        135deg,
+        #dcfce7,
+        #f8fafc
+    );
+}
+
+select{
+
+    width:100%;
+    padding:12px 15px;
+
+    border-radius:10px;
+
+    border:1px solid #d1d5db;
+
+    font-size:15px;
+
+    background:white;
+
+}
+
+
+select:focus{
+
+    border-color:#2563eb;
+
+    outline:none;
+
+}
+
+/* =========================
+   CURA AI CHATBOT
+========================= */
+
+
+.chat-window{
+
+    position:fixed;
+
+    right:25px;
+
+    bottom:25px;
+
+    width:500px;
+
+    height:600px;
+
+    background:white;
+
+    border-radius:20px;
+
+    box-shadow:
+    0 10px 30px rgba(0,0,0,0.25);
+
+    display:flex;
+
+    flex-direction:column;
+
+    overflow:hidden;
+
+    z-index:9999;
+
+}
+
+
+
+/* HEADER */
+
+.chat-header{
+
+    background:#2563eb;
+
+    color:white;
+
+    padding:18px;
+
+    font-size:20px;
+
+    font-weight:600;
+
+}
+
+
+
+/* MESSAGE AREA */
+
+.chat-messages{
+
+    flex:1;
+
+    padding:20px;
+
+    overflow-y:auto;
+
+    background:#f8fafc;
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:15px;
+
+}
+
+
+
+/* BOT MESSAGE */
+
+.bot-message{
+
+    background:#e0f2fe;
+
+    padding:15px;
+
+    border-radius:15px;
+
+    max-width:85%;
+
+    align-self:flex-start;
+
+    font-size:15px;
+
+    line-height:1.6;
+
+}
+
+
+
+/* USER MESSAGE */
+
+.user-message{
+
+    background:#2563eb;
+
+    color:white;
+
+    padding:15px;
+
+    border-radius:15px;
+
+    max-width:85%;
+
+    align-self:flex-end;
+
+    font-size:15px;
+
+}
+
+
+
+/* INPUT */
+
+.chat-input{
+
+    display:flex;
+
+    padding:15px;
+
+    border-top:1px solid #ddd;
+
+    background:white;
+
+}
+
+
+
+.chat-input input{
+
+    flex:1;
+
+    padding:14px 18px;
+
+    border-radius:25px;
+
+    border:1px solid #ccc;
+
+    font-size:15px;
+
+    outline:none;
+
+}
+
+
+
+.chat-input button{
+
+    width:45px;
+
+    height:45px;
+
+    margin-left:10px;
+
+    border-radius:50%;
+
+    padding:0;
+
+    background:#2563eb;
+
+    color:white;
+
+}
+
+
+
+/* RAG RESPONSE */
+
+.rag-response{
+
+    line-height:1.7;
+
+    font-size:15px;
+
+}
+
+
+
+.rag-response strong{
+
+    color:#2563eb;
+
+}
+
+
+
+/* TOOL BUTTON */
+
+.rag-response button{
+
+    margin-top:15px;
+
+    padding:12px 20px;
+
+    border-radius:25px;
+
+    background:#2563eb;
+
+    color:white;
+
+    border:none;
+
+    cursor:pointer;
+
+}
+
+
+
+.rag-response button:hover{
+
+    background:#1d4ed8;
+
+}
+
+
+
+/* MOBILE */
+
+@media(max-width:700px){
+
+.chat-window{
+
+    width:90%;
+
+    height:500px;
+
+    right:5%;
+
+}
+
+}

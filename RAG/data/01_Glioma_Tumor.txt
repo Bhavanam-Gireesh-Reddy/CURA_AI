@@ -1,0 +1,962 @@
+==========================================================================================
+                    CLASS 1 – GLIOMA TUMOR: PATIENT & CAREGIVER GUIDE                     
+==========================================================================================
+
+An educational guide for people whose brain MRI suggests a glioma — a tumor that grows
+from the brain's supporting (glial) cells. It explains what a glioma is, its grades,
+symptoms, diagnosis, MRI features, treatment, recovery, nutrition, rehabilitation, warning
+signs, outlook, and answers to common questions.
+
+  [ NOTE ]
+  Educational disclaimer: This document is for general education and for use in a
+  retrieval-augmented (RAG) AI assistant that supports patients after an MRI-based brain
+  scan. It is NOT a medical diagnosis and does NOT replace consultation with qualified
+  healthcare professionals such as a neurologist, neurosurgeon, or oncologist. Every
+  person is different, and only your own medical team can confirm a diagnosis and plan
+  treatment. If you have severe or sudden symptoms, seek emergency medical care
+  immediately.
+
+
+==========================================================================================
+1. OVERVIEW
+==========================================================================================
+
+A glioma is a type of brain tumor that starts in the glial cells — the supporting cells
+that surround and protect the brain's nerve cells (neurons). Gliomas are the most common
+type of primary brain tumor, meaning they begin in the brain itself rather than spreading
+from another part of the body.
+
+Are they benign or malignant? Gliomas range from low-grade (slow-growing, less aggressive)
+to high-grade (fast-growing, malignant/cancerous). Even so-called low-grade gliomas can
+grow over time, so all gliomas need medical follow-up. The common subtypes are named after
+the glial cell they resemble: astrocytoma, oligodendroglioma, and ependymoma. Glioblastoma
+is the most aggressive form.
+
+Where they occur: gliomas can grow anywhere in the brain or spinal cord but are most
+common in the cerebral hemispheres (the large upper part of the brain). Epidemiology:
+gliomas make up a large share of primary brain tumors. Age groups: they can occur at any
+age; high-grade gliomas are more common in adults over 45, while some low-grade gliomas
+appear in younger adults and children. Gender: they are slightly more common in men.
+
+Disease progression and prognosis: the outlook depends heavily on the grade, the tumor's
+genetic features, its location, how much can be safely removed, and the person's age and
+general health. Low-grade gliomas may be managed for many years, while high-grade gliomas
+are more serious. Your medical team can give the most accurate outlook for your specific
+situation.
+
+
+==========================================================================================
+2. BRAIN ANATOMY
+==========================================================================================
+
+Understanding the brain helps explain glioma symptoms and treatment.
+
+  - Glial cells: the 'support staff' of the brain that feed, protect, and insulate the
+    neurons. Gliomas grow from these cells.
+  - Cerebral hemispheres: the large left and right halves that control movement,
+    sensation, thinking, language, and vision. A glioma here can affect these functions.
+  - Frontal lobe: controls movement, personality, decision-making, and speech production.
+  - Temporal lobe: handles memory, hearing, and understanding language.
+  - Parietal lobe: processes touch, spatial awareness, and coordination.
+  - Occipital lobe: processes vision.
+  - Nearby nerves: cranial nerves controlling eye movement, facial sensation, and hearing
+    can be affected by tumors near the brain's base or brainstem.
+  - Blood vessels: the brain has a rich blood supply; high-grade gliomas often grow new,
+    leaky vessels, which show up on MRI and cause swelling.
+
+Relationship to surrounding tissue: gliomas tend to grow into (infiltrate) the surrounding
+brain rather than staying in a neat ball. This is why complete removal can be difficult
+and why treatment often combines surgery with radiation or chemotherapy. Because different
+brain areas control different functions, the tumor's location strongly shapes the symptoms
+and the surgical plan.
+
+
+==========================================================================================
+3. WHAT CAUSES A GLIOMA?
+==========================================================================================
+
+In most people the exact cause of a glioma is unknown. It is not caused by anything the
+patient did, and it is not contagious. Researchers have identified some factors linked to
+a higher risk.
+
+
+  Established Risk Factors
+  ------------------------
+
+  - Age: risk of high-grade glioma rises with age.
+  - Previous radiation to the head: for example, radiation therapy for another condition
+    in the past.
+  - Rare inherited syndromes: conditions such as neurofibromatosis, Li-Fraumeni syndrome,
+    and Turcot syndrome increase risk.
+
+
+  Possible / Being Studied Risk Factors
+  -------------------------------------
+
+  - Family history of brain tumors in a small number of cases.
+  - Certain environmental or chemical exposures (evidence is limited and not proven).
+
+
+  Not Proven and Protective Factors
+  ---------------------------------
+
+  - Mobile phone use has not been proven to cause gliomas despite public concern; research
+    is ongoing.
+  - There is no confirmed way to prevent gliomas, but a generally healthy lifestyle
+    supports overall brain health.
+  - A history of allergies or some immune conditions has been linked to slightly lower
+    risk in some studies, but this is not a proven protective action.
+
+
+==========================================================================================
+4. TYPES AND CLASSIFICATION (WHO GRADES)
+==========================================================================================
+
+The World Health Organization (WHO) grades brain tumors from I to IV based on how the
+cells look and behave under a microscope, now combined with genetic (molecular) features.
+A higher grade means a faster-growing, more aggressive tumor.
+
+  +-----------+--------------------------------------------+--------------------------------------------+--------------------------------------------+--------------------------------------+
+  | WHO Grade | Growth & severity                          | Recurrence                                 | Typical treatment                          | General prognosis                    |
+  +-----------+--------------------------------------------+--------------------------------------------+--------------------------------------------+--------------------------------------+
+  | Grade I   | Very slow-growing, least aggressive; often | Low if fully removed                       | Surgery, sometimes curative                | Often very good                      |
+  |           | in children (e.g., pilocytic astrocytoma). |                                            |                                            |                                      |
+  +-----------+--------------------------------------------+--------------------------------------------+--------------------------------------------+--------------------------------------+
+  | Grade II  | Slow-growing but can spread into nearby    | Can recur and may change to a higher grade | Surgery, sometimes radiation/chemo         | Often good for years with monitoring |
+  |           | brain (low-grade glioma).                  | over years                                 |                                            |                                      |
+  +-----------+--------------------------------------------+--------------------------------------------+--------------------------------------------+--------------------------------------+
+  | Grade III | Faster-growing, malignant (e.g.,           | Higher chance of recurrence                | Surgery + radiation + chemotherapy         | More guarded; varies with genetics   |
+  |           | anaplastic astrocytoma).                   |                                            |                                            |                                      |
+  +-----------+--------------------------------------------+--------------------------------------------+--------------------------------------------+--------------------------------------+
+  | Grade IV  | Very fast-growing and aggressive           | High chance of recurrence                  | Surgery + radiation + chemotherapy; trials | Serious; managed intensively         |
+  |           | (glioblastoma).                            |                                            |                                            |                                      |
+  +-----------+--------------------------------------------+--------------------------------------------+--------------------------------------------+--------------------------------------+
+
+Molecular markers such as IDH mutation and 1p/19q co-deletion now help doctors predict
+behaviour and choose treatment. Your report may mention these; your team will explain what
+they mean for you.
+
+
+==========================================================================================
+5. COMMON SYMPTOMS
+==========================================================================================
+
+Symptoms depend on the tumor's size, grade, and location, and are caused by pressure on
+the brain, swelling, or disruption of a specific brain area. Not everyone has all
+symptoms.
+
+  - Headache: often worse in the morning or with coughing; caused by raised pressure
+    inside the skull.
+  - Seizures: sudden electrical disturbances; a common first sign of a glioma. Any new
+    seizure needs urgent assessment.
+  - Memory problems and difficulty concentrating: from tumors affecting thinking areas.
+  - Confusion or slowed thinking: from pressure or swelling.
+  - Weakness or numbness on one side: when the movement or sensation areas are involved.
+  - Speech difficulty: trouble finding words or understanding, from language-area tumors.
+  - Vision changes: blurred or double vision, or loss of part of the visual field.
+  - Balance and coordination problems: from tumors near the cerebellum or brainstem.
+  - Vomiting (especially with headache): a sign of raised pressure; can be an emergency.
+  - Personality or mood changes: from frontal-lobe involvement.
+  - Fatigue: common with tumors and during treatment.
+
+  [ NOTE ]
+  When to get emergency care: a first-ever seizure, sudden severe headache, repeated
+  vomiting, sudden weakness or paralysis, sudden vision or speech loss, or a drop in
+  consciousness are emergencies — call emergency services or go to hospital immediately.
+
+
+==========================================================================================
+6. DIAGNOSIS
+==========================================================================================
+
+Diagnosing a glioma usually combines a clinical check with imaging and, in most cases, a
+tissue sample (biopsy). Each test has a purpose.
+
+  - Medical history: the doctor asks about symptoms, their timing, seizures, and any
+    family history.
+  - Neurological examination: checks strength, sensation, reflexes, vision, balance,
+    speech, and thinking to locate the problem.
+  - MRI (magnetic resonance imaging): the main test; uses magnets (no radiation) to give
+    detailed pictures of the brain and the tumor.
+  - Contrast MRI: a dye (gadolinium) is given into a vein to highlight active tumor and
+    leaky blood vessels; high-grade gliomas often 'enhance' strongly.
+  - CT scan: faster than MRI; useful in emergencies and to detect bleeding or
+    calcification.
+  - PET scan: shows how active the tumor is and can help tell tumor from scar tissue after
+    treatment.
+  - MR spectroscopy: measures chemicals in the tissue to help judge the tumor type and
+    grade without surgery.
+  - Functional MRI (fMRI): maps important areas such as movement and speech before surgery
+    to protect them.
+  - Biopsy: a small tissue sample examined under a microscope; this confirms the diagnosis
+    and grade, often taken during surgery.
+  - Blood tests and genetic (molecular) testing: check general health and analyse tumor
+    genetics (such as IDH and MGMT) to guide treatment.
+
+Advantages and limitations: MRI is excellent for detail but a firm diagnosis and grade
+usually need a biopsy. Imaging alone can suggest, but not always confirm, the exact tumor
+type.
+
+
+==========================================================================================
+7. MRI CHARACTERISTICS
+==========================================================================================
+
+On MRI, gliomas have features that help doctors estimate the grade before surgery. The
+exact appearance varies with the subtype.
+
+  - Location: usually within the cerebral hemispheres, growing inside the brain tissue.
+  - Shape and borders: often irregular with ill-defined edges, because gliomas infiltrate
+    surrounding brain.
+  - Size: variable, from small to large.
+  - Contrast enhancement: low-grade gliomas often show little or no enhancement;
+    high-grade gliomas (especially glioblastoma) enhance strongly, often in a ring.
+  - Edema (swelling): surrounding brain swelling is common, especially with high-grade
+    tumors.
+  - Mass effect: the tumor can push nearby structures and shift the midline.
+  - Necrosis (dead tissue in the centre): typical of glioblastoma and seen as a
+    non-enhancing core inside a ring.
+  - Calcification: more common in oligodendrogliomas.
+
+A classic high-grade glioma (glioblastoma) often looks like an irregular, ring-enhancing
+mass with a dead centre and lots of surrounding swelling. A low-grade glioma often looks
+like a smoother area with little enhancement.
+
+
+==========================================================================================
+8. TREATMENT OPTIONS
+==========================================================================================
+
+Treatment is planned by a team (neurosurgeon, oncologist, radiation specialist) and
+depends on the grade, location, genetics, and your health. Options are often combined.
+
+
+  Observation (Watchful Waiting)
+  ------------------------------
+
+For some small, slow-growing, low-grade gliomas that are not causing problems, doctors may
+monitor with regular MRIs instead of immediate treatment, treating only if the tumor
+changes.
+
+
+  Surgery
+  -------
+
+  - Craniotomy: the main operation, where a section of skull is temporarily removed to
+    reach and remove as much tumor as is safe.
+  - Endoscopic or minimally invasive surgery: used for some deep or specific locations.
+  - Complete removal (gross total resection): removing all visible tumor when it can be
+    done safely.
+  - Partial removal (debulking): removing as much as possible when the tumor is near vital
+    areas, to reduce pressure and symptoms.
+  - Benefits: relieves pressure, provides tissue for diagnosis, and can improve symptoms
+    and outcomes.
+  - Risks: bleeding, infection, swelling, seizures, and possible weakness, speech, or
+    vision changes depending on location.
+  - Recovery: a hospital stay of a few days, with gradual improvement over weeks;
+    rehabilitation may be needed.
+
+
+  Radiation Therapy
+  -----------------
+
+  - External beam radiation: precisely targeted X-rays over several weeks, often after
+    surgery for higher-grade tumors.
+  - Stereotactic radiosurgery (e.g., Gamma Knife, CyberKnife): highly focused radiation in
+    one or a few sessions for small, well-defined targets.
+  - Side effects: tiredness, hair loss in the treated area, skin changes, and sometimes
+    temporary swelling or thinking changes.
+  - Recovery: fatigue can last weeks after treatment ends and then gradually improves.
+
+
+  Chemotherapy
+  ------------
+
+  - Common medicine: temozolomide is often used for high-grade gliomas, sometimes with
+    other drugs.
+  - Purpose: to kill remaining tumor cells and slow growth, often alongside or after
+    radiation.
+  - Side effects: nausea, tiredness, low blood counts (raising infection risk), and hair
+    changes.
+  - Duration and monitoring: given in cycles over months, with regular blood tests to
+    check safety.
+
+
+  Targeted Therapy and Immunotherapy
+  ----------------------------------
+
+Targeted therapy uses drugs aimed at specific tumor features (for example, bevacizumab to
+reduce swelling and abnormal vessels in some cases). Immunotherapy, which helps the immune
+system fight the tumor, is mainly used within clinical trials for gliomas and is an area
+of active research.
+
+
+  Hormone Therapy
+  ---------------
+
+Hormone therapy is not a standard treatment for gliomas (unlike some pituitary tumors).
+Steroids such as dexamethasone are often used, however, to reduce brain swelling and
+relieve symptoms.
+
+
+==========================================================================================
+9. RECOVERY TIMELINE
+==========================================================================================
+
+Recovery depends on the treatment used, the tumor's location, and your overall health.
+These are general guides, not promises.
+
+  +---------------------+--------------------------------------------+
+  | Pathway             | What to expect                             |
+  +---------------------+--------------------------------------------+
+  | After surgery       | Hospital stay usually 2–5 days; most       |
+  |                     | fatigue and swelling settle over 4–6       |
+  |                     | weeks; rehabilitation may continue for     |
+  |                     | weeks to months.                           |
+  +---------------------+--------------------------------------------+
+  | After radiation     | Fatigue often peaks near the end and for a |
+  |                     | few weeks after, then improves over 1–3    |
+  |                     | months.                                    |
+  +---------------------+--------------------------------------------+
+  | During chemotherapy | Given in cycles over months; energy and    |
+  |                     | blood counts dip and recover within each   |
+  |                     | cycle.                                     |
+  +---------------------+--------------------------------------------+
+  | Observation         | No treatment recovery; regular MRIs        |
+  |                     | monitor the tumor.                         |
+  +---------------------+--------------------------------------------+
+
+  - Return to work: varies widely — some return in a few weeks after surgery, others need
+    months, especially with ongoing treatment or seizures.
+  - Return to school (children/young adults): gradual return with support once recovered
+    and cleared.
+  - Driving: usually paused after a seizure or brain surgery; rules vary by region and
+    require your doctor's and licensing authority's clearance.
+  - Physical activity: gentle activity is encouraged as you recover; avoid contact and
+    high-impact activity until cleared.
+
+Expected milestones: relief of pressure symptoms after surgery, gradual return of energy
+over weeks, and steady rehabilitation gains. Tell your team about any new or worsening
+symptoms.
+
+
+==========================================================================================
+10. HOME CARE
+==========================================================================================
+
+Good home care supports healing and safety between appointments.
+
+  - Medication adherence: take anti-seizure medicines, steroids, and other drugs exactly
+    as prescribed; do not stop suddenly.
+  - Sleep: aim for regular, adequate sleep to help the brain recover.
+  - Hydration: drink enough water, especially during treatment.
+  - Stress reduction: use relaxation, gentle routines, and support to manage stress.
+  - Activity restrictions: avoid driving until cleared, and avoid heavy lifting, ladders,
+    swimming alone, and risky activities if seizures are possible.
+  - Rest and pacing: balance activity with rest; fatigue is normal.
+  - Mental health: seek help for low mood, anxiety, or fear — these are common and
+    treatable.
+  - Follow-up appointments: keep all scans and reviews; write down questions and symptoms
+    to discuss.
+  - Safety at home: have someone nearby early after surgery or if seizures are a risk.
+
+
+==========================================================================================
+11. NUTRITION
+==========================================================================================
+
+Good nutrition supports recovery from brain surgery, radiation, or chemotherapy, helps the
+body cope with treatment, and keeps energy and mood steady. There is no single
+'anti-tumor' diet, but a balanced, mostly whole-food diet is widely recommended. Always
+follow any specific advice from your medical team or dietitian, especially during
+treatment.
+
+
+  Key Nutrients and Why They Help
+  -------------------------------
+
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Nutrient          | Why it helps                               | Vegetarian sources                         | Non-vegetarian sources                  |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Protein           | Repairs tissue and supports healing after  | Dal, beans, chickpeas, rajma, soya,        | Eggs, chicken, fish, lean meat          |
+  |                   | surgery or treatment.                      | paneer, tofu, nuts                         |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Omega-3 fats      | Support brain-cell health and reduce       | Flaxseed, chia, walnuts, soybean oil       | Fatty fish (salmon, mackerel, sardines) |
+  |                   | inflammation.                              |                                            |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin D         | Supports bone and immune health; many      | Sunlight, fortified milk/cereals,          | Egg yolk, fatty fish                    |
+  |                   | patients are low.                          | mushrooms                                  |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin B12       | Needed for healthy nerves and blood.       | Fortified foods, dairy, supplements if     | Eggs, dairy, fish, meat                 |
+  |                   |                                            | vegan                                      |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin C         | Helps wound healing and immunity.          | Amla, orange, guava, lemon, capsicum,      | (mainly plant foods)                    |
+  |                   |                                            | tomato                                     |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin E         | An antioxidant that protects cells.        | Nuts, seeds, vegetable oils, spinach       | (mainly plant foods)                    |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Antioxidants      | Protect cells from damage; from colourful  | Berries, leafy greens, carrots, beetroot,  | (mainly plant foods)                    |
+  |                   | produce.                                   | tomatoes                                   |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Healthy fats      | Provide steady energy and support the      | Olive oil, mustard oil, nuts, avocado,     | Fish                                    |
+  |                   | brain.                                     | seeds                                      |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Whole grains      | Give steady energy and fibre for           | Oats, brown rice, millets (jowar, bajra,   | (mainly plant foods)                    |
+  |                   | digestion.                                 | ragi), whole wheat                         |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Hydration (water) | Prevents tiredness, headaches, and         | Water, buttermilk, coconut water, soups    | Water, broths                           |
+  |                   | constipation.                              |                                            |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+
+
+  Sample Daily Meal Suggestions
+  -----------------------------
+
+  - Breakfast: vegetable oats or besan chilla or eggs with whole-wheat toast and a fruit.
+  - Mid-morning: a fruit (apple, guava, orange) or a handful of nuts.
+  - Lunch: 2 multigrain rotis, dal or beans, a large bowl of vegetables, curd, and salad.
+  - Evening: buttermilk, sprouts, or green tea with roasted chana.
+  - Dinner: brown rice or roti with vegetables and a protein (fish, chicken, tofu, or
+    dal).
+  - Through the day: sip water regularly to stay well hydrated.
+
+  [ NOTE ]
+  During chemotherapy or if you have swallowing, taste, or appetite problems, ask your
+  team for tailored advice. Do not start high-dose supplements on your own, as some can
+  interfere with treatment.
+
+
+==========================================================================================
+12. FOODS TO LIMIT
+==========================================================================================
+
+Some foods and habits do not directly cause brain tumors but can slow recovery, worsen
+general health, or interact with treatment. It is wise to limit the following.
+
+  - Alcohol: can interact with medicines (including anti-seizure and chemotherapy drugs),
+    affect the brain, and disturb sleep. Best avoided or strictly limited.
+  - Smoking and tobacco: harm blood vessels and overall health and slow healing. Stopping
+    is strongly recommended.
+  - Highly processed foods: often high in salt, sugar, and unhealthy fat and low in
+    nutrients.
+  - Sugary beverages: sodas and sweetened juices add empty calories and can worsen energy
+    swings.
+  - Excess salt: too much salt can raise blood pressure and cause fluid retention.
+  - Excess caffeine: large amounts of coffee, tea, or energy drinks can worsen anxiety,
+    tremor, and sleep problems.
+  - Trans fats: found in some fried and bakery items; bad for heart and blood vessels.
+  - Ultra-processed foods: packaged snacks and ready meals; keep these occasional.
+
+In short, a fresh, home-cooked, balanced diet with less salt, sugar, alcohol, and no
+smoking supports recovery and overall brain health.
+
+
+==========================================================================================
+13. REHABILITATION
+==========================================================================================
+
+Rehabilitation helps you regain skills affected by the tumor or its treatment. A team
+tailors it to your needs; progress is gradual.
+
+  - Physical therapy: rebuilds strength, walking, and balance after weakness.
+  - Occupational therapy: relearns daily tasks such as dressing, cooking, and using the
+    hands.
+  - Speech and language therapy: helps with talking, understanding, and swallowing.
+  - Vision therapy: supports adaptation to visual field changes.
+  - Cognitive rehabilitation: exercises for memory, attention, and problem-solving.
+  - Balance training: reduces falls and improves confidence.
+  - Memory exercises: strategies and tools (notes, reminders) to support daily life.
+
+Duration and goals: rehabilitation may last weeks to months. The goal is to improve
+independence, safety, and quality of life. Outcomes vary with the tumor's location and
+grade, but many people make meaningful gains.
+
+
+==========================================================================================
+14. LIFESTYLE RECOMMENDATIONS
+==========================================================================================
+
+Healthy daily habits support brain health, mood, and recovery. Adapt these to your
+abilities and your doctor's advice.
+
+  - Regular exercise: gentle activity such as walking, as approved by your doctor,
+    improves energy, mood, and sleep.
+  - Stress management: reduce stress with breathing exercises, hobbies, and pacing your
+    day.
+  - Meditation: mindfulness or guided relaxation can ease anxiety and improve focus.
+  - Yoga: gentle yoga (with medical clearance) supports flexibility, balance, and calm.
+  - Sleep hygiene: keep a regular sleep schedule, a dark quiet room, and limit screens
+    before bed; aim for 7–9 hours.
+  - Hydration: drink water through the day to avoid tiredness and headaches.
+  - Weight management: keep a healthy weight with balanced food and activity.
+  - Mental wellness: seek support for low mood or anxiety; counselling can help.
+  - Family support: involve family in appointments, medication, and daily routines.
+  - Social engagement: stay connected with friends and community to protect mood and
+    thinking skills.
+
+
+==========================================================================================
+15. POSSIBLE COMPLICATIONS
+==========================================================================================
+
+Complications can come from the tumor itself or its treatment. Knowing them helps you spot
+problems early.
+
+  - Brain swelling (edema): raises pressure and worsens symptoms; often treated with
+    steroids.
+  - Hydrocephalus: build-up of fluid in the brain, sometimes needing a drain or shunt.
+  - Seizures: may continue and are managed with medicines.
+  - Neurological deficits: weakness, numbness, speech, or vision problems from the tumor
+    or surgery.
+  - Recurrence: gliomas, especially high-grade, can regrow, so monitoring is essential.
+  - Infection: a risk after surgery; signs include fever and wound problems.
+  - Blood clots: reduced mobility raises the risk; report leg swelling or breathlessness.
+  - Cognitive impairment: changes in memory and thinking from the tumor, surgery, or
+    treatment.
+  - Mood disorders: depression and anxiety are common and treatable.
+
+
+==========================================================================================
+16. EMERGENCY WARNING SIGNS
+==========================================================================================
+
+Get emergency medical help right away if you or the patient has any of these:
+
+  - A sudden, severe ('worst ever') headache.
+  - A new seizure or a seizure lasting more than 5 minutes.
+  - Loss of consciousness or unresponsiveness.
+  - Repeated vomiting with headache.
+  - Sudden confusion or difficulty speaking or understanding.
+  - Sudden weakness or paralysis, especially on one side.
+  - Sudden vision loss or double vision.
+  - Difficulty breathing or a change in alertness.
+  - Rapidly worsening symptoms of any kind.
+
+  [ NOTE ]
+  These can signal dangerous pressure in the brain, bleeding, or a prolonged seizure. Do
+  not wait — call emergency services or go to the nearest hospital.
+
+
+==========================================================================================
+17. FOLLOW-UP SCHEDULE
+==========================================================================================
+
+Regular follow-up watches for tumor changes and manages side effects. Your exact schedule
+depends on the grade and treatment.
+
+  - Initial follow-up: usually within a few weeks of surgery to check healing and results.
+  - MRI scans: often every 2–3 months at first for high-grade tumors, spacing out over
+    time if stable; low-grade tumors are scanned less often but still regularly.
+  - Blood tests: during chemotherapy to check blood counts and organ function.
+  - Neurological examination: at each visit to track strength, speech, vision, and
+    thinking.
+  - Long-term monitoring: continues for years because gliomas can recur.
+  - Recurrence surveillance: any new or worsening symptoms prompt an earlier scan.
+
+
+==========================================================================================
+18. LONG-TERM OUTLOOK
+==========================================================================================
+
+The outlook for a glioma varies more than almost any other tumor because it depends on
+grade, genetics, location, treatment response, age, and overall health.
+
+  - Prognosis: low-grade gliomas can be managed for many years; high-grade gliomas are
+    more serious but treatment can extend and improve life.
+  - Quality of life: many people live active lives, especially with rehabilitation and
+    symptom control.
+  - Recurrence risk: real for all grades, highest for high-grade tumors, which is why
+    monitoring continues.
+  - Living with the condition: routines, support, and clear communication with your team
+    help you cope.
+  - Psychological support: counselling and support groups help patients and caregivers
+    manage fear and uncertainty.
+
+Only your own specialists can give an outlook based on your specific tumor. General
+survival statistics describe groups, not individuals, and treatments continue to improve.
+
+
+==========================================================================================
+19. PREVENTION AND RISK REDUCTION
+==========================================================================================
+
+There is currently no proven way to prevent gliomas, but general steps support brain
+health and overall wellbeing.
+
+  - Healthy lifestyle: balanced diet, regular activity, good sleep, and not smoking.
+  - Avoid unnecessary radiation exposure: only have medical imaging that is clinically
+    needed.
+  - Manage chronic conditions: control blood pressure, diabetes, and cholesterol for
+    overall brain health.
+  - Regular medical check-ups: report persistent headaches, seizures, or new neurological
+    symptoms promptly.
+  - Screening: there is no routine screening for gliomas in the general population;
+    imaging is done when symptoms or risk factors are present.
+  - What cannot be prevented: most gliomas arise without a known, avoidable cause, so a
+    diagnosis is not the patient's fault.
+
+
+==========================================================================================
+20. FREQUENTLY ASKED QUESTIONS (FAQ)
+==========================================================================================
+
+Below are common questions from patients and caregivers. Answers are general; your own
+medical team can give advice for your specific situation.
+
+
+  Q1. What is a glioma?
+  ---------------------
+
+A glioma is a brain tumor that grows from the glial cells that support the brain's nerve
+cells. It can be slow-growing (low-grade) or fast-growing (high-grade).
+
+
+  Q2. Is a glioma cancer?
+  -----------------------
+
+It can be. Low-grade gliomas are less aggressive, while high-grade gliomas (like
+glioblastoma) are malignant, meaning cancerous. Your grade determines this.
+
+
+  Q3. Can a glioma spread to other parts of my body?
+  --------------------------------------------------
+
+Gliomas almost never spread outside the brain and spinal cord. However, they can spread
+into nearby brain tissue, which is why they can be hard to fully remove.
+
+
+  Q4. Will I need surgery?
+  ------------------------
+
+Often yes, to remove as much tumor as is safe and to confirm the diagnosis. Some small,
+low-grade gliomas may be watched instead. Your surgeon will advise.
+
+
+  Q5. Can a glioma come back after treatment?
+  -------------------------------------------
+
+Yes. Gliomas, especially high-grade ones, can recur, which is why regular MRI monitoring
+continues for years.
+
+
+  Q6. Is a glioma hereditary?
+  ---------------------------
+
+Usually not. Most occur by chance. A small number are linked to rare inherited syndromes;
+tell your doctor if several relatives have had brain tumors.
+
+
+  Q7. Did my phone or lifestyle cause this?
+  -----------------------------------------
+
+There is no proven link between mobile phones or ordinary lifestyle and gliomas. In most
+people the cause is unknown and not the patient's fault.
+
+
+  Q8. Can I drive?
+  ----------------
+
+Driving is usually paused after a seizure or brain surgery. You can often return after a
+seizure-free period and medical and licensing clearance, which varies by region.
+
+
+  Q9. Can I travel?
+  -----------------
+
+Many people can travel once stable and cleared by their doctor. Plan around treatment,
+carry medicines and a medical summary, and ask about seizure risk.
+
+
+  Q10. Can I fly?
+  ---------------
+
+Flying is generally safe once your doctor agrees, but avoid flying soon after brain
+surgery until cleared, as pressure changes and clot risk are considered.
+
+
+  Q11. Can I work?
+  ----------------
+
+Many people return to work, sometimes with adjustments. Timing depends on your symptoms,
+treatment, and job. Discuss a gradual return with your team.
+
+
+  Q12. Can I exercise?
+  --------------------
+
+Gentle activity is encouraged during recovery. Avoid contact sports and high-risk
+activities until cleared, especially if seizures are possible.
+
+
+  Q13. Can I have children / is pregnancy safe?
+  ---------------------------------------------
+
+This needs careful planning. Some treatments affect fertility or are unsafe in pregnancy.
+Discuss fertility preservation and timing with your specialists before treatment.
+
+
+  Q14. Can I drink alcohol?
+  -------------------------
+
+It is best to avoid or strictly limit alcohol, as it can interact with anti-seizure and
+chemotherapy medicines and affect the brain.
+
+
+  Q15. Is an MRI safe?
+  --------------------
+
+Yes. MRI uses magnets, not radiation, and is very safe. Tell staff about any metal
+implants or a pacemaker. Contrast dye is generally safe but your kidney function may be
+checked.
+
+
+  Q16. Will I lose my memory?
+  ---------------------------
+
+Some people have memory or concentration problems from the tumor, surgery, or treatment.
+Cognitive rehabilitation and strategies often help, and some effects improve over time.
+
+
+  Q17. What symptoms require emergency care?
+  ------------------------------------------
+
+A first seizure, a seizure over 5 minutes, sudden severe headache, repeated vomiting,
+sudden weakness, confusion, speech or vision loss, or loss of consciousness — seek
+emergency care at once.
+
+
+  Q18. How often will I need follow-up scans?
+  -------------------------------------------
+
+Often every 2–3 months at first for high-grade tumors, spacing out if stable; low-grade
+tumors are scanned regularly but less often. Your team sets your schedule.
+
+
+  Q19. What is the difference between low-grade and high-grade?
+  -------------------------------------------------------------
+
+Low-grade (I–II) gliomas grow slowly and are less aggressive; high-grade (III–IV) gliomas
+grow fast and need more intensive treatment.
+
+
+  Q20. What is glioblastoma?
+  --------------------------
+
+Glioblastoma is a Grade IV glioma — the most aggressive type. It is treated intensively
+with surgery, radiation, and chemotherapy, and is an area of active research.
+
+
+  Q21. What do IDH and MGMT mean on my report?
+  --------------------------------------------
+
+These are genetic markers. An IDH mutation often means a better outlook, and MGMT status
+can predict response to chemotherapy. Your team uses them to plan treatment.
+
+
+  Q22. Will radiation make me sick?
+  ---------------------------------
+
+Radiation mainly causes tiredness, some hair loss in the treated area, and skin changes.
+Serious effects are less common. Fatigue improves after treatment ends.
+
+
+  Q23. What are the side effects of chemotherapy?
+  -----------------------------------------------
+
+Common effects include nausea, fatigue, and lower blood counts (raising infection risk).
+Anti-sickness medicines and blood tests help manage these.
+
+
+  Q24. Why am I taking steroids?
+  ------------------------------
+
+Steroids such as dexamethasone reduce brain swelling around the tumor, which can quickly
+relieve headaches and other symptoms. They are tapered carefully, not stopped suddenly.
+
+
+  Q25. Why do I have seizures?
+  ----------------------------
+
+A glioma can irritate the surrounding brain and trigger seizures. Anti-seizure medicines
+usually control them; take them exactly as prescribed.
+
+
+  Q26. Can the tumor be completely removed?
+  -----------------------------------------
+
+Sometimes, if it is in a safe area. Because gliomas grow into surrounding brain, complete
+removal is not always possible, so other treatments are added.
+
+
+  Q27. Is a glioma contagious?
+  ----------------------------
+
+No. You cannot catch or pass on a brain tumor. It is not an infection.
+
+
+  Q28. Will I need rehabilitation?
+  --------------------------------
+
+Possibly. If the tumor or surgery affects movement, speech, or thinking, physiotherapy,
+occupational, speech, and cognitive therapy can help you recover skills.
+
+
+  Q29. How is a glioma diagnosed for certain?
+  -------------------------------------------
+
+Imaging (MRI) suggests it, but a firm diagnosis and grade usually need a biopsy — a tissue
+sample examined under a microscope.
+
+
+  Q30. Can I take supplements or herbal remedies?
+  -----------------------------------------------
+
+Check with your team first. Some supplements interfere with chemotherapy or radiation. A
+balanced diet is usually the safest source of nutrients.
+
+
+  Q31. Will my personality change?
+  --------------------------------
+
+Frontal-lobe tumors can affect mood and behaviour. Some changes improve with treatment;
+support and counselling help patients and families cope.
+
+
+  Q32. Can children get gliomas?
+  ------------------------------
+
+Yes. Some gliomas occur in children, and certain low-grade types in children have a good
+outlook after surgery.
+
+
+  Q33. How long is the hospital stay after surgery?
+  -------------------------------------------------
+
+Often about 2–5 days for a craniotomy if recovery is smooth, then continued recovery and
+possibly rehabilitation at home.
+
+
+  Q34. Is a glioma painful?
+  -------------------------
+
+The brain itself does not feel pain, but raised pressure can cause headaches. Pain is
+managed as part of your care.
+
+
+  Q35. Can I use my phone and computer normally?
+  ----------------------------------------------
+
+Yes. Normal device use does not harm the brain or the tumor. Take breaks if screens worsen
+headaches or fatigue.
+
+
+  Q36. What is a clinical trial and should I consider one?
+  --------------------------------------------------------
+
+A clinical trial tests new treatments. For gliomas, trials can offer access to promising
+therapies. Ask your team whether a suitable trial is available.
+
+
+  Q37. Will I be able to look after my family?
+  --------------------------------------------
+
+Many people continue caring roles with support and adjustments. Plan help for high-risk
+periods such as just after surgery or during intensive treatment.
+
+
+  Q38. How do I cope with fear and uncertainty?
+  ---------------------------------------------
+
+These feelings are normal. Counselling, support groups, relaxation, and open talks with
+your team and family all help. Ask for psychological support.
+
+
+  Q39. Does diet cure a glioma?
+  -----------------------------
+
+No diet cures a glioma, but good nutrition supports recovery and helps you tolerate
+treatment. Be cautious of unproven 'cure' diets.
+
+
+  Q40. What happens if the glioma recurs?
+  ---------------------------------------
+
+Recurrence is managed with further surgery, radiation, chemotherapy, or trials, depending
+on the situation. Your team will discuss the best options.
+
+
+  Q41. Who is on my care team?
+  ----------------------------
+
+Usually a neurosurgeon, neuro-oncologist, radiation oncologist, radiologist, pathologist,
+nurses, and rehabilitation therapists, working together on your plan.
+
+
+==========================================================================================
+21. METADATA FOR RETRIEVAL
+==========================================================================================
+
+Structured tags to help the AI assistant retrieve this document accurately.
+
+  +----------------------------+--------------------------------------------+
+  | Field                      | Value                                      |
+  +----------------------------+--------------------------------------------+
+  | Tumor Name                 | Glioma                                     |
+  +----------------------------+--------------------------------------------+
+  | Alternative Names          | Astrocytoma, Oligodendroglioma,            |
+  |                            | Ependymoma, Glioblastoma (GBM), high-grade |
+  |                            | glioma, low-grade glioma                   |
+  +----------------------------+--------------------------------------------+
+  | WHO Grade                  | WHO Grade I–IV (varies by subtype)         |
+  +----------------------------+--------------------------------------------+
+  | Tumor Category             | Primary brain tumor of glial cells         |
+  +----------------------------+--------------------------------------------+
+  | Brain Region               | Cerebral hemispheres (may occur anywhere   |
+  |                            | in brain/spinal cord)                      |
+  +----------------------------+--------------------------------------------+
+  | Benign or Malignant        | Ranges from benign/low-grade to            |
+  |                            | malignant/high-grade                       |
+  +----------------------------+--------------------------------------------+
+  | Typical Symptoms           | Headache, seizures, weakness,              |
+  |                            | speech/vision changes, memory and          |
+  |                            | personality changes, vomiting              |
+  +----------------------------+--------------------------------------------+
+  | Diagnostic Methods         | Neurological exam, MRI, contrast MRI, CT,  |
+  |                            | PET, MR spectroscopy, fMRI, biopsy,        |
+  |                            | molecular testing                          |
+  +----------------------------+--------------------------------------------+
+  | MRI Characteristics        | Infiltrative mass, irregular borders,      |
+  |                            | variable enhancement (ring enhancement in  |
+  |                            | high grade), edema, necrosis, sometimes    |
+  |                            | calcification                              |
+  +----------------------------+--------------------------------------------+
+  | Treatment Options          | Surgery (craniotomy), radiation,           |
+  |                            | chemotherapy (temozolomide), targeted      |
+  |                            | therapy, steroids, clinical trials         |
+  +----------------------------+--------------------------------------------+
+  | Recovery Duration          | Surgery 4–6 weeks initial; radiation/chemo |
+  |                            | over months; rehab weeks to months         |
+  +----------------------------+--------------------------------------------+
+  | Follow-Up Frequency        | MRI every 2–3 months initially for high    |
+  |                            | grade, spacing out if stable               |
+  +----------------------------+--------------------------------------------+
+  | Common Complications       | Edema, hydrocephalus, seizures,            |
+  |                            | neurological deficits, recurrence,         |
+  |                            | cognitive and mood changes                 |
+  +----------------------------+--------------------------------------------+
+  | Emergency Symptoms         | New/prolonged seizure, sudden severe       |
+  |                            | headache, repeated vomiting, paralysis,    |
+  |                            | loss of consciousness                      |
+  +----------------------------+--------------------------------------------+
+  | Keywords                   | glioma, brain tumor, glioblastoma,         |
+  |                            | astrocytoma, oligodendroglioma, WHO grade, |
+  |                            | IDH, MGMT, craniotomy, temozolomide        |
+  +----------------------------+--------------------------------------------+
+  | Synonyms                   | Glial tumor, brain glioma,                 |
+  |                            | malignant/benign glioma                    |
+  +----------------------------+--------------------------------------------+
+  | Related Medical Conditions | Brain edema, epilepsy/seizures,            |
+  |                            | hydrocephalus, neurofibromatosis,          |
+  |                            | Li-Fraumeni syndrome                       |
+  +----------------------------+--------------------------------------------+
+

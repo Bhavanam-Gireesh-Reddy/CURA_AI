@@ -1,0 +1,814 @@
+==========================================================================================
+                       CLASS 6 – WRIST FRACTURE: PATIENT CARE GUIDE                       
+==========================================================================================
+
+A patient-friendly guide for people with a wrist fracture — a break near the wrist, most
+often in the lower end of the radius (distal radius) and sometimes the ulna or the small
+carpal bones such as the scaphoid. It covers causes, symptoms, diagnosis, treatment,
+healing, exercises, warning signs, and common questions.
+
+  [ NOTE ]
+  Medical disclaimer: This document is an educational reference created for a
+  patient-support knowledge base and for use in a retrieval-augmented (RAG) AI assistant.
+  It is NOT a substitute for professional medical advice, diagnosis, or treatment. Healing
+  times, medicines, and exercises differ for every person. Always follow the instructions
+  of your own doctor, orthopaedic surgeon, or physiotherapist. In an emergency, contact
+  local emergency services immediately.
+
+
+1. INTRODUCTION
+---------------
+
+A wrist fracture is a break in one of the bones at or near the wrist. The most common type
+is a distal radius fracture — a break in the lower end of the radius, the larger forearm
+bone, just above the wrist. It is also called a broken wrist.
+
+Which bones are involved: most often the distal radius; sometimes the lower end of the
+ulna, and the small carpal bones of the wrist, especially the scaphoid. A Colles' fracture
+(the broken piece tilts backward) is a very common named pattern.
+
+Common causes: falling onto an outstretched hand, sports injuries, road accidents, and
+direct blows. How common it is: wrist fractures are among the most common of all
+fractures, seen frequently in children, active adults, and older adults with osteoporosis.
+
+Who is at higher risk: older adults with weak bones (a wrist fracture is often the first
+sign of osteoporosis), children, athletes, and people who fall. Severity ranges from an
+undisplaced crack (mild) to a displaced, joint-involving, or open fracture (severe).
+
+
+  Types of Fractures Affecting This Bone
+
+A wrist fracture can happen in several patterns. Common fracture types include:
+
+  - Hairline fracture (a very thin, small crack in the bone).
+  - Stress fracture (a tiny crack caused by repeated force or overuse).
+  - Greenstick fracture (the bone bends and cracks on one side; common in children).
+  - Closed fracture (the bone breaks but the skin stays intact).
+  - Open (compound) fracture (the broken bone breaks through the skin).
+  - Comminuted fracture (the bone breaks into three or more pieces).
+  - Spiral fracture (a break that twists around the bone, often from a twisting injury).
+  - Impacted fracture (the broken ends are driven into each other).
+  - Transverse fracture (a straight break across the bone).
+  - Oblique fracture (a slanted or angled break across the bone).
+
+Common wrist patterns include Colles' fracture (backward tilt), Smith's fracture (forward
+tilt), and scaphoid fractures of a small wrist bone, which can be slow to heal because of
+a limited blood supply.
+
+
+2. ANATOMY
+----------
+
+The wrist is a complex joint of forearm and small hand bones, tendons, and nerves.
+
+  - Bones involved: the distal radius and ulna (the lower ends of the forearm bones) and
+    the eight small carpal bones, including the scaphoid, that form the wrist.
+  - Nearby muscles: the forearm flexor and extensor muscles move the wrist and fingers
+    through long tendons that cross the wrist.
+  - Tendons: many tendons pass across the wrist to move the fingers and thumb; swelling or
+    injury here can limit hand movement.
+  - Ligaments: strong ligaments hold the carpal bones and the radius and ulna together and
+    keep the wrist stable.
+  - Blood vessels: the radial and ulnar arteries pass the wrist to supply the hand; the
+    scaphoid has a fragile blood supply, which can slow its healing.
+  - Nerves: the median nerve runs through the carpal tunnel at the wrist; swelling from a
+    fracture can press on it and cause numbness or tingling in the fingers.
+
+Because the median nerve and many tendons pass through the wrist, a fracture with swelling
+can cause finger numbness (like carpal tunnel) or stiffness. A distal radius fracture that
+heals in a poor position can limit wrist and forearm movement, so alignment and exercises
+matter.
+
+
+3. COMMON CAUSES
+----------------
+
+Most fractures happen when a force is stronger than the bone can handle. The main causes
+are:
+
+  - Falls: slipping, tripping, or falling onto an outstretched hand or arm — the most
+    common cause overall.
+  - Road traffic accidents: high-speed impacts from car, motorbike, or cycle crashes.
+  - Sports injuries: contact sports, skating, cycling, gymnastics, and falls during play.
+  - Workplace accidents: falls from height, machinery injuries, or heavy objects.
+  - Direct trauma: a hard blow or hit directly on the bone.
+  - Twisting injuries: the limb turns while the hand or body stays fixed.
+  - Heavy object injuries: something heavy falling onto the limb.
+  - Osteoporosis: weak, thin bones that break easily, especially in older adults.
+  - Bone tumors: growths that weaken the bone (pathological fracture).
+  - Repetitive stress: repeated overuse leading to stress fractures over time.
+
+For the wrist specifically, a fall onto an outstretched hand (a FOOSH injury) is by far
+the most common cause.
+
+
+4. SYMPTOMS
+-----------
+
+Common signs and symptoms of a wrist fracture include:
+
+  - Pain in the wrist, worse with movement or gripping.
+  - Swelling around the wrist and lower forearm.
+  - Bruising or discolouration.
+  - A deformed wrist, sometimes with a 'dinner-fork' shape (Colles' fracture).
+  - Difficulty moving the wrist or turning the palm.
+  - Numbness or tingling in the fingers (possible median nerve pressure).
+  - Reduced grip strength or trouble holding objects.
+  - Tenderness in the 'anatomical snuffbox' at the thumb base (possible scaphoid
+    fracture).
+  - In an open fracture, bone may be visible through a wound.
+
+  [ NOTE ]
+  Emergency warning signs: a cold, pale, or blue hand, spreading or severe finger
+  numbness, uncontrolled bleeding, a severely deformed wrist, or bone through the skin.
+  Seek emergency care immediately.
+
+
+5. DIAGNOSIS
+------------
+
+Doctors confirm a fracture using a physical check and imaging tests. Each test gives
+different information.
+
+
+  Physical Examination and Medical History
+
+The doctor asks how the injury happened and checks for pain, swelling, bruising,
+deformity, tenderness, movement, pulse, skin colour, and sensation. Telling the doctor
+about past fractures, osteoporosis, medicines, and other illnesses helps plan the right
+treatment.
+
+
+  Imaging Tests
+
+  - X-ray: the first and main test. It shows most fractures, the exact location, and
+    whether the bone has moved out of place (displacement).
+  - CT scan: gives detailed 3-D images. Used for complex breaks, joint involvement, or
+    when the X-ray is unclear, to plan surgery.
+  - MRI: shows soft tissues, bone bruising, and hairline or stress fractures that may not
+    appear on an X-ray. Also checks nearby ligaments, tendons, and nerves.
+  - Ultrasound: sometimes used, especially in children, to look at bone surfaces and
+    soft-tissue swelling without radiation.
+  - Bone scan: can detect very small stress fractures or hidden fractures that other tests
+    miss, by showing areas of increased bone activity.
+
+For a wrist fracture, X-rays of the wrist from more than one angle are the main test. A CT
+scan may be used for complex or joint-surface fractures before surgery. An MRI or bone
+scan is often used for a suspected scaphoid fracture, because it may not show on early
+X-rays but needs treatment to avoid healing problems.
+
+
+6. TREATMENT OPTIONS
+--------------------
+
+Treatment depends on the type of break, how far the bone has moved, and your age and
+health. It falls into non-surgical and surgical options.
+
+
+  Non-Surgical Treatment
+
+Many wrist fractures, especially undisplaced ones or those that can be gently set, heal
+well without surgery.
+
+  - Cast: a plaster or fibreglass cast (usually below the elbow) holds the wrist while it
+    heals, commonly for several weeks. A scaphoid fracture may need a thumb-including
+    cast.
+  - Splint: used first, especially with swelling, before a full cast.
+  - Closed reduction: for a displaced fracture, the doctor gently realigns the bone (often
+    with local anaesthetic) before applying the cast.
+  - Brace: a removable wrist brace may be used in later healing for some fractures.
+  - Ice therapy: reduces pain and swelling in the first days.
+  - Elevation: keeping the hand raised above heart level reduces swelling.
+  - Pain medications: paracetamol for pain relief.
+  - Anti-inflammatory medicines: such as ibuprofen, if approved by your doctor.
+
+When recommended: non-surgical care suits stable fractures where the bone is in a good
+position. Advantages: no surgery, lower infection risk, and no anaesthesia. Limitations:
+needs a well-set position, the cast can cause stiffness, and it may not hold badly
+displaced or unstable fractures.
+
+
+  Surgical Treatment
+
+Surgery is used when the bone is badly out of place, broken into many pieces, involves a
+joint, is an open (compound) fracture, or fails to heal with a cast. The aim is to put the
+pieces back in the correct position and hold them still while they heal.
+
+  - ORIF (Open Reduction Internal Fixation): the surgeon opens the skin, sets the bone in
+    the right position (reduction), and fixes it with metal implants.
+  - Plates: flat metal supports screwed along the bone to hold the pieces together.
+  - Screws: hold fragments together, alone or with a plate.
+  - Pins (K-wires): thin wires that hold small pieces, often used in fingers and in
+    children; usually removed later.
+  - Rods (intramedullary nails): metal rods placed inside the hollow centre of a long bone
+    to support it.
+  - External fixator: a frame outside the body connected to the bone by pins; used for
+    severe, open, or badly contaminated fractures.
+  - Bone graft: extra bone (from your own body or a donor) added to help healing when
+    there is bone loss or slow healing.
+
+Indications (when surgery is needed): displaced or unstable fractures, fractures involving
+the wrist joint surface, fractures that slip out of position in a cast, open fractures,
+and displaced scaphoid fractures. The distal radius is often fixed with a plate and
+screws; some fractures use pins or an external fixator, and scaphoid fractures may be
+fixed with a special screw.
+
+
+  Recovery Expectations and Risks After Surgery
+
+  - Recovery: a protective cast, splint, or sling is often used after surgery, followed by
+    physiotherapy. Implants usually stay in place unless they cause problems.
+  - Risks: infection, bleeding, nerve or blood vessel injury, implant irritation or
+    loosening, stiffness, blood clots, and reaction to anaesthesia.
+  - Most people regain good function, but full recovery takes weeks to months and depends
+    on the injury and following rehabilitation.
+
+
+7. HEALING TIMELINE
+-------------------
+
+Healing time varies by age, general health, fracture type, and how well instructions are
+followed. The table gives typical ranges.
+
+  +--------------+--------------------------------------------+
+  | Group        | Typical healing / recovery                 |
+  +--------------+--------------------------------------------+
+  | Children     | Often 4–6 weeks to unite; children's       |
+  |              | wrists heal and remodel well.              |
+  +--------------+--------------------------------------------+
+  | Adults       | Distal radius about 6–8 weeks; scaphoid    |
+  |              | often 8–12 weeks or longer.                |
+  +--------------+--------------------------------------------+
+  | Older adults | 8 weeks or more; healing slower with       |
+  |              | osteoporosis.                              |
+  +--------------+--------------------------------------------+
+  | Athletes     | Union in 6–8 weeks; return to sport often  |
+  |              | 8–12 weeks with protection.                |
+  +--------------+--------------------------------------------+
+
+Stages of healing: initial healing (inflammation and soft callus) in the first weeks, bone
+union (hard callus bridges the break), and functional recovery (regaining strength and
+movement). Regaining full wrist bending and forearm rotation, plus grip strength, is the
+main functional goal.
+
+  - Return to work: desk work in 1–2 weeks; heavy manual work often 8–12 weeks or after
+    clearance.
+  - Return to sports: non-contact around 8 weeks; contact sports usually 10–12 weeks with
+    a guard.
+  - Full recovery: 3–6 months for full grip and movement; scaphoid fractures can take
+    longer.
+
+Factors that delay healing: smoking, alcohol, poor nutrition, diabetes, osteoporosis,
+infection, poor blood supply, older age, certain medicines (such as steroids), and not
+resting the injured limb.
+
+
+8. RECOVERY STAGES
+------------------
+
+Knowing what to expect at each stage helps you feel reassured. Your own timeline may
+differ slightly.
+
+  +----------+--------------------------------------------+
+  | Stage    | What usually happens                       |
+  +----------+--------------------------------------------+
+  | Week 1   | Most pain and swelling; hand kept raised;  |
+  |          | move fingers, elbow, and shoulder.         |
+  +----------+--------------------------------------------+
+  | Week 2   | Pain settling; swelling reducing; keep     |
+  |          | fingers and thumb moving fully.            |
+  +----------+--------------------------------------------+
+  | Week 3–4 | Cast continues; bone knitting; finger      |
+  |          | stiffness is common — keep them moving.    |
+  +----------+--------------------------------------------+
+  | Week 5–8 | Bone uniting; cast often removed toward    |
+  |          | the end; gentle wrist movement begins.     |
+  +----------+--------------------------------------------+
+  | Month 3  | Bone usually united; physiotherapy for     |
+  |          | wrist movement and grip strength.          |
+  +----------+--------------------------------------------+
+  | Month 6  | Most grip and movement restored; heavier   |
+  |          | tasks resumed.                             |
+  +----------+--------------------------------------------+
+
+
+9. DAILY CARE INSTRUCTIONS
+--------------------------
+
+  - Keep the cast dry: cover it with a plastic bag while bathing; a wet cast weakens and
+    irritates the skin.
+  - Sleeping position: rest the hand on a pillow, slightly raised, to reduce night
+    swelling; avoid lying on the injured wrist.
+  - Bathing: use a waterproof cover or sponge-bathe; dry the cast edges if damp.
+  - Clothing: wear loose sleeves; remove rings early because swelling can trap them.
+  - Walking: unaffected — normal walking is fine; a sling adds comfort early on.
+  - Driving: avoid driving while in a wrist cast or when you cannot grip and turn the
+    wheel safely.
+  - Returning to office: light desk work is often possible within days to 1–2 weeks.
+  - Returning to school: children can usually attend, avoiding sport and rough play.
+  - Household activities: avoid gripping, lifting, wringing, and weight-bearing on the
+    wrist.
+
+
+10. PAIN MANAGEMENT
+-------------------
+
+Some pain is normal after a fracture, especially in the first days. These safe, simple
+methods help control it.
+
+  - Ice packs: wrap ice in a cloth and apply for 15–20 minutes several times a day to
+    reduce pain and swelling (never put ice directly on the skin).
+  - Elevation: keep the injured limb raised above the level of the heart to reduce
+    throbbing and swelling.
+  - Rest: avoid using the injured limb for gripping, lifting, or bearing weight.
+  - Painkillers: paracetamol (acetaminophen) is commonly used. Anti-inflammatory medicines
+    such as ibuprofen may be advised. Take only the dose your doctor approves.
+  - Safe positioning: support the limb on a pillow and avoid letting it hang down.
+  - Relaxation techniques: slow breathing, distraction, and gentle music can reduce the
+    sensation of pain.
+
+  [ NOTE ]
+  When pain is abnormal: pain that suddenly becomes severe, is not relieved by medicine,
+  comes with numbness, a cold or blue hand, or a very tight cast may signal a serious
+  problem such as compartment syndrome or poor blood supply. Seek medical help urgently.
+
+
+11. DIET FOR BONE HEALING
+-------------------------
+
+Good nutrition speeds up bone healing. The nutrients below all play a role. Try to eat a
+balanced diet that includes them every day, and follow any special diet advice from your
+doctor or dietitian.
+
+
+  Key Nutrients for Bone Healing
+
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Nutrient     | Why it helps & daily intake                | Vegetarian sources                         | Non-vegetarian sources                     |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Calcium      | Main mineral that builds and repairs bone. | Milk, curd, paneer, cheese, ragi, tofu,    | Small fish eaten with bones (sardines),    |
+  |              | About 1000–1200 mg/day for adults.         | green leafy vegetables, sesame seeds       | dairy                                      |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin D    | Helps the body absorb calcium. About       | Sunlight, fortified milk and cereals,      | Egg yolk, fatty fish (salmon, mackerel),   |
+  |              | 600–800 IU/day (more if deficient).        | mushrooms                                  | fish liver oil                             |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Protein      | Builds the collagen framework of bone.     | Dal, beans, chickpeas, rajma, soya,        | Eggs, chicken, fish, lean meat             |
+  |              | About 1.0–1.5 g per kg body weight.        | paneer, tofu, nuts                         |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin C    | Needed to make collagen for bone repair.   | Oranges, lemon, amla, guava, capsicum,     | (Mainly from plant foods)                  |
+  |              | About 65–90 mg/day.                        | tomato, broccoli                           |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin K    | Helps bind calcium into bone. About 90–120 | Spinach, kale, broccoli, cabbage, green    | Eggs, some dairy                           |
+  |              | mcg/day.                                   | leafy vegetables                           |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Magnesium    | Supports bone structure and vitamin D use. | Nuts, seeds, whole grains, bananas, dark   | Fish                                       |
+  |              | About 310–420 mg/day.                      | leafy greens                               |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Phosphorus   | Works with calcium to harden bone. About   | Dairy, beans, lentils, whole grains, nuts  | Meat, fish, poultry, eggs                  |
+  |              | 700 mg/day.                                |                                            |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Zinc         | Helps bone cells grow and repair. About    | Whole grains, legumes, seeds, nuts         | Meat, shellfish, eggs                      |
+  |              | 8–11 mg/day.                               |                                            |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Omega-3 fats | Reduce inflammation and support healing.   | Flaxseed, chia seeds, walnuts, soybean oil | Fatty fish (salmon, mackerel, sardines)    |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Collagen     | Forms the flexible base of bone. Supported | Body makes it from protein-rich plant      | Bone broth, chicken, fish, eggs            |
+  |              | by protein + vitamin C.                    | foods + vitamin C                          |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+
+Drink enough water and, if your doctor recommends, take calcium and vitamin D supplements.
+Do not take high-dose supplements on your own without medical advice.
+
+
+12. FOODS TO AVOID
+------------------
+
+Some foods and habits slow bone healing by reducing calcium absorption, increasing
+inflammation, or harming blood supply. Limit or avoid the following while your fracture
+heals.
+
+  - Alcohol: slows new bone formation and reduces calcium and vitamin D use. Best avoided
+    completely during healing.
+  - Smoking and tobacco: reduce blood flow to the bone and are a leading cause of delayed
+    healing and nonunion. Stopping greatly improves healing.
+  - Sugary foods: too much sugar can increase inflammation and displace healthy foods.
+  - Soft drinks and colas: high phosphoric acid and sugar may reduce calcium balance.
+  - Excess caffeine: large amounts of coffee, tea, or energy drinks can reduce calcium
+    absorption; keep intake moderate.
+  - Processed and packaged food: often high in salt and low in nutrients.
+  - High sodium (salt) intake: makes the body lose more calcium in urine.
+  - Junk and deep-fried food: high in unhealthy fat and low in bone-building nutrients.
+
+In short, a fresh, home-cooked, balanced diet with less salt, sugar, alcohol, and no
+smoking gives your bone the best chance to heal quickly.
+
+
+13. PHYSICAL THERAPY AND REHABILITATION EXERCISES
+-------------------------------------------------
+
+Physiotherapy restores movement, strength, and function. Start only when your doctor
+allows, and stop any exercise that causes sharp or increasing pain. Below are typical
+stages — your therapist will tailor them to you.
+
+
+  Early Stage
+
+  - Finger, thumb, elbow, and shoulder movements while in the cast — purpose: prevent
+    stiffness and swelling. Repetitions: gentle, 10 each, several times daily. Precaution:
+    keep the wrist still.
+  - Making a gentle fist and opening the hand — purpose: keep tendons gliding and reduce
+    swelling.
+
+
+  Middle Stage
+
+  - Wrist bending up and down (after cast removal) — purpose: restore wrist movement.
+    Repetitions: 10 each way, 2–3 times daily. Precaution: gentle stretch only.
+  - Forearm rotation (turning palm up and down) — purpose: regain rotation. Repetitions:
+    10 slow turns.
+  - Side-to-side wrist movements — purpose: restore full wrist motion.
+
+
+  Advanced Stage
+
+  - Grip strengthening with a soft ball or putty — purpose: rebuild grip. Repetitions:
+    10–15 squeezes, 2–3 sets. Precaution: start light.
+  - Resistance-band wrist and forearm exercises — purpose: build strength and endurance.
+  - Weight-bearing and load progression (for example, gentle press-ups against a wall) —
+    purpose: prepare for full use. Precaution: increase slowly; stop if pain returns.
+
+  [ NOTE ]
+  General exercise precautions: move slowly, never push through sharp pain, stop if you
+  feel numbness or dizziness, and follow the exact repetitions your therapist advises.
+  When to stop: stop and call your therapist if pain worsens, swelling increases, or
+  movement suddenly decreases.
+
+
+14. ACTIVITIES TO AVOID DURING HEALING
+--------------------------------------
+
+Avoiding certain activities protects the healing bone and implants.
+
+  +--------------------------------------------+--------------------------------------------+
+  | Activity                                   | How long to avoid (typical)                |
+  +--------------------------------------------+--------------------------------------------+
+  | Gripping and lifting with the injured      | Until healed — often 6–8 weeks             |
+  | wrist                                      |                                            |
+  +--------------------------------------------+--------------------------------------------+
+  | Weight-bearing on the hand (press-ups,     | About 3 months or until cleared            |
+  | planks)                                    |                                            |
+  +--------------------------------------------+--------------------------------------------+
+  | Weight training that loads the wrist       | About 3 months or until cleared            |
+  +--------------------------------------------+--------------------------------------------+
+  | Contact sports (cricket, football,         | About 10–12 weeks, then use a wrist guard  |
+  | skating)                                   |                                            |
+  +--------------------------------------------+--------------------------------------------+
+  | Carrying heavy bags in that hand           | Until full strength returns (about 2–3     |
+  |                                            | months)                                    |
+  +--------------------------------------------+--------------------------------------------+
+  | Driving with the wrist in a cast           | Until the cast is off and grip is safe     |
+  +--------------------------------------------+--------------------------------------------+
+
+
+15. POSSIBLE COMPLICATIONS
+--------------------------
+
+Most fractures heal well, but knowing the possible problems helps you spot them early.
+Report any of these to your doctor.
+
+  - Delayed union: the bone heals more slowly than expected. Prevented by good nutrition,
+    not smoking, and following restrictions.
+  - Nonunion: the bone fails to join. Signs are ongoing pain and movement at the break
+    site; may need surgery or a bone graft.
+  - Malunion: the bone heals in the wrong position, causing deformity or reduced function;
+    sometimes needs correction.
+  - Infection: mainly with open fractures or after surgery. Signs are fever, redness,
+    warmth, swelling, pus, or bad smell.
+  - Stiffness: nearby joints become stiff from being kept still; prevented by
+    physiotherapy and gentle movement as advised.
+  - Nerve injury: causes numbness, tingling, or weakness; often improves but should be
+    checked.
+  - Blood vessel injury: rare but serious; causes a cold, pale, or blue limb and needs
+    emergency care.
+  - Chronic (long-lasting) pain: pain that continues after healing; managed with therapy
+    and pain specialists.
+  - Arthritis: joint fractures can lead to wear-and-tear arthritis years later.
+  - Reduced mobility: lasting loss of full movement, reduced by good rehabilitation.
+  - Complex Regional Pain Syndrome (CRPS): an uncommon condition with severe pain,
+    swelling, skin colour and temperature changes; early treatment gives the best result.
+
+
+16. RED FLAG SYMPTOMS — GO TO HOSPITAL IMMEDIATELY
+--------------------------------------------------
+
+Get emergency medical help right away if you notice any of the following. These can mean
+the blood supply, nerves, or the healing is in danger.
+
+  - Severe or rapidly increasing swelling.
+  - Fingers (or toes) turning blue, grey, or very pale.
+  - The hand or limb feels cold to touch.
+  - Numbness or loss of feeling that does not go away.
+  - Fever or chills (a sign of infection).
+  - Bleeding that will not stop.
+  - Severe pain that is not relieved by rest, elevation, or prescribed medicine.
+  - The cast becomes too tight or the limb feels squeezed.
+  - The cast breaks, cracks, or becomes loose.
+  - Pus, discharge, or fluid coming from under the cast or a wound.
+  - A bad smell coming from the cast or wound.
+  - Bone is visible through the skin (open fracture).
+  - Difficulty breathing, chest pain, or coughing after the injury (a possible blood clot
+    or fat embolism — a rare but serious emergency).
+
+  [ NOTE ]
+  Compartment syndrome warning: severe deep pain, tightness, numbness, and pain when the
+  fingers are gently stretched can signal dangerous pressure build-up. This is an
+  emergency — do not wait.
+
+
+17. FOLLOW-UP SCHEDULE
+----------------------
+
+Regular follow-up lets the doctor check that the bone is healing in the right position. A
+typical schedule is below.
+
+  +---------+--------------------------------------------+
+  | Visit   | What the doctor usually checks             |
+  +---------+--------------------------------------------+
+  | Week 1  | Check swelling, cast fit, finger movement, |
+  |         | feeling, and position on X-ray.            |
+  +---------+--------------------------------------------+
+  | Week 2  | Confirm the bone has not shifted           |
+  |         | (especially after reduction); adjust cast  |
+  |         | if needed.                                 |
+  +---------+--------------------------------------------+
+  | Week 4  | X-ray for early healing; check finger      |
+  |         | stiffness and pain.                        |
+  +---------+--------------------------------------------+
+  | Week 6  | Check union; the cast may be removed or    |
+  |         | changed to a brace; begin wrist movement.  |
+  +---------+--------------------------------------------+
+  | Week 12 | Confirm full union (longer follow-up for   |
+  |         | scaphoid); review grip, movement, and      |
+  |         | return to activity.                        |
+  +---------+--------------------------------------------+
+
+
+18. RETURNING TO NORMAL LIFE
+----------------------------
+
+These are general guides for when people usually return to activities. Always get your
+doctor's clearance first.
+
+  +--------------------+--------------------------------------------+
+  | Activity           | Typical time to return                     |
+  +--------------------+--------------------------------------------+
+  | School             | A few days to 1 week (no sport/rough play) |
+  +--------------------+--------------------------------------------+
+  | Office (desk job)  | A few days to 2 weeks                      |
+  +--------------------+--------------------------------------------+
+  | Driving            | After the cast is off and grip is safe —   |
+  |                    | often 6–8 weeks                            |
+  +--------------------+--------------------------------------------+
+  | Gym (upper body)   | About 3 months, avoiding wrist-loading     |
+  |                    | early                                      |
+  +--------------------+--------------------------------------------+
+  | Swimming           | After the cast is off and skin has healed  |
+  |                    | — about 8 weeks                            |
+  +--------------------+--------------------------------------------+
+  | Cycling            | Light cycling around 8 weeks (safe grip    |
+  |                    | needed; avoid falls)                       |
+  +--------------------+--------------------------------------------+
+  | Running            | Usually within 2–4 weeks (does not load    |
+  |                    | the wrist)                                 |
+  +--------------------+--------------------------------------------+
+  | Cricket / Football | About 10–12 weeks, often with a wrist      |
+  |                    | guard                                      |
+  +--------------------+--------------------------------------------+
+  | Weight lifting     | About 3 months, increasing wrist load      |
+  |                    | slowly                                     |
+  +--------------------+--------------------------------------------+
+
+
+19. PREVENTION OF FUTURE FRACTURES
+----------------------------------
+
+After one fracture, it is worth protecting your bones for the future. These steps lower
+the chance of breaking a bone again.
+
+  - Bone-strengthening exercises: regular resistance and muscle-strengthening activity
+    keeps bones dense.
+  - Weight-bearing exercise: walking, jogging, dancing, and stair climbing build bone
+    strength.
+  - Balance training: yoga, tai chi, and balance drills reduce falls, especially in older
+    adults.
+  - Vitamin D: from sunlight, diet, or supplements as advised, to help absorb calcium.
+  - Calcium intake: eat enough calcium-rich foods every day.
+  - Protective equipment: wrist guards, elbow pads, and helmets during sports and skating.
+  - Safe workplace habits: follow safety rules, use guards, and prevent falls from height.
+  - Sports safety: warm up, use correct technique, and wear the right gear.
+  - Fall prevention: good footwear, adequate lighting, and vision checks.
+  - Home safety tips: remove loose rugs, add grab bars, keep floors dry and clutter-free.
+  - Osteoporosis screening: a bone density (DEXA) scan for older adults and high-risk
+    people, with treatment if bones are weak.
+
+
+20. FREQUENTLY ASKED QUESTIONS (FAQ)
+------------------------------------
+
+
+  Q1. Can I move my fingers?
+
+Yes, and you should. Gently move your fingers, thumb, elbow, and shoulder while in the
+cast to prevent stiffness and reduce swelling. Keep the wrist itself still.
+
+
+  Q2. Can I sleep on the injured wrist?
+
+No. Rest the hand on a pillow, slightly raised, to reduce swelling and pain. Avoid lying
+on the injured wrist.
+
+
+  Q3. Can I remove the cast or splint?
+
+No. Never remove or cut your cast yourself. It must stay on until your doctor decides the
+bone has healed enough.
+
+
+  Q4. When can I drive?
+
+Usually only after the cast is off and you can grip and turn the wheel safely — often
+around 6–8 weeks. Confirm with your doctor.
+
+
+  Q5. Can I exercise?
+
+Yes, lower-body and cardio exercise is usually fine. Avoid wrist-loading and gripping
+exercises until cleared.
+
+
+  Q6. Can I lift weights?
+
+Not until the bone heals and grip is pain-free — usually about 3 months, starting light.
+
+
+  Q7. Is swelling normal?
+
+Some swelling is normal in the first days to weeks. Keep the hand raised and use ice.
+Report sudden, severe, or increasing swelling, or a cold/blue hand, urgently.
+
+
+  Q8. Is itching inside the cast normal?
+
+Yes, mild itching is common. Do not push objects inside to scratch, as this can injure the
+skin. Cool air can help.
+
+
+  Q9. Can I travel?
+
+Short travel is usually fine once pain is controlled. Keep the hand raised. Ask your
+doctor before long journeys.
+
+
+  Q10. Can I fly?
+
+Air travel is generally allowed; tell your doctor. Soon after a new cast, some doctors
+advise a split cast because swelling can increase at altitude.
+
+
+  Q11. Can I get the cast wet?
+
+No. Keep a standard plaster or fibreglass cast dry with a waterproof cover during bathing
+to protect the skin and cast.
+
+
+  Q12. How long should I wear the cast?
+
+A distal radius fracture is often casted about 4–6 weeks; a scaphoid fracture may need
+8–12 weeks or longer.
+
+
+  Q13. When should I see a doctor urgently?
+
+For a cold or blue hand, spreading finger numbness, severe pain, a very tight or broken
+cast, fever, or discharge from the cast.
+
+
+  Q14. Why do my fingers feel numb or tingly?
+
+Swelling can press on the median nerve at the wrist, causing carpal-tunnel-like numbness.
+Keep the hand raised and tell your doctor if it persists or worsens.
+
+
+  Q15. Why is my wrist so stiff after the cast?
+
+Weeks in a cast make the wrist stiff. This is common and improves with physiotherapy over
+several weeks.
+
+
+  Q16. Will I need surgery?
+
+Not always. Many wrist fractures heal in a cast. Surgery is used for displaced, unstable,
+joint, or open fractures, and displaced scaphoid fractures.
+
+
+  Q17. Do the plates or screws need removal?
+
+Usually they can stay for life and are removed only if they cause pain or irritation.
+
+
+  Q18. What is a scaphoid fracture and why is it special?
+
+The scaphoid is a small wrist bone with a fragile blood supply, so it can heal slowly or
+fail to heal. It often needs a longer cast or a screw, and careful follow-up.
+
+
+  Q19. Is some pain normal weeks later?
+
+Mild aching during healing and physiotherapy is normal. Sharp or worsening pain should be
+reviewed.
+
+
+  Q20. What foods help my wrist heal?
+
+Calcium, vitamin D, protein, and vitamin C support bone repair. Avoid smoking and alcohol,
+which slow healing.
+
+
+  Q21. Can I go to work?
+
+Desk work is often possible within days to two weeks. Heavy manual work usually needs 8–12
+weeks or clearance.
+
+
+  Q22. Will my wrist be weak after the cast comes off?
+
+Yes, temporary weakness and stiffness are normal. Physiotherapy and grip exercises restore
+strength and movement.
+
+
+  Q23. Can I type or use my phone?
+
+Light typing and texting with the fingers is usually fine if it does not hurt and the
+wrist stays supported in the cast.
+
+
+  Q24. Can I play sports again?
+
+Yes, most people do. Non-contact around 8 weeks and contact sports around 10–12 weeks,
+often with a wrist guard, after clearance.
+
+
+  Q25. How can I prevent another wrist fracture?
+
+Strengthen bones with exercise, get enough calcium and vitamin D, prevent falls, wear
+wrist guards in sport and skating, and get osteoporosis screening if you are at risk — a
+wrist fracture can be an early warning.
+
+
+21. METADATA (FOR RETRIEVAL)
+----------------------------
+
+Structured tags to help the AI assistant retrieve this document accurately.
+
+  +-------------------------+--------------------------------------------+
+  | Field                   | Value                                      |
+  +-------------------------+--------------------------------------------+
+  | Fracture Name           | Wrist Fracture                             |
+  +-------------------------+--------------------------------------------+
+  | Bones Involved          | Distal radius, distal ulna, carpal bones   |
+  |                         | (especially scaphoid)                      |
+  +-------------------------+--------------------------------------------+
+  | Body Region             | Upper limb (wrist)                         |
+  +-------------------------+--------------------------------------------+
+  | Common Causes           | Fall onto outstretched hand (FOOSH),       |
+  |                         | sports, road accidents, direct trauma,     |
+  |                         | osteoporosis                               |
+  +-------------------------+--------------------------------------------+
+  | Symptoms                | Pain, swelling, bruising, dinner-fork      |
+  |                         | deformity, stiffness, finger numbness,     |
+  |                         | weak grip                                  |
+  +-------------------------+--------------------------------------------+
+  | Treatment Options       | Cast, splint, closed reduction, brace;     |
+  |                         | ORIF with plate/screws, pins, external     |
+  |                         | fixator, scaphoid screw                    |
+  +-------------------------+--------------------------------------------+
+  | Healing Duration        | Distal radius 6–8 weeks; scaphoid 8–12+    |
+  |                         | weeks; full recovery 3–6 months            |
+  +-------------------------+--------------------------------------------+
+  | Rehabilitation Duration | 6–16 weeks of physiotherapy; grip strength |
+  |                         | returns gradually                          |
+  +-------------------------+--------------------------------------------+
+  | Emergency Signs         | Cold/blue hand, spreading numbness, tight  |
+  |                         | cast, open bone, compartment syndrome      |
+  +-------------------------+--------------------------------------------+
+  | Keywords                | wrist fracture, broken wrist, distal       |
+  |                         | radius fracture, Colles fracture, Smith    |
+  |                         | fracture, scaphoid fracture, FOOSH         |
+  +-------------------------+--------------------------------------------+
+  | Synonyms                | Broken wrist, cracked wrist bone, distal   |
+  |                         | radius break                               |
+  +-------------------------+--------------------------------------------+
+  | Related Injuries        | Forearm fracture, finger fracture, carpal  |
+  |                         | tunnel symptoms, scaphoid nonunion         |
+  +-------------------------+--------------------------------------------+
+

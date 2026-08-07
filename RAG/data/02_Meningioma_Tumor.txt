@@ -1,0 +1,903 @@
+==========================================================================================
+                  CLASS 2 – MENINGIOMA TUMOR: PATIENT & CAREGIVER GUIDE                   
+==========================================================================================
+
+An educational guide for people whose brain MRI suggests a meningioma — a tumor that grows
+from the meninges, the protective membranes covering the brain and spinal cord. It
+explains what a meningioma is, its grades, symptoms, diagnosis, MRI features, treatment,
+recovery, nutrition, rehabilitation, warning signs, outlook, and answers to common
+questions.
+
+  [ NOTE ]
+  Educational disclaimer: This document is for general education and for use in a
+  retrieval-augmented (RAG) AI assistant that supports patients after an MRI-based brain
+  scan. It is NOT a medical diagnosis and does NOT replace consultation with qualified
+  healthcare professionals such as a neurologist, neurosurgeon, or oncologist. Every
+  person is different, and only your own medical team can confirm a diagnosis and plan
+  treatment. If you have severe or sudden symptoms, seek emergency medical care
+  immediately.
+
+
+==========================================================================================
+1. OVERVIEW
+==========================================================================================
+
+A meningioma is a tumor that grows from the meninges — the thin layers of tissue that
+cover and protect the brain and spinal cord. It is the most common primary brain tumor in
+adults. Importantly, a meningioma grows outside the brain itself and presses on it, rather
+than growing inside the brain tissue.
+
+Are they benign or malignant? The great majority of meningiomas are benign (non-cancerous,
+WHO Grade I), slow-growing, and do not spread. A smaller number are atypical (Grade II)
+or, rarely, malignant (Grade III), which grow faster and are more likely to return.
+
+Where they occur: along the surface of the brain, at the skull base, near the front of the
+brain (falx and convexity), and around the spinal cord. Epidemiology: meningiomas are
+common and are often found by chance on scans done for other reasons. Age groups: most
+common in middle-aged and older adults. Gender: about twice as common in women, which
+suggests a hormonal influence.
+
+Disease progression and prognosis: most meningiomas grow very slowly, and many cause no
+symptoms for years. The outlook is generally very good, especially for benign tumors that
+can be fully removed or safely monitored. Higher-grade meningiomas need closer follow-up.
+
+
+==========================================================================================
+2. BRAIN ANATOMY
+==========================================================================================
+
+Knowing the structures around a meningioma explains its symptoms and treatment.
+
+  - Meninges: three protective layers (dura, arachnoid, pia) that wrap the brain.
+    Meningiomas usually arise from the arachnoid cells of these layers.
+  - Brain surface (cortex): the meningioma presses on nearby cortex, which may control
+    movement, sensation, vision, or thinking depending on location.
+  - Skull base: many meningiomas sit here, close to important cranial nerves.
+  - Cranial nerves: nerves for smell, vision, eye movement, facial sensation, and hearing
+    can be pressed by nearby meningiomas, causing specific symptoms.
+  - Blood vessels and venous sinuses: large veins (sinuses) run in the dura; meningiomas
+    near them can be more complex to remove.
+  - Optic nerves and chiasm: meningiomas near the front of the skull base can press on the
+    vision pathways.
+
+Relationship to surrounding tissue: because a meningioma grows outside the brain and
+pushes on it, surgeons can often separate it from the brain, and complete removal is more
+achievable than with gliomas. However, tumors wrapped around nerves, vessels, or venous
+sinuses can be harder to remove completely.
+
+
+==========================================================================================
+3. WHAT CAUSES A MENINGIOMA?
+==========================================================================================
+
+The exact cause is usually unknown, but several factors are linked to higher risk. A
+meningioma is not caused by anything the patient did wrong and is not contagious.
+
+
+  Established Risk Factors
+  ------------------------
+
+  - Previous radiation to the head: the strongest known risk factor, sometimes decades
+    later.
+  - Age: risk rises with age.
+  - Female sex: meningiomas are about twice as common in women.
+  - Neurofibromatosis type 2 (NF2): an inherited condition that raises the risk of
+    meningiomas.
+
+
+  Possible Risk Factors
+  ---------------------
+
+  - Hormonal influences: meningiomas can carry hormone receptors and may grow during
+    pregnancy or with hormone therapy; the exact role is still studied.
+  - Obesity has been linked to slightly higher risk in some studies.
+
+
+  Protective / Not Proven Factors
+  -------------------------------
+
+  - No specific action is proven to prevent meningiomas.
+  - A healthy lifestyle supports overall brain health but is not proven to prevent these
+    tumors.
+
+
+==========================================================================================
+4. TYPES AND CLASSIFICATION (WHO GRADES)
+==========================================================================================
+
+Meningiomas are graded I to III. Most are Grade I (benign). The grade guides treatment and
+follow-up.
+
+  +-----------+--------------------------------------------+----------------------------------+--------------------------------------------+---------------------------------+
+  | WHO Grade | Growth & severity                          | Recurrence                       | Typical treatment                          | General prognosis               |
+  +-----------+--------------------------------------------+----------------------------------+--------------------------------------------+---------------------------------+
+  | Grade I   | Benign, slow-growing; the great majority   | Low, especially if fully removed | Observation or surgery; sometimes          | Very good                       |
+  |           | of meningiomas.                            |                                  | radiation                                  |                                 |
+  +-----------+--------------------------------------------+----------------------------------+--------------------------------------------+---------------------------------+
+  | Grade II  | Atypical; grows faster and is more likely  | Moderate                         | Surgery, often followed by radiation       | Good but needs closer follow-up |
+  |           | to return.                                 |                                  |                                            |                                 |
+  +-----------+--------------------------------------------+----------------------------------+--------------------------------------------+---------------------------------+
+  | Grade III | Malignant (anaplastic); rare, aggressive.  | High                             | Surgery plus radiation; close monitoring   | More guarded                    |
+  +-----------+--------------------------------------------+----------------------------------+--------------------------------------------+---------------------------------+
+
+Note: there is no Grade IV for meningiomas. Even benign (Grade I) meningiomas can cause
+problems if they press on vital structures, so location matters as much as grade.
+
+
+==========================================================================================
+5. COMMON SYMPTOMS
+==========================================================================================
+
+Many meningiomas cause no symptoms and are found by chance. When symptoms occur, they come
+from the tumor pressing on nearby brain or nerves, and depend on its location.
+
+  - Headache: from slow pressure build-up; often mild and gradual.
+  - Seizures: when the tumor irritates the nearby brain surface.
+  - Weakness or numbness: on one side, if the movement or sensation area is pressed.
+  - Vision changes: blurred vision or loss of part of the visual field from tumors near
+    the optic pathways.
+  - Hearing changes: from meningiomas near the hearing nerve at the skull base.
+  - Memory problems and difficulty concentrating: from frontal-area pressure.
+  - Personality changes: with tumors at the front of the brain.
+  - Balance problems: from tumors near the back of the brain or skull base.
+  - Smell changes: from tumors at the front of the skull base.
+  - Fatigue: general tiredness, common with brain tumors and treatment.
+
+  [ NOTE ]
+  When to get emergency care: a new seizure, sudden severe headache, sudden weakness,
+  sudden vision loss, repeated vomiting, or a drop in consciousness are emergencies — seek
+  immediate medical help.
+
+
+==========================================================================================
+6. DIAGNOSIS
+==========================================================================================
+
+Meningiomas are often diagnosed confidently on imaging because they have a typical
+appearance. A biopsy is not always needed before surgery.
+
+  - Medical history: symptoms, their timing, past radiation, and family history.
+  - Neurological examination: checks vision, hearing, strength, sensation, balance, and
+    thinking.
+  - MRI: the main test; shows the tumor, its location, and its relationship to the brain
+    and nerves without radiation.
+  - Contrast MRI: meningiomas typically enhance strongly and evenly with dye, and often
+    show a 'dural tail' (a tail of thickened membrane) that is very characteristic.
+  - CT scan: shows bone changes and calcification well, and is useful in emergencies.
+  - PET scan: occasionally used to assess activity or distinguish tumor from other tissue.
+  - MR spectroscopy: may help in unclear cases.
+  - Biopsy: only some cases need one before treatment; often the diagnosis is confirmed on
+    the tissue removed at surgery.
+  - Blood tests: to check general health before treatment.
+
+Advantages and limitations: MRI with contrast is usually enough to strongly suggest a
+meningioma, but the final grade is confirmed by examining the removed tissue.
+
+
+==========================================================================================
+7. MRI CHARACTERISTICS
+==========================================================================================
+
+Meningiomas have a classic MRI appearance that helps distinguish them from other tumors.
+
+  - Location: attached to the meninges on the surface of the brain or at the skull base,
+    outside the brain tissue.
+  - Shape: usually round or oval with smooth, well-defined edges.
+  - Size: variable; can be small and incidental or large.
+  - Contrast enhancement: strong, uniform enhancement after dye.
+  - Dural tail: a characteristic tail of enhancing thickened dura next to the tumor.
+  - Edema: some surrounding brain swelling may occur, especially with larger tumors.
+  - Mass effect: the tumor pushes on nearby brain but does not invade it in most cases.
+  - Calcification: common and well seen on CT.
+  - Necrosis: uncommon in benign meningiomas; more possible in higher grades.
+
+A typical meningioma looks like a smooth, round, strongly and evenly enhancing mass on the
+brain's surface with a dural tail — features that make it fairly recognisable to
+radiologists.
+
+
+==========================================================================================
+8. TREATMENT OPTIONS
+==========================================================================================
+
+Treatment depends on the tumor's size, location, grade, symptoms, and your health. Many
+small, symptom-free meningiomas are simply watched.
+
+
+  Observation (Watchful Waiting)
+  ------------------------------
+
+Small meningiomas that cause no symptoms — often found by chance — are frequently
+monitored with regular MRIs. Because they grow so slowly, many never need treatment,
+especially in older adults.
+
+
+  Surgery
+  -------
+
+  - Craniotomy: the main treatment for symptomatic or growing tumors; a section of skull
+    is temporarily removed to take out the tumor.
+  - Endoscopic surgery: used for some skull-base meningiomas through natural openings.
+  - Complete removal: often achievable because the tumor sits outside the brain; this can
+    be curative for benign meningiomas.
+  - Partial removal: when the tumor wraps around nerves, vessels, or venous sinuses,
+    surgeons remove what is safe and may add radiation.
+  - Benefits: relieves pressure, can cure benign tumors, and confirms the grade.
+  - Risks: bleeding, infection, swelling, seizures, and possible nerve injury depending on
+    location.
+  - Recovery: hospital stay of a few days, with improvement over weeks.
+
+
+  Radiation Therapy
+  -----------------
+
+  - Stereotactic radiosurgery (Gamma Knife, CyberKnife): highly focused radiation, good
+    for small tumors or those left after surgery, often in one or a few sessions.
+  - External beam radiation: fractionated radiation over several weeks for larger or
+    higher-grade tumors.
+  - Side effects: tiredness, local hair loss, and sometimes temporary swelling.
+  - Recovery: fatigue eases over weeks after treatment.
+
+
+  Chemotherapy
+  ------------
+
+Chemotherapy is not a standard treatment for most meningiomas and is used mainly for rare,
+aggressive tumors that have not responded to surgery and radiation, usually within
+specialist care or trials.
+
+
+  Targeted Therapy and Immunotherapy
+  ----------------------------------
+
+These are not standard for meningiomas but are being studied for rare, difficult-to-treat
+cases, mainly in clinical trials.
+
+
+  Hormone Therapy
+  ---------------
+
+Because some meningiomas carry hormone receptors, hormone-related treatments have been
+studied, but hormone therapy is not a standard treatment. Your doctor may review any
+hormone medicines you take, especially during pregnancy planning.
+
+
+==========================================================================================
+9. RECOVERY TIMELINE
+==========================================================================================
+
+Recovery is usually smooth for benign meningiomas, especially after complete removal.
+These are general guides.
+
+  +------------------------------+--------------------------------------------+
+  | Pathway                      | What to expect                             |
+  +------------------------------+--------------------------------------------+
+  | After surgery                | Hospital stay usually 2–5 days; most       |
+  |                              | fatigue settles over 4–6 weeks; full       |
+  |                              | recovery over 2–3 months.                  |
+  +------------------------------+--------------------------------------------+
+  | After radiation/radiosurgery | Radiosurgery is often outpatient; fatigue  |
+  |                              | is mild and settles over a few weeks.      |
+  +------------------------------+--------------------------------------------+
+  | Observation                  | No treatment recovery; regular MRIs        |
+  |                              | monitor the tumor.                         |
+  +------------------------------+--------------------------------------------+
+  | Higher-grade tumors          | May need combined surgery and radiation,   |
+  |                              | with a longer recovery and closer          |
+  |                              | follow-up.                                 |
+  +------------------------------+--------------------------------------------+
+
+  - Return to work: often a few weeks after surgery for desk jobs; longer for physically
+    demanding roles.
+  - Return to school: gradual return once recovered and cleared.
+  - Driving: usually paused after surgery or a seizure; resume after medical and licensing
+    clearance.
+  - Physical activity: gentle activity early; avoid heavy lifting and contact activity
+    until cleared.
+
+Expected milestones: relief of pressure symptoms, steady return of energy over weeks, and
+good long-term function for most benign tumors.
+
+
+==========================================================================================
+10. HOME CARE
+==========================================================================================
+
+Home care supports healing and safety between visits.
+
+  - Medication adherence: take any anti-seizure medicines, steroids, or pain relief
+    exactly as prescribed.
+  - Sleep: keep regular, adequate sleep to aid recovery.
+  - Hydration: drink enough water each day.
+  - Stress reduction: use relaxation and gentle routines.
+  - Activity restrictions: avoid driving until cleared, and avoid heavy lifting and risky
+    activities early after surgery.
+  - Rest and pacing: balance activity with rest; fatigue is normal for a few weeks.
+  - Mental health: seek support for worry or low mood.
+  - Follow-up appointments: keep all scans and reviews; note any new symptoms.
+  - Wound care: keep the surgical wound clean and dry as instructed, and watch for signs
+    of infection.
+
+
+==========================================================================================
+11. NUTRITION
+==========================================================================================
+
+Good nutrition supports recovery from surgery or radiation and general brain health, helps
+the body cope with treatment, and keeps energy and mood steady. There is no single
+'anti-tumor' diet, but a balanced, mostly whole-food diet is widely recommended. Always
+follow any specific advice from your medical team or dietitian, especially during
+treatment.
+
+
+  Key Nutrients and Why They Help
+  -------------------------------
+
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Nutrient          | Why it helps                               | Vegetarian sources                         | Non-vegetarian sources                  |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Protein           | Repairs tissue and supports healing after  | Dal, beans, chickpeas, rajma, soya,        | Eggs, chicken, fish, lean meat          |
+  |                   | surgery or treatment.                      | paneer, tofu, nuts                         |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Omega-3 fats      | Support brain-cell health and reduce       | Flaxseed, chia, walnuts, soybean oil       | Fatty fish (salmon, mackerel, sardines) |
+  |                   | inflammation.                              |                                            |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin D         | Supports bone and immune health; many      | Sunlight, fortified milk/cereals,          | Egg yolk, fatty fish                    |
+  |                   | patients are low.                          | mushrooms                                  |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin B12       | Needed for healthy nerves and blood.       | Fortified foods, dairy, supplements if     | Eggs, dairy, fish, meat                 |
+  |                   |                                            | vegan                                      |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin C         | Helps wound healing and immunity.          | Amla, orange, guava, lemon, capsicum,      | (mainly plant foods)                    |
+  |                   |                                            | tomato                                     |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin E         | An antioxidant that protects cells.        | Nuts, seeds, vegetable oils, spinach       | (mainly plant foods)                    |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Antioxidants      | Protect cells from damage; from colourful  | Berries, leafy greens, carrots, beetroot,  | (mainly plant foods)                    |
+  |                   | produce.                                   | tomatoes                                   |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Healthy fats      | Provide steady energy and support the      | Olive oil, mustard oil, nuts, avocado,     | Fish                                    |
+  |                   | brain.                                     | seeds                                      |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Whole grains      | Give steady energy and fibre for           | Oats, brown rice, millets (jowar, bajra,   | (mainly plant foods)                    |
+  |                   | digestion.                                 | ragi), whole wheat                         |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Hydration (water) | Prevents tiredness, headaches, and         | Water, buttermilk, coconut water, soups    | Water, broths                           |
+  |                   | constipation.                              |                                            |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+
+
+  Sample Daily Meal Suggestions
+  -----------------------------
+
+  - Breakfast: vegetable oats or besan chilla or eggs with whole-wheat toast and a fruit.
+  - Mid-morning: a fruit (apple, guava, orange) or a handful of nuts.
+  - Lunch: 2 multigrain rotis, dal or beans, a large bowl of vegetables, curd, and salad.
+  - Evening: buttermilk, sprouts, or green tea with roasted chana.
+  - Dinner: brown rice or roti with vegetables and a protein (fish, chicken, tofu, or
+    dal).
+  - Through the day: sip water regularly to stay well hydrated.
+
+  [ NOTE ]
+  During chemotherapy or if you have swallowing, taste, or appetite problems, ask your
+  team for tailored advice. Do not start high-dose supplements on your own, as some can
+  interfere with treatment.
+
+
+==========================================================================================
+12. FOODS TO LIMIT
+==========================================================================================
+
+Some foods and habits do not directly cause brain tumors but can slow recovery, worsen
+general health, or interact with treatment. It is wise to limit the following.
+
+  - Alcohol: can interact with medicines (including anti-seizure and chemotherapy drugs),
+    affect the brain, and disturb sleep. Best avoided or strictly limited.
+  - Smoking and tobacco: harm blood vessels and overall health and slow healing. Stopping
+    is strongly recommended.
+  - Highly processed foods: often high in salt, sugar, and unhealthy fat and low in
+    nutrients.
+  - Sugary beverages: sodas and sweetened juices add empty calories and can worsen energy
+    swings.
+  - Excess salt: too much salt can raise blood pressure and cause fluid retention.
+  - Excess caffeine: large amounts of coffee, tea, or energy drinks can worsen anxiety,
+    tremor, and sleep problems.
+  - Trans fats: found in some fried and bakery items; bad for heart and blood vessels.
+  - Ultra-processed foods: packaged snacks and ready meals; keep these occasional.
+
+In short, a fresh, home-cooked, balanced diet with less salt, sugar, alcohol, and no
+smoking supports recovery and overall brain health.
+
+
+==========================================================================================
+13. REHABILITATION
+==========================================================================================
+
+Many people need little or no rehabilitation after benign meningioma surgery. When the
+tumor or surgery affects specific functions, targeted therapy helps recovery.
+
+  - Physical therapy: restores strength, walking, and balance if these were affected.
+  - Occupational therapy: helps with daily tasks and returning to independence.
+  - Speech and language therapy: for speech or swallowing difficulties.
+  - Vision therapy: supports adaptation if vision is affected.
+  - Cognitive rehabilitation: exercises for memory and concentration.
+  - Balance training: reduces falls, useful after skull-base surgery.
+  - Memory exercises: strategies and reminders to support daily life.
+
+Duration and goals: rehabilitation may last a few weeks to months if needed. The goal is
+to regain independence and quality of life. Outcomes are generally good, especially for
+benign tumors.
+
+
+==========================================================================================
+14. LIFESTYLE RECOMMENDATIONS
+==========================================================================================
+
+Healthy daily habits support brain health, mood, and recovery. Adapt these to your
+abilities and your doctor's advice.
+
+  - Regular exercise: gentle activity such as walking, as approved by your doctor,
+    improves energy, mood, and sleep.
+  - Stress management: reduce stress with breathing exercises, hobbies, and pacing your
+    day.
+  - Meditation: mindfulness or guided relaxation can ease anxiety and improve focus.
+  - Yoga: gentle yoga (with medical clearance) supports flexibility, balance, and calm.
+  - Sleep hygiene: keep a regular sleep schedule, a dark quiet room, and limit screens
+    before bed; aim for 7–9 hours.
+  - Hydration: drink water through the day to avoid tiredness and headaches.
+  - Weight management: keep a healthy weight with balanced food and activity.
+  - Mental wellness: seek support for low mood or anxiety; counselling can help.
+  - Family support: involve family in appointments, medication, and daily routines.
+  - Social engagement: stay connected with friends and community to protect mood and
+    thinking skills.
+
+
+==========================================================================================
+15. POSSIBLE COMPLICATIONS
+==========================================================================================
+
+Complications are uncommon for benign meningiomas but can occur, from the tumor or its
+treatment.
+
+  - Brain swelling (edema): can cause headaches and pressure; treated with steroids.
+  - Hydrocephalus: fluid build-up, occasionally needing a drain or shunt.
+  - Seizures: may occur before or after surgery; managed with medicines.
+  - Vision or hearing loss: from tumors pressing on those nerves, sometimes lasting.
+  - Hormonal imbalance: rare, mainly with skull-base tumors near hormonal structures.
+  - Neurological deficits: weakness, numbness, or facial changes from nerve involvement.
+  - Recurrence: possible, higher for atypical and malignant grades, so follow-up
+    continues.
+  - Infection: a small risk after surgery.
+  - Blood clots: reduced mobility raises risk; report leg swelling or breathlessness.
+  - Mood disorders: anxiety and low mood are common and treatable.
+
+
+==========================================================================================
+16. EMERGENCY WARNING SIGNS
+==========================================================================================
+
+Seek emergency medical help right away for any of these:
+
+  - A sudden, severe ('worst ever') headache.
+  - A new seizure or a seizure lasting more than 5 minutes.
+  - Loss of consciousness or sudden severe drowsiness.
+  - Repeated vomiting with headache.
+  - Sudden confusion or difficulty speaking.
+  - Sudden weakness or paralysis, especially on one side.
+  - Sudden vision loss or double vision.
+  - Rapidly worsening symptoms of any kind.
+
+  [ NOTE ]
+  These can signal raised pressure in the brain or bleeding. Do not wait — call emergency
+  services or go to the nearest hospital.
+
+
+==========================================================================================
+17. FOLLOW-UP SCHEDULE
+==========================================================================================
+
+Follow-up watches for regrowth and manages any effects. The schedule depends on the grade
+and whether the tumor was removed or is being observed.
+
+  - Initial follow-up: within a few weeks of surgery to check healing and results.
+  - MRI scans: a baseline scan after surgery, then periodic scans (often yearly for benign
+    tumors, more often for higher grades or when observing).
+  - Neurological examination: at each visit to track vision, strength, and thinking.
+  - Blood tests: as needed, especially if other treatment is used.
+  - Long-term monitoring: continues for years because meningiomas can regrow slowly.
+  - Recurrence surveillance: new or returning symptoms prompt an earlier scan.
+
+
+==========================================================================================
+18. LONG-TERM OUTLOOK
+==========================================================================================
+
+The outlook for most meningiomas is very good, particularly for benign (Grade I) tumors.
+
+  - Prognosis: excellent for fully removed benign meningiomas; many people are effectively
+    cured.
+  - Quality of life: usually very good, with most people returning to normal activities.
+  - Recurrence risk: low for benign tumors, higher for atypical and malignant grades, so
+    monitoring continues.
+  - Living with the condition: many people simply have periodic scans if the tumor is
+    small and stable.
+  - Psychological support: counselling helps with the worry of monitoring or diagnosis.
+
+Your own specialists can give the most accurate outlook based on the tumor's grade, size,
+location, and how much was removed.
+
+
+==========================================================================================
+19. PREVENTION AND RISK REDUCTION
+==========================================================================================
+
+There is no proven way to prevent meningiomas, but general steps support brain health.
+
+  - Healthy lifestyle: balanced diet, regular activity, healthy weight, good sleep, and
+    not smoking.
+  - Avoid unnecessary radiation exposure: since past head radiation is the main known
+    risk, only have imaging that is clinically needed.
+  - Manage chronic conditions: control blood pressure, weight, and other health issues.
+  - Regular medical check-ups: report new headaches, seizures, or vision changes promptly.
+  - Screening: there is no routine screening for meningiomas; scans are done when symptoms
+    or risk factors are present. People with NF2 may have regular monitoring.
+  - What cannot be prevented: most meningiomas arise without an avoidable cause.
+
+
+==========================================================================================
+20. FREQUENTLY ASKED QUESTIONS (FAQ)
+==========================================================================================
+
+Below are common questions from patients and caregivers about meningiomas. Answers are
+general; your own medical team can advise for your situation.
+
+
+  Q1. What is a meningioma?
+  -------------------------
+
+A meningioma is a tumor that grows from the meninges, the protective membranes covering
+the brain. It grows outside the brain and presses on it rather than growing inside it.
+
+
+  Q2. Is a meningioma cancer?
+  ---------------------------
+
+Usually not. Most meningiomas are benign (non-cancerous) and slow-growing. A small number
+are atypical or malignant and behave more aggressively.
+
+
+  Q3. Can a meningioma spread?
+  ----------------------------
+
+Benign meningiomas do not spread to other organs. They can grow larger and press on nearby
+structures. Rare malignant ones can, uncommonly, spread.
+
+
+  Q4. Will I need surgery?
+  ------------------------
+
+Not always. Small, symptom-free meningiomas are often just monitored. Surgery is used when
+the tumor causes symptoms, is growing, or is large.
+
+
+  Q5. Can a meningioma come back after removal?
+  ---------------------------------------------
+
+Benign tumors that are fully removed rarely return, but recurrence is possible, especially
+for higher grades, so follow-up scans continue.
+
+
+  Q6. Is a meningioma hereditary?
+  -------------------------------
+
+Usually not. Most occur by chance. The inherited condition neurofibromatosis type 2 (NF2)
+does raise the risk.
+
+
+  Q7. Why are meningiomas more common in women?
+  ---------------------------------------------
+
+They occur about twice as often in women and can carry hormone receptors, suggesting a
+hormonal influence, though the exact reason is not fully understood.
+
+
+  Q8. Can I drive?
+  ----------------
+
+Driving is usually paused after surgery or a seizure. You can often return after clearance
+from your doctor and the licensing authority, which varies by region.
+
+
+  Q9. Can I travel?
+  -----------------
+
+Yes, once stable and cleared by your doctor. Avoid travel immediately after surgery and
+carry a medical summary and your medicines.
+
+
+  Q10. Can I fly?
+  ---------------
+
+Flying is generally safe once cleared, but avoid it soon after brain surgery until your
+doctor agrees.
+
+
+  Q11. Can I work?
+  ----------------
+
+Most people return to work, often within a few weeks after surgery for desk jobs.
+Physically demanding jobs may need longer.
+
+
+  Q12. Can I exercise?
+  --------------------
+
+Gentle activity is encouraged during recovery. Avoid heavy lifting and contact activity
+until your doctor clears you.
+
+
+  Q13. Can I have children / is pregnancy safe?
+  ---------------------------------------------
+
+Many women do. Because some meningiomas can grow during pregnancy, discuss timing and
+monitoring with your doctor, especially if you have a known tumor.
+
+
+  Q14. Can I drink alcohol?
+  -------------------------
+
+Limit alcohol, especially during recovery or if you take anti-seizure medicines, as it can
+interact with them and affect the brain.
+
+
+  Q15. Is an MRI safe?
+  --------------------
+
+Yes. MRI uses magnets, not radiation. Tell staff about any metal implants or a pacemaker.
+Contrast dye is generally safe.
+
+
+  Q16. Will I lose my memory?
+  ---------------------------
+
+Most people do not. Memory or concentration can be affected by frontal tumors or surgery,
+and often improves; rehabilitation can help.
+
+
+  Q17. What symptoms require emergency care?
+  ------------------------------------------
+
+A new or prolonged seizure, sudden severe headache, sudden weakness, vision loss, repeated
+vomiting, or loss of consciousness — seek emergency care at once.
+
+
+  Q18. How often will I need follow-up scans?
+  -------------------------------------------
+
+Often a baseline scan after surgery, then usually yearly for benign tumors, and more often
+for higher grades or when observing a small tumor.
+
+
+  Q19. What does 'benign' mean here?
+  ----------------------------------
+
+Benign means non-cancerous and slow-growing. However, even a benign meningioma can cause
+problems if it presses on important structures.
+
+
+  Q20. What is a 'dural tail' on my scan?
+  ---------------------------------------
+
+It is a characteristic tail of thickened membrane next to the tumor seen on MRI, which
+helps radiologists recognise a meningioma.
+
+
+  Q21. Can a meningioma be completely cured?
+  ------------------------------------------
+
+Often yes. A benign meningioma that is fully removed can be effectively cured, though
+follow-up scans continue for a time.
+
+
+  Q22. Do I need treatment if I have no symptoms?
+  -----------------------------------------------
+
+Not always. Small, symptom-free tumors are commonly watched with scans, and many never
+need treatment, especially in older adults.
+
+
+  Q23. What is Gamma Knife or CyberKnife?
+  ---------------------------------------
+
+These are types of stereotactic radiosurgery — highly focused radiation that treats small
+tumors precisely, often in one or a few sessions, without an incision.
+
+
+  Q24. Will radiation make me sick?
+  ---------------------------------
+
+Radiosurgery is usually well tolerated; the main effect is mild tiredness. Larger course
+radiation can cause fatigue and local hair loss.
+
+
+  Q25. Is chemotherapy used for meningiomas?
+  ------------------------------------------
+
+Rarely. It is reserved for uncommon aggressive tumors that do not respond to surgery and
+radiation, usually within specialist care.
+
+
+  Q26. Why do I have seizures?
+  ----------------------------
+
+A meningioma can irritate the nearby brain surface and trigger seizures. Anti-seizure
+medicines usually control them.
+
+
+  Q27. Is a meningioma contagious?
+  --------------------------------
+
+No. You cannot catch or pass on a brain tumor.
+
+
+  Q28. Will I need rehabilitation?
+  --------------------------------
+
+Many people need little or none. If movement, speech, or thinking is affected, targeted
+therapy helps recovery.
+
+
+  Q29. How is a meningioma diagnosed?
+  -----------------------------------
+
+Usually confidently on MRI with contrast because of its typical appearance; the grade is
+confirmed by examining tissue removed at surgery.
+
+
+  Q30. Can I take supplements or hormones?
+  ----------------------------------------
+
+Check with your doctor. Because some meningiomas have hormone receptors, review any
+hormone medicines. Avoid unproven remedies during treatment.
+
+
+  Q31. Will my personality change?
+  --------------------------------
+
+Front-of-brain meningiomas can affect mood or behaviour; this often improves after
+treatment. Support and counselling help.
+
+
+  Q32. Can children get meningiomas?
+  ----------------------------------
+
+They are much less common in children and, when they occur, may be linked to conditions
+such as NF2 or previous radiation.
+
+
+  Q33. How long is the hospital stay after surgery?
+  -------------------------------------------------
+
+Often about 2–5 days for a craniotomy if recovery is smooth.
+
+
+  Q34. Is a meningioma painful?
+  -----------------------------
+
+The brain itself does not feel pain, but pressure can cause headaches. Pain is managed as
+part of your care.
+
+
+  Q35. Can I use my phone and computer normally?
+  ----------------------------------------------
+
+Yes. Normal device use does not affect the tumor. Take breaks if screens worsen headaches.
+
+
+  Q36. What if the tumor is near a nerve or blood vessel?
+  -------------------------------------------------------
+
+Surgeons remove what is safe and may leave a small part to protect the nerve or vessel,
+sometimes adding radiation to the remainder.
+
+
+  Q37. Can a meningioma turn into cancer?
+  ---------------------------------------
+
+Most stay benign. A minority can be atypical or, rarely, become more aggressive, which is
+one reason follow-up scans are important.
+
+
+  Q38. How do I cope with the worry of monitoring?
+  ------------------------------------------------
+
+Regular 'watch and wait' can be stressful. Counselling, support groups, and clear
+communication with your team help you cope.
+
+
+  Q39. Does diet cure a meningioma?
+  ---------------------------------
+
+No diet cures it, but good nutrition supports recovery and general health. Be cautious of
+unproven 'cure' diets.
+
+
+  Q40. Who is on my care team?
+  ----------------------------
+
+Usually a neurosurgeon, radiation oncologist, radiologist, pathologist, neurologist,
+nurses, and rehabilitation therapists as needed.
+
+
+  Q41. What happens if it grows during observation?
+  -------------------------------------------------
+
+If a watched tumor grows or causes symptoms, your team will discuss treatment, usually
+surgery or radiosurgery.
+
+
+==========================================================================================
+21. METADATA FOR RETRIEVAL
+==========================================================================================
+
+Structured tags to help the AI assistant retrieve this document accurately.
+
+  +----------------------------+--------------------------------------------+
+  | Field                      | Value                                      |
+  +----------------------------+--------------------------------------------+
+  | Tumor Name                 | Meningioma                                 |
+  +----------------------------+--------------------------------------------+
+  | Alternative Names          | Meningeal tumor, dural-based tumor         |
+  +----------------------------+--------------------------------------------+
+  | WHO Grade                  | WHO Grade I–III (most are Grade I, benign) |
+  +----------------------------+--------------------------------------------+
+  | Tumor Category             | Primary brain tumor of the meninges        |
+  |                            | (extra-axial, outside the brain)           |
+  +----------------------------+--------------------------------------------+
+  | Brain Region               | Meninges over the brain surface and skull  |
+  |                            | base; sometimes spinal cord                |
+  +----------------------------+--------------------------------------------+
+  | Benign or Malignant        | Usually benign; occasionally atypical or   |
+  |                            | malignant                                  |
+  +----------------------------+--------------------------------------------+
+  | Typical Symptoms           | Often none; headache, seizures, weakness,  |
+  |                            | vision/hearing changes, memory and         |
+  |                            | personality changes                        |
+  +----------------------------+--------------------------------------------+
+  | Diagnostic Methods         | Neurological exam, MRI, contrast MRI       |
+  |                            | (dural tail), CT (calcification),          |
+  |                            | sometimes biopsy                           |
+  +----------------------------+--------------------------------------------+
+  | MRI Characteristics        | Round, well-defined, strongly and          |
+  |                            | uniformly enhancing extra-axial mass with  |
+  |                            | dural tail; may calcify                    |
+  +----------------------------+--------------------------------------------+
+  | Treatment Options          | Observation, surgery (craniotomy),         |
+  |                            | stereotactic radiosurgery/radiation;       |
+  |                            | chemotherapy only in rare aggressive cases |
+  +----------------------------+--------------------------------------------+
+  | Recovery Duration          | Surgery 4–6 weeks initial, 2–3 months      |
+  |                            | full; radiosurgery often outpatient        |
+  +----------------------------+--------------------------------------------+
+  | Follow-Up Frequency        | Baseline MRI then usually yearly for       |
+  |                            | benign; more often for higher grades       |
+  +----------------------------+--------------------------------------------+
+  | Common Complications       | Edema, seizures, vision/hearing loss,      |
+  |                            | neurological deficits, recurrence,         |
+  |                            | hydrocephalus                              |
+  +----------------------------+--------------------------------------------+
+  | Emergency Symptoms         | New/prolonged seizure, sudden severe       |
+  |                            | headache, paralysis, vision loss, loss of  |
+  |                            | consciousness                              |
+  +----------------------------+--------------------------------------------+
+  | Keywords                   | meningioma, benign brain tumor, meninges,  |
+  |                            | dural tail, skull base tumor, craniotomy,  |
+  |                            | Gamma Knife                                |
+  +----------------------------+--------------------------------------------+
+  | Synonyms                   | Meningeal tumor, dural tumor, brain        |
+  |                            | covering tumor                             |
+  +----------------------------+--------------------------------------------+
+  | Related Medical Conditions | Neurofibromatosis type 2 (NF2), seizures,  |
+  |                            | hydrocephalus, optic nerve compression     |
+  +----------------------------+--------------------------------------------+
+

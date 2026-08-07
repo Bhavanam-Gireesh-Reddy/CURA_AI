@@ -1,0 +1,79 @@
+# ==========================
+# Backend Framework
+# ==========================
+fastapi
+uvicorn
+python-multipart
+jinja2
+pydantic
+
+
+# ==========================
+# Environment Variables
+# ==========================
+python-dotenv
+
+
+# ==========================
+# Machine Learning
+# ==========================
+numpy
+pandas
+scikit-learn
+xgboost
+joblib
+imbalanced-learn
+
+
+# ==========================
+# Deep Learning
+# ==========================
+tensorflow
+keras
+pillow
+opencv-python
+
+
+# ==========================
+# LangChain RAG
+# ==========================
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-experimental
+
+
+# ==========================
+# Vector Database
+# ==========================
+chromadb
+
+
+# ==========================
+# HuggingFace Embeddings
+# ==========================
+sentence-transformers
+transformers
+torch
+
+
+# ==========================
+# Document Loaders
+# ==========================
+pypdf
+docx2txt
+
+
+# ==========================
+# Gemini API
+# ==========================
+google-genai
+
+
+# ==========================
+# Utilities
+# ==========================
+tqdm
+requests

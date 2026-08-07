@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>CURA AI | Healthcare Agent</title>
+
+<link rel="stylesheet" href="{{ url_for('static', path='style.css') }}">
+
+</head>
+
+
+<body>
+
+
+<nav class="navbar">
+
+<div class="logo">
+🩻 CURA AI
+</div>
+
+
+<div class="nav-links">
+
+<a href="/">
+Home
+</a>
+
+<a href="#liver">
+Liver
+</a>
+
+<a href="#xray">
+X-Ray
+</a>
+
+<a href="#mri">
+MRI
+</a>
+
+
+
+</div>
+
+</nav>
+
+
+
+
+
+<section class="hero">
+
+<div class="hero-content">
+
+<h1>
+AI Powered Healthcare Detection
+</h1>
+
+<p>
+Deep Learning and Machine Learning based Medical Analysis
+</p>
+
+</div>
+
+</section>
+
+
+
+
+<!-- LIVER SECTION -->
+
+<section id="liver" class="prediction-section liver-bg">
+
+
+<div class="card">
+
+
+<h2>
+🩺 Liver Disease Prediction
+</h2>
+
+
+<p>
+Select ML model and enter patient details
+</p>
+
+
+
+
+<form id="liverForm">
+
+
+
+<label>
+Select Model
+</label>
+
+<select id="model" name="model">
+
+<option value="random_forest">
+Random Forest
+</option>
+
+<option value="logistic_regression">
+Logistic Regression
+</option>
+
+<option value="xgboost">
+XGBoost
+</option>
+
+</select>
+
+
+
+
+
+<label>
+Age (1 - 120 years)
+</label>
+
+<input
+id="Age"
+name="Age"
+type="number"
+oninput="validateField('Age',1,120)"
+required
+>
+
+<span id="Age_error"></span>
+
+
+
+
+
+<label>
+Gender
+</label>
+
+<select name="Gender">
+
+<option value="1">
+Male
+</option>
+
+<option value="0">
+Female
+</option>
+
+</select>
+
+
+
+
+
+<label>
+Total Bilirubin (0.1 - 1.5 mg/dL)
+</label>
+
+<input
+id="Total_Bilirubin"
+name="Total_Bilirubin"
+type="number"
+step="any"
+oninput="validateField('Total_Bilirubin',0.1,1.5)"
+required
+>
+
+<span id="Total_Bilirubin_error"></span>
+
+
+
+
+
+<label>
+Direct Bilirubin (0 - 1 mg/dL)
+</label>
+
+<input
+id="Direct_Bilirubin"
+name="Direct_Bilirubin"
+type="number"
+step="any"
+oninput="validateField('Direct_Bilirubin',0,1)"
+required
+>
+
+<span id="Direct_Bilirubin_error"></span>
+
+
+
+
+
+<label>
+Alkaline Phosphotase (10 - 200 IU/L)
+</label>
+
+<input
+id="Alkaline_Phosphotase"
+name="Alkaline_Phosphotase"
+type="number"
+oninput="validateField('Alkaline_Phosphotase',10,200)"
+required
+>
+
+<span id="Alkaline_Phosphotase_error"></span>
+
+
+
+
+
+<label>
+Alamine Aminotransferase ALT (1 - 86 IU/L)
+</label>
+
+<input
+id="Alamine_Aminotransferase"
+name="Alamine_Aminotransferase"
+type="number"
+oninput="validateField('Alamine_Aminotransferase',1,86)"
+required
+>
+
+<span id="Alamine_Aminotransferase_error"></span>
+
+
+
+
+
+<label>
+Aspartate Aminotransferase AST (1 - 57 IU/L)
+</label>
+
+<input
+id="Aspartate_Aminotransferase"
+name="Aspartate_Aminotransferase"
+type="number"
+oninput="validateField('Aspartate_Aminotransferase',1,57)"
+required
+>
+
+<span id="Aspartate_Aminotransferase_error"></span>
+
+
+
+
+
+<label>
+Total Proteins (2 - 10 g/dL)
+</label>
+
+<input
+id="Total_Protiens"
+name="Total_Protiens"
+type="number"
+step="any"
+oninput="validateField('Total_Protiens',2,10)"
+required
+>
+
+<span id="Total_Protiens_error"></span>
+
+
+
+
+
+<label>
+Albumin (0.5 - 6 g/dL)
+</label>
+
+<input
+id="Albumin"
+name="Albumin"
+type="number"
+step="any"
+oninput="validateField('Albumin',0.5,6)"
+required
+>
+
+<span id="Albumin_error"></span>
+
+
+
+
+
+<label>
+Albumin Globulin Ratio (0.1 - 3)
+</label>
+
+<input
+id="Albumin_and_Globulin_Ratio"
+name="Albumin_and_Globulin_Ratio"
+type="number"
+step="any"
+oninput="validateField('Albumin_and_Globulin_Ratio',0.1,3)"
+required
+>
+
+<span id="Albumin_and_Globulin_Ratio_error"></span>
+
+
+
+
+
+<button id="predictBtn">
+
+Predict Liver Disease
+
+</button>
+
+
+
+</form>
+
+
+
+<div id="liverResult"></div>
+
+
+
+</div>
+
+
+</section>
+
+<!-- X-RAY -->
+
+<section id="xray" class="prediction-section xray-bg">
+<div class="card">
+
+
+<h2>
+🦴 X-Ray Fracture Detection
+</h2>
+
+
+<p>
+Upload X-Ray image for fracture prediction
+</p>
+
+
+
+<form id="xrayForm">
+
+
+<input
+type="file"
+name="file"
+accept="image/*"
+required
+>
+
+
+<button>
+Analyze X-Ray
+</button>
+
+
+</form>
+
+
+
+<div id="xrayLoading"></div>
+
+<div id="xrayResult"></div>
+
+
+</div>
+
+</section>
+
+
+
+
+
+
+
+
+<!-- MRI -->
+
+<section id="mri" class="prediction-section mri-bg">
+<div class="card">
+
+
+<h2>
+🧠 MRI Brain Tumor Detection
+</h2>
+
+
+<p>
+Upload MRI image for tumor classification
+</p>
+
+
+
+<form id="mriForm">
+
+
+<input
+type="file"
+name="file"
+accept="image/*"
+required
+>
+
+
+<button>
+Analyze MRI
+</button>
+
+
+</form>
+
+
+
+<div id="mriLoading"></div>
+
+<div id="mriResult"></div>
+
+
+</div>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer>
+
+<p>
+© 2026 CURA AI | Healthcare Assistant
+</p>
+
+</footer>
+
+
+
+
+
+<script src="{{ url_for('static',path='script.js') }}"></script>
+
+
+<script>
+
+
+// X-Ray Prediction
+
+
+document
+.getElementById("xrayForm")
+.addEventListener(
+"submit",
+async function(e){
+
+
+e.preventDefault();
+
+
+let data=new FormData(this);
+
+
+let response=await fetch(
+"/predict",
+{
+method:"POST",
+body:data
+}
+);
+
+
+let result=await response.json();
+
+
+document.getElementById(
+"xrayResult"
+).innerHTML=`
+
+
+<div class="result">
+
+<img src="${result.image}"
+class="uploaded-image">
+
+
+<h3>
+${result.fracture_type}
+</h3>
+
+
+<p>
+Confidence:
+${result.confidence}%
+</p>
+
+</div>
+
+
+`;
+
+
+
+});
+
+
+
+
+
+
+// MRI Prediction
+
+
+document
+.getElementById("mriForm")
+.addEventListener(
+"submit",
+async function(e){
+
+
+e.preventDefault();
+
+
+let data=new FormData(this);
+
+
+let response=await fetch(
+"/predict_mri",
+{
+method:"POST",
+body:data
+}
+);
+
+
+
+let result=await response.json();
+
+
+
+document.getElementById(
+"mriResult"
+).innerHTML=`
+
+
+<div class="result">
+
+
+<img src="${result.image}"
+class="uploaded-image">
+
+
+<h3>
+${result.mri_type}
+</h3>
+
+
+<p>
+Confidence:
+${result.confidence}%
+</p>
+
+
+</div>
+
+`;
+
+
+});
+
+
+
+</script>
+
+
+<!-- CURA AI CHATBOT -->
+
+<div class="chat-window">
+
+    <div class="chat-header">
+        <span>🩺 CURA AI Assistant</span>
+    </div>
+
+    <div id="chatMessages" class="chat-messages">
+
+        <div class="bot-message">
+            Hello 👋 Ask me anything about medical documents.
+        </div>
+
+    </div>
+
+    <div class="chat-input">
+
+        <input
+            id="chatQuestion"
+            type="text"
+            placeholder="Ask your question..."
+        >
+
+        <button id="sendChat">
+            ➤
+        </button>
+
+    </div>
+
+</div>
+
+</body>
+
+</html>

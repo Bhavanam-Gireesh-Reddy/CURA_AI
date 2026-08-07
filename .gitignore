@@ -1,0 +1,36 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset folders (very large)
+deep_learning/xray_data/
+deep_learning2/data/
+
+
+# Logs
+*.log
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Environment variables
+.env
+
+
+# IDE files
+.vscode/
+.idea/

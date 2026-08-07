@@ -1,0 +1,800 @@
+==========================================================================================
+                      CLASS 4 – HUMERUS FRACTURE: PATIENT CARE GUIDE                      
+==========================================================================================
+
+A patient-friendly guide for people with a humerus fracture — a break in the upper arm
+bone that runs from the shoulder to the elbow. It covers causes, symptoms, diagnosis,
+treatment, healing, exercises, warning signs, and common questions.
+
+  [ NOTE ]
+  Medical disclaimer: This document is an educational reference created for a
+  patient-support knowledge base and for use in a retrieval-augmented (RAG) AI assistant.
+  It is NOT a substitute for professional medical advice, diagnosis, or treatment. Healing
+  times, medicines, and exercises differ for every person. Always follow the instructions
+  of your own doctor, orthopaedic surgeon, or physiotherapist. In an emergency, contact
+  local emergency services immediately.
+
+
+1. INTRODUCTION
+---------------
+
+A humerus fracture is a break in the humerus, the long bone of the upper arm that connects
+the shoulder to the elbow. It is also called a broken upper arm. The break can be near the
+shoulder (proximal), in the middle (shaft), or near the elbow (distal).
+
+Which bone is involved: the humerus. A proximal humerus fracture is near the shoulder
+joint, a humeral shaft fracture is in the middle, and a distal humerus fracture is near
+the elbow.
+
+Common causes: falls onto the arm or shoulder, road accidents, sports injuries, and direct
+blows. In older adults, even a minor fall can break a weakened humerus. How common it is:
+humerus fractures, especially proximal ones, are common, particularly in older adults with
+osteoporosis.
+
+Who is at higher risk: older adults with weak bones, people who fall, athletes in contact
+and wheel sports, and those in high-impact accidents. Severity ranges from an undisplaced
+crack (mild) to a shattered, displaced, or open fracture (severe).
+
+
+  Types of Fractures Affecting This Bone
+
+A humerus fracture can happen in several patterns. Common fracture types include:
+
+  - Hairline fracture (a very thin, small crack in the bone).
+  - Stress fracture (a tiny crack caused by repeated force or overuse).
+  - Greenstick fracture (the bone bends and cracks on one side; common in children).
+  - Closed fracture (the bone breaks but the skin stays intact).
+  - Open (compound) fracture (the broken bone breaks through the skin).
+  - Comminuted fracture (the bone breaks into three or more pieces).
+  - Spiral fracture (a break that twists around the bone, often from a twisting injury).
+  - Impacted fracture (the broken ends are driven into each other).
+  - Transverse fracture (a straight break across the bone).
+  - Oblique fracture (a slanted or angled break across the bone).
+
+Proximal humerus fractures (near the shoulder) are the most common, especially in older
+adults, while shaft fractures can injure the radial nerve that wraps around the bone.
+
+
+2. ANATOMY
+----------
+
+The humerus is surrounded by powerful muscles, important nerves, and major vessels.
+
+  - Bone involved: the humerus, forming the ball of the shoulder joint at the top and part
+    of the elbow at the bottom.
+  - Nearby muscles: the deltoid and rotator cuff move the shoulder; the biceps and triceps
+    bend and straighten the elbow; these pull on the bone during healing.
+  - Tendons: the rotator cuff tendons attach near the top of the humerus and are vital for
+    shoulder movement.
+  - Ligaments: support the shoulder and elbow joints at each end of the bone.
+  - Blood vessels: the brachial artery runs along the inner arm to supply the forearm and
+    hand; injury can affect blood flow.
+  - Nerves: the radial nerve wraps closely around the middle of the humerus and can be
+    injured in shaft fractures, causing 'wrist drop' (difficulty lifting the wrist). The
+    axillary nerve near the shoulder can be affected in proximal fractures.
+
+Because the radial nerve lies against the humerus, a shaft fracture can stretch or pinch
+it and weaken wrist and finger lifting; this often recovers but must be checked. Strong
+muscles pulling on the bone also influence how the fracture is treated.
+
+
+3. COMMON CAUSES
+----------------
+
+Most fractures happen when a force is stronger than the bone can handle. The main causes
+are:
+
+  - Falls: slipping, tripping, or falling onto an outstretched hand or arm — the most
+    common cause overall.
+  - Road traffic accidents: high-speed impacts from car, motorbike, or cycle crashes.
+  - Sports injuries: contact sports, skating, cycling, gymnastics, and falls during play.
+  - Workplace accidents: falls from height, machinery injuries, or heavy objects.
+  - Direct trauma: a hard blow or hit directly on the bone.
+  - Twisting injuries: the limb turns while the hand or body stays fixed.
+  - Heavy object injuries: something heavy falling onto the limb.
+  - Osteoporosis: weak, thin bones that break easily, especially in older adults.
+  - Bone tumors: growths that weaken the bone (pathological fracture).
+  - Repetitive stress: repeated overuse leading to stress fractures over time.
+
+For the humerus specifically, a fall onto the shoulder or arm is the leading cause in
+older adults, while high-energy accidents cause shaft fractures in younger people.
+
+
+4. SYMPTOMS
+-----------
+
+Common signs and symptoms of a humerus fracture include:
+
+  - Pain in the upper arm, worse with movement.
+  - Swelling and bruising over the arm and shoulder.
+  - A deformed or shortened upper arm.
+  - Inability to lift or move the arm.
+  - A grinding or cracking feeling with movement.
+  - Wrist drop or weakness lifting the wrist/fingers (possible radial nerve injury).
+  - Numbness or tingling in the arm or hand.
+  - Bruising that spreads down toward the elbow over days.
+  - In an open fracture, bone may protrude through the skin.
+
+  [ NOTE ]
+  Emergency warning signs: a cold, pale, or blue hand, no pulse at the wrist, inability to
+  lift the wrist or fingers, bone through the skin, or severe uncontrolled pain. Seek
+  emergency care immediately.
+
+
+5. DIAGNOSIS
+------------
+
+Doctors confirm a fracture using a physical check and imaging tests. Each test gives
+different information.
+
+
+  Physical Examination and Medical History
+
+The doctor asks how the injury happened and checks for pain, swelling, bruising,
+deformity, tenderness, movement, pulse, skin colour, and sensation. Telling the doctor
+about past fractures, osteoporosis, medicines, and other illnesses helps plan the right
+treatment.
+
+
+  Imaging Tests
+
+  - X-ray: the first and main test. It shows most fractures, the exact location, and
+    whether the bone has moved out of place (displacement).
+  - CT scan: gives detailed 3-D images. Used for complex breaks, joint involvement, or
+    when the X-ray is unclear, to plan surgery.
+  - MRI: shows soft tissues, bone bruising, and hairline or stress fractures that may not
+    appear on an X-ray. Also checks nearby ligaments, tendons, and nerves.
+  - Ultrasound: sometimes used, especially in children, to look at bone surfaces and
+    soft-tissue swelling without radiation.
+  - Bone scan: can detect very small stress fractures or hidden fractures that other tests
+    miss, by showing areas of increased bone activity.
+
+For a humerus fracture, X-rays of the whole upper arm including the shoulder and elbow are
+standard. A CT scan is often used for proximal (shoulder) fractures to see the fragments
+before surgery. The doctor will specifically test the radial nerve (wrist and finger
+lifting) in shaft fractures.
+
+
+6. TREATMENT OPTIONS
+--------------------
+
+Treatment depends on the type of break, how far the bone has moved, and your age and
+health. It falls into non-surgical and surgical options.
+
+
+  Non-Surgical Treatment
+
+Many humerus fractures, especially shaft and undisplaced proximal fractures, heal well
+without surgery because the surrounding muscles help hold the bone.
+
+  - Functional brace: a special removable brace (often after a first splint) supports a
+    shaft fracture while allowing the muscles to align the bone.
+  - Sling or shoulder immobiliser: rests the arm, especially for proximal fractures.
+  - Cast or splint: a U-slab or splint may be used early, particularly with swelling.
+  - Ice therapy: reduces pain and swelling in the first days.
+  - Elevation and support: keeping the arm supported reduces discomfort.
+  - Pain medications: paracetamol for pain relief.
+  - Anti-inflammatory medicines: such as ibuprofen, if approved by your doctor.
+
+When recommended: non-surgical care suits stable fractures where the bone is in a good
+position. Advantages: no surgery, lower infection risk, and no anaesthesia. Limitations:
+needs a well-set position, the cast can cause stiffness, and it may not hold badly
+displaced or unstable fractures.
+
+
+  Surgical Treatment
+
+Surgery is used when the bone is badly out of place, broken into many pieces, involves a
+joint, is an open (compound) fracture, or fails to heal with a cast. The aim is to put the
+pieces back in the correct position and hold them still while they heal.
+
+  - ORIF (Open Reduction Internal Fixation): the surgeon opens the skin, sets the bone in
+    the right position (reduction), and fixes it with metal implants.
+  - Plates: flat metal supports screwed along the bone to hold the pieces together.
+  - Screws: hold fragments together, alone or with a plate.
+  - Pins (K-wires): thin wires that hold small pieces, often used in fingers and in
+    children; usually removed later.
+  - Rods (intramedullary nails): metal rods placed inside the hollow centre of a long bone
+    to support it.
+  - External fixator: a frame outside the body connected to the bone by pins; used for
+    severe, open, or badly contaminated fractures.
+  - Bone graft: extra bone (from your own body or a donor) added to help healing when
+    there is bone loss or slow healing.
+
+Indications (when surgery is needed): displaced or badly angled fractures, open fractures,
+fractures with a nerve or blood vessel injury, fractures that will not stay aligned in a
+brace, and many displaced proximal fractures in active patients. Shaft fractures are often
+fixed with a plate or an intramedullary rod; proximal fractures may need plates, screws,
+or a shoulder replacement in severe cases.
+
+
+  Recovery Expectations and Risks After Surgery
+
+  - Recovery: a protective cast, splint, or sling is often used after surgery, followed by
+    physiotherapy. Implants usually stay in place unless they cause problems.
+  - Risks: infection, bleeding, nerve or blood vessel injury, implant irritation or
+    loosening, stiffness, blood clots, and reaction to anaesthesia.
+  - Most people regain good function, but full recovery takes weeks to months and depends
+    on the injury and following rehabilitation.
+
+
+7. HEALING TIMELINE
+-------------------
+
+Healing time varies by age, general health, fracture type, and how well instructions are
+followed. The table gives typical ranges.
+
+  +--------------+--------------------------------------------+
+  | Group        | Typical healing / recovery                 |
+  +--------------+--------------------------------------------+
+  | Children     | Often 4–6 weeks to unite; children's       |
+  |              | humerus heals and remodels well.           |
+  +--------------+--------------------------------------------+
+  | Adults       | About 8–12 weeks for bone union; shaft     |
+  |              | fractures may take longer.                 |
+  +--------------+--------------------------------------------+
+  | Older adults | 12 weeks or more; healing slower with      |
+  |              | osteoporosis.                              |
+  +--------------+--------------------------------------------+
+  | Athletes     | Union in 8–12 weeks; return to sport often |
+  |              | 4–6 months.                                |
+  +--------------+--------------------------------------------+
+
+Stages of healing: initial healing (inflammation and soft callus) in the first weeks, bone
+union (hard callus bridges the break), and functional recovery (regaining strength and
+movement). Regaining full overhead shoulder movement is often the slowest goal, especially
+after proximal fractures.
+
+  - Return to work: desk work in 1–3 weeks; heavy manual/overhead work often 12 weeks or
+    after clearance.
+  - Return to sports: non-contact around 10–12 weeks; contact/throwing sports usually 4–6
+    months.
+  - Full recovery: 4–6 months for most; shoulder stiffness can take longer to fully
+    resolve.
+
+Factors that delay healing: smoking, alcohol, poor nutrition, diabetes, osteoporosis,
+infection, poor blood supply, older age, certain medicines (such as steroids), and not
+resting the injured limb.
+
+
+8. RECOVERY STAGES
+------------------
+
+Knowing what to expect at each stage helps you feel reassured. Your own timeline may
+differ slightly.
+
+  +----------+--------------------------------------------+
+  | Stage    | What usually happens                       |
+  +----------+--------------------------------------------+
+  | Week 1   | Pain and swelling peak; arm rested in      |
+  |          | sling/brace; move fingers and wrist        |
+  |          | gently.                                    |
+  +----------+--------------------------------------------+
+  | Week 2   | Pain easing; keep hand, wrist, and (if     |
+  |          | allowed) gentle pendulum shoulder          |
+  |          | movement.                                  |
+  +----------+--------------------------------------------+
+  | Week 3–4 | Bone knitting; brace continues; gentle     |
+  |          | guided shoulder/elbow movement may start.  |
+  +----------+--------------------------------------------+
+  | Week 5–8 | Bone uniting; more active movement;        |
+  |          | physiotherapy progresses.                  |
+  +----------+--------------------------------------------+
+  | Month 3  | Bone usually united; focus on shoulder     |
+  |          | range and arm strength.                    |
+  +----------+--------------------------------------------+
+  | Month 6  | Most movement and strength restored;       |
+  |          | heavier activity resumed.                  |
+  +----------+--------------------------------------------+
+
+
+9. DAILY CARE INSTRUCTIONS
+--------------------------
+
+  - Keep any cast or brace dry: cover it while bathing to protect the skin and material.
+  - Sleeping position: many people sleep more comfortably semi-upright (propped on pillows
+    or in a recliner) for the first weeks; keep the arm supported.
+  - Bathing: use a waterproof cover or sponge-bathe; keep the arm supported.
+  - Clothing: wear loose, front-opening clothes; dress the injured arm first.
+  - Walking: normal walking is fine; keep the arm in the sling for support.
+  - Driving: avoid driving until the arm moves safely and you are cleared — often several
+    weeks.
+  - Returning to office: light desk work is often possible within 1–3 weeks.
+  - Returning to school: children can attend once comfortable, avoiding sport.
+  - Household activities: avoid lifting, reaching overhead, and carrying with the injured
+    arm.
+
+
+10. PAIN MANAGEMENT
+-------------------
+
+Some pain is normal after a fracture, especially in the first days. These safe, simple
+methods help control it.
+
+  - Ice packs: wrap ice in a cloth and apply for 15–20 minutes several times a day to
+    reduce pain and swelling (never put ice directly on the skin).
+  - Elevation: keep the injured limb raised above the level of the heart to reduce
+    throbbing and swelling.
+  - Rest: avoid using the injured limb for gripping, lifting, or bearing weight.
+  - Painkillers: paracetamol (acetaminophen) is commonly used. Anti-inflammatory medicines
+    such as ibuprofen may be advised. Take only the dose your doctor approves.
+  - Safe positioning: support the limb on a pillow and avoid letting it hang down.
+  - Relaxation techniques: slow breathing, distraction, and gentle music can reduce the
+    sensation of pain.
+
+  [ NOTE ]
+  When pain is abnormal: pain that suddenly becomes severe, is not relieved by medicine,
+  comes with numbness, a cold or blue hand, or a very tight cast may signal a serious
+  problem such as compartment syndrome or poor blood supply. Seek medical help urgently.
+
+
+11. DIET FOR BONE HEALING
+-------------------------
+
+Good nutrition speeds up bone healing. The nutrients below all play a role. Try to eat a
+balanced diet that includes them every day, and follow any special diet advice from your
+doctor or dietitian.
+
+
+  Key Nutrients for Bone Healing
+
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Nutrient     | Why it helps & daily intake                | Vegetarian sources                         | Non-vegetarian sources                     |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Calcium      | Main mineral that builds and repairs bone. | Milk, curd, paneer, cheese, ragi, tofu,    | Small fish eaten with bones (sardines),    |
+  |              | About 1000–1200 mg/day for adults.         | green leafy vegetables, sesame seeds       | dairy                                      |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin D    | Helps the body absorb calcium. About       | Sunlight, fortified milk and cereals,      | Egg yolk, fatty fish (salmon, mackerel),   |
+  |              | 600–800 IU/day (more if deficient).        | mushrooms                                  | fish liver oil                             |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Protein      | Builds the collagen framework of bone.     | Dal, beans, chickpeas, rajma, soya,        | Eggs, chicken, fish, lean meat             |
+  |              | About 1.0–1.5 g per kg body weight.        | paneer, tofu, nuts                         |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin C    | Needed to make collagen for bone repair.   | Oranges, lemon, amla, guava, capsicum,     | (Mainly from plant foods)                  |
+  |              | About 65–90 mg/day.                        | tomato, broccoli                           |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin K    | Helps bind calcium into bone. About 90–120 | Spinach, kale, broccoli, cabbage, green    | Eggs, some dairy                           |
+  |              | mcg/day.                                   | leafy vegetables                           |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Magnesium    | Supports bone structure and vitamin D use. | Nuts, seeds, whole grains, bananas, dark   | Fish                                       |
+  |              | About 310–420 mg/day.                      | leafy greens                               |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Phosphorus   | Works with calcium to harden bone. About   | Dairy, beans, lentils, whole grains, nuts  | Meat, fish, poultry, eggs                  |
+  |              | 700 mg/day.                                |                                            |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Zinc         | Helps bone cells grow and repair. About    | Whole grains, legumes, seeds, nuts         | Meat, shellfish, eggs                      |
+  |              | 8–11 mg/day.                               |                                            |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Omega-3 fats | Reduce inflammation and support healing.   | Flaxseed, chia seeds, walnuts, soybean oil | Fatty fish (salmon, mackerel, sardines)    |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Collagen     | Forms the flexible base of bone. Supported | Body makes it from protein-rich plant      | Bone broth, chicken, fish, eggs            |
+  |              | by protein + vitamin C.                    | foods + vitamin C                          |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+
+Drink enough water and, if your doctor recommends, take calcium and vitamin D supplements.
+Do not take high-dose supplements on your own without medical advice.
+
+
+12. FOODS TO AVOID
+------------------
+
+Some foods and habits slow bone healing by reducing calcium absorption, increasing
+inflammation, or harming blood supply. Limit or avoid the following while your fracture
+heals.
+
+  - Alcohol: slows new bone formation and reduces calcium and vitamin D use. Best avoided
+    completely during healing.
+  - Smoking and tobacco: reduce blood flow to the bone and are a leading cause of delayed
+    healing and nonunion. Stopping greatly improves healing.
+  - Sugary foods: too much sugar can increase inflammation and displace healthy foods.
+  - Soft drinks and colas: high phosphoric acid and sugar may reduce calcium balance.
+  - Excess caffeine: large amounts of coffee, tea, or energy drinks can reduce calcium
+    absorption; keep intake moderate.
+  - Processed and packaged food: often high in salt and low in nutrients.
+  - High sodium (salt) intake: makes the body lose more calcium in urine.
+  - Junk and deep-fried food: high in unhealthy fat and low in bone-building nutrients.
+
+In short, a fresh, home-cooked, balanced diet with less salt, sugar, alcohol, and no
+smoking gives your bone the best chance to heal quickly.
+
+
+13. PHYSICAL THERAPY AND REHABILITATION EXERCISES
+-------------------------------------------------
+
+Physiotherapy restores movement, strength, and function. Start only when your doctor
+allows, and stop any exercise that causes sharp or increasing pain. Below are typical
+stages — your therapist will tailor them to you.
+
+
+  Early Stage
+
+  - Finger, wrist, and elbow movements — purpose: prevent stiffness while the shoulder
+    rests. Repetitions: gentle, 10 each, several times daily.
+  - Pendulum exercises (letting the arm hang and gently swinging in small circles) —
+    purpose: gentle early shoulder motion. Precaution: only if your doctor allows.
+
+
+  Middle Stage
+
+  - Assisted shoulder movements (using the good arm or a stick) — purpose: regain range
+    without straining. Repetitions: 10 slow reps. Precaution: stay within a pain-free
+    range.
+  - Active elbow bending and straightening — purpose: reduce elbow stiffness.
+  - Gradual shoulder raises to the front and side — purpose: restore movement.
+
+
+  Advanced Stage
+
+  - Resistance-band shoulder and rotator-cuff exercises — purpose: rebuild strength.
+    Repetitions: 10–15, 2–3 sets. Precaution: start light.
+  - Overhead reaching and strengthening — purpose: restore full function.
+  - Sport-specific and lifting progression — purpose: safe return. Precaution: increase
+    load slowly; stop if pain returns.
+
+  [ NOTE ]
+  General exercise precautions: move slowly, never push through sharp pain, stop if you
+  feel numbness or dizziness, and follow the exact repetitions your therapist advises.
+  When to stop: stop and call your therapist if pain worsens, swelling increases, or
+  movement suddenly decreases.
+
+
+14. ACTIVITIES TO AVOID DURING HEALING
+--------------------------------------
+
+Avoiding certain activities protects the healing bone and implants.
+
+  +------------------------------------------+--------------------------------------------+
+  | Activity                                 | How long to avoid (typical)                |
+  +------------------------------------------+--------------------------------------------+
+  | Lifting or carrying with the injured arm | Until healed — often 10–12 weeks           |
+  +------------------------------------------+--------------------------------------------+
+  | Reaching or working overhead             | About 3 months or until cleared            |
+  +------------------------------------------+--------------------------------------------+
+  | Push-ups, pull-ups, weight training      | About 3–4 months                           |
+  +------------------------------------------+--------------------------------------------+
+  | Contact and throwing sports              | About 4–6 months                           |
+  +------------------------------------------+--------------------------------------------+
+  | Driving with a braced/painful arm        | Until safe control and clearance           |
+  +------------------------------------------+--------------------------------------------+
+  | Carrying heavy bags on that side         | Until full strength returns (about 3       |
+  |                                          | months)                                    |
+  +------------------------------------------+--------------------------------------------+
+
+
+15. POSSIBLE COMPLICATIONS
+--------------------------
+
+Most fractures heal well, but knowing the possible problems helps you spot them early.
+Report any of these to your doctor.
+
+  - Delayed union: the bone heals more slowly than expected. Prevented by good nutrition,
+    not smoking, and following restrictions.
+  - Nonunion: the bone fails to join. Signs are ongoing pain and movement at the break
+    site; may need surgery or a bone graft.
+  - Malunion: the bone heals in the wrong position, causing deformity or reduced function;
+    sometimes needs correction.
+  - Infection: mainly with open fractures or after surgery. Signs are fever, redness,
+    warmth, swelling, pus, or bad smell.
+  - Stiffness: nearby joints become stiff from being kept still; prevented by
+    physiotherapy and gentle movement as advised.
+  - Nerve injury: causes numbness, tingling, or weakness; often improves but should be
+    checked.
+  - Blood vessel injury: rare but serious; causes a cold, pale, or blue limb and needs
+    emergency care.
+  - Chronic (long-lasting) pain: pain that continues after healing; managed with therapy
+    and pain specialists.
+  - Arthritis: joint fractures can lead to wear-and-tear arthritis years later.
+  - Reduced mobility: lasting loss of full movement, reduced by good rehabilitation.
+  - Complex Regional Pain Syndrome (CRPS): an uncommon condition with severe pain,
+    swelling, skin colour and temperature changes; early treatment gives the best result.
+
+
+16. RED FLAG SYMPTOMS — GO TO HOSPITAL IMMEDIATELY
+--------------------------------------------------
+
+Get emergency medical help right away if you notice any of the following. These can mean
+the blood supply, nerves, or the healing is in danger.
+
+  - Severe or rapidly increasing swelling.
+  - Fingers (or toes) turning blue, grey, or very pale.
+  - The hand or limb feels cold to touch.
+  - Numbness or loss of feeling that does not go away.
+  - Fever or chills (a sign of infection).
+  - Bleeding that will not stop.
+  - Severe pain that is not relieved by rest, elevation, or prescribed medicine.
+  - The cast becomes too tight or the limb feels squeezed.
+  - The cast breaks, cracks, or becomes loose.
+  - Pus, discharge, or fluid coming from under the cast or a wound.
+  - A bad smell coming from the cast or wound.
+  - Bone is visible through the skin (open fracture).
+  - Difficulty breathing, chest pain, or coughing after the injury (a possible blood clot
+    or fat embolism — a rare but serious emergency).
+
+  [ NOTE ]
+  Compartment syndrome warning: severe deep pain, tightness, numbness, and pain when the
+  fingers are gently stretched can signal dangerous pressure build-up. This is an
+  emergency — do not wait.
+
+
+17. FOLLOW-UP SCHEDULE
+----------------------
+
+Regular follow-up lets the doctor check that the bone is healing in the right position. A
+typical schedule is below.
+
+  +---------+--------------------------------------------+
+  | Visit   | What the doctor usually checks             |
+  +---------+--------------------------------------------+
+  | Week 1  | Check swelling, brace/sling fit, blood     |
+  |         | flow, and radial nerve (wrist lift);       |
+  |         | X-ray.                                     |
+  +---------+--------------------------------------------+
+  | Week 2  | Confirm alignment held; check the wound if |
+  |         | operated.                                  |
+  +---------+--------------------------------------------+
+  | Week 4  | X-ray for early healing; begin/progress    |
+  |         | gentle movement.                           |
+  +---------+--------------------------------------------+
+  | Week 6  | Check union; advance physiotherapy for     |
+  |         | shoulder and elbow.                        |
+  +---------+--------------------------------------------+
+  | Week 12 | Confirm union; assess range, strength,     |
+  |         | nerve recovery, and plan return to         |
+  |         | activity.                                  |
+  +---------+--------------------------------------------+
+
+
+18. RETURNING TO NORMAL LIFE
+----------------------------
+
+These are general guides for when people usually return to activities. Always get your
+doctor's clearance first.
+
+  +--------------------+--------------------------------------------+
+  | Activity           | Typical time to return                     |
+  +--------------------+--------------------------------------------+
+  | School             | A few days to 1–2 weeks (no sport)         |
+  +--------------------+--------------------------------------------+
+  | Office (desk job)  | 1–3 weeks                                  |
+  +--------------------+--------------------------------------------+
+  | Driving            | After safe arm control and clearance —     |
+  |                    | often 6–10 weeks                           |
+  +--------------------+--------------------------------------------+
+  | Gym (upper body)   | About 3–4 months, building up gradually    |
+  +--------------------+--------------------------------------------+
+  | Swimming           | After brace off and skin/wound healed —    |
+  |                    | about 12 weeks                             |
+  +--------------------+--------------------------------------------+
+  | Cycling            | Light, stable cycling around 10–12 weeks   |
+  |                    | (avoid falls)                              |
+  +--------------------+--------------------------------------------+
+  | Running            | Often 6–8 weeks once the arm is stable     |
+  +--------------------+--------------------------------------------+
+  | Cricket / Football | About 4–6 months with clearance            |
+  +--------------------+--------------------------------------------+
+  | Weight lifting     | About 4–6 months, increasing load slowly   |
+  +--------------------+--------------------------------------------+
+
+
+19. PREVENTION OF FUTURE FRACTURES
+----------------------------------
+
+After one fracture, it is worth protecting your bones for the future. These steps lower
+the chance of breaking a bone again.
+
+  - Bone-strengthening exercises: regular resistance and muscle-strengthening activity
+    keeps bones dense.
+  - Weight-bearing exercise: walking, jogging, dancing, and stair climbing build bone
+    strength.
+  - Balance training: yoga, tai chi, and balance drills reduce falls, especially in older
+    adults.
+  - Vitamin D: from sunlight, diet, or supplements as advised, to help absorb calcium.
+  - Calcium intake: eat enough calcium-rich foods every day.
+  - Protective equipment: wrist guards, elbow pads, and helmets during sports and skating.
+  - Safe workplace habits: follow safety rules, use guards, and prevent falls from height.
+  - Sports safety: warm up, use correct technique, and wear the right gear.
+  - Fall prevention: good footwear, adequate lighting, and vision checks.
+  - Home safety tips: remove loose rugs, add grab bars, keep floors dry and clutter-free.
+  - Osteoporosis screening: a bone density (DEXA) scan for older adults and high-risk
+    people, with treatment if bones are weak.
+
+
+20. FREQUENTLY ASKED QUESTIONS (FAQ)
+------------------------------------
+
+
+  Q1. Can I move my fingers?
+
+Yes. Move your fingers, wrist, and (when allowed) elbow gently while the shoulder rests.
+This prevents stiffness and swelling and keeps the hand working.
+
+
+  Q2. Can I sleep on the injured arm?
+
+No. Many people sleep better semi-upright, propped on pillows, with the arm supported.
+Avoid lying on the injured side.
+
+
+  Q3. Can I remove the brace or sling?
+
+Only as your doctor instructs. A functional brace usually stays on most of the time; some
+are removed briefly for washing and exercises.
+
+
+  Q4. When can I drive?
+
+Usually after several weeks, once you can control the car safely and are cleared — often
+around 6–10 weeks.
+
+
+  Q5. Can I exercise?
+
+Gentle hand, wrist, and lower-body exercise is fine early. Shoulder and upper-body
+strengthening comes later, on your doctor's advice.
+
+
+  Q6. Can I lift weights?
+
+Not until the bone heals and you are cleared — usually about 4–6 months, starting light.
+
+
+  Q7. Is swelling and bruising normal?
+
+Yes. Bruising can spread down the arm toward the elbow over days — this is normal. Report
+severe swelling or a cold, blue hand urgently.
+
+
+  Q8. Is itching inside the cast/brace normal?
+
+Yes, mild itching is common. Do not insert objects to scratch; cool air can help.
+
+
+  Q9. Can I travel?
+
+Short travel is fine once pain is controlled and the arm is supported. Ask before long
+journeys.
+
+
+  Q10. Can I fly?
+
+Usually yes; tell your doctor, especially soon after injury, as swelling can increase.
+
+
+  Q11. Can I get the cast or brace wet?
+
+No, keep it dry with a waterproof cover during bathing to protect the skin and material.
+
+
+  Q12. How long should I wear the sling or brace?
+
+Often several weeks (commonly 4–8), depending on the fracture and your doctor's plan.
+
+
+  Q13. When should I see a doctor urgently?
+
+For a cold or blue hand, no wrist pulse, inability to lift the wrist/fingers, severe pain,
+fever, or a wound with discharge.
+
+
+  Q14. My wrist won't lift — is that serious?
+
+Difficulty lifting the wrist (wrist drop) can mean radial nerve irritation, common with
+shaft fractures. It often recovers but must be checked by your doctor.
+
+
+  Q15. Why is my shoulder so stiff?
+
+After weeks in a sling the shoulder stiffens easily. This is common and improves with
+physiotherapy; regaining overhead movement takes time.
+
+
+  Q16. Will I need surgery?
+
+Not always. Many shaft and undisplaced fractures heal in a brace. Displaced, open, or
+nerve-injury fractures often need a plate or rod.
+
+
+  Q17. Do the plates or rods need to be removed?
+
+Usually they can stay for life and are removed only if they cause pain or problems.
+
+
+  Q18. Is some pain normal weeks later?
+
+Mild aching during healing and physiotherapy is normal. Sharp or worsening pain should be
+reviewed.
+
+
+  Q19. What foods help my arm heal?
+
+Calcium, vitamin D, protein, and vitamin C support bone repair. Avoid smoking and alcohol,
+which slow healing.
+
+
+  Q20. Can I go to work?
+
+Desk work is often possible in 1–3 weeks. Heavy or overhead work usually needs about 12
+weeks or clearance.
+
+
+  Q21. Will my arm be weak after the brace comes off?
+
+Yes, temporary weakness and stiffness are expected. Physiotherapy rebuilds strength and
+movement.
+
+
+  Q22. Can I play sports again?
+
+Yes, most people do. Non-contact around 10–12 weeks and contact/throwing sports around 4–6
+months, after clearance.
+
+
+  Q23. Can I raise my arm overhead again?
+
+Most people regain overhead movement with physiotherapy, though it is often the last
+motion to fully return.
+
+
+  Q24. Why do I sleep better sitting up?
+
+Lying flat can increase arm pain and pressure. Sleeping semi-upright supports the arm and
+is more comfortable early on.
+
+
+  Q25. How can I prevent another humerus fracture?
+
+Strengthen bones with exercise, get enough calcium and vitamin D, prevent falls at home,
+and get osteoporosis screening if at risk.
+
+
+  Q26. Can I use my hand for eating and phone use?
+
+Yes, gentle use of the hand for light tasks like eating or texting is usually fine if it
+does not hurt the upper arm.
+
+
+21. METADATA (FOR RETRIEVAL)
+----------------------------
+
+Structured tags to help the AI assistant retrieve this document accurately.
+
+  +-------------------------+--------------------------------------------+
+  | Field                   | Value                                      |
+  +-------------------------+--------------------------------------------+
+  | Fracture Name           | Humerus Fracture                           |
+  +-------------------------+--------------------------------------------+
+  | Bones Involved          | Humerus (upper arm bone)                   |
+  +-------------------------+--------------------------------------------+
+  | Body Region             | Upper limb (upper arm, shoulder to elbow)  |
+  +-------------------------+--------------------------------------------+
+  | Common Causes           | Falls onto arm/shoulder, road accidents,   |
+  |                         | sports, direct trauma, osteoporosis        |
+  +-------------------------+--------------------------------------------+
+  | Symptoms                | Pain, swelling, deformity, unable to lift  |
+  |                         | arm, wrist drop, numbness, bruising        |
+  +-------------------------+--------------------------------------------+
+  | Treatment Options       | Functional brace, sling, splint; ORIF with |
+  |                         | plate or intramedullary rod, screws,       |
+  |                         | shoulder replacement in severe proximal    |
+  |                         | fractures                                  |
+  +-------------------------+--------------------------------------------+
+  | Healing Duration        | Children 4–6 weeks; adults 8–12 weeks;     |
+  |                         | full recovery 4–6 months                   |
+  +-------------------------+--------------------------------------------+
+  | Rehabilitation Duration | 10–20 weeks of physiotherapy; shoulder     |
+  |                         | stiffness may take longer                  |
+  +-------------------------+--------------------------------------------+
+  | Emergency Signs         | Cold/blue hand, absent pulse, wrist drop,  |
+  |                         | open bone, uncontrolled pain               |
+  +-------------------------+--------------------------------------------+
+  | Keywords                | humerus fracture, broken upper arm,        |
+  |                         | proximal humerus fracture, humeral shaft   |
+  |                         | fracture, radial nerve injury, wrist drop  |
+  +-------------------------+--------------------------------------------+
+  | Synonyms                | Broken upper arm, cracked humerus, upper   |
+  |                         | arm bone fracture                          |
+  +-------------------------+--------------------------------------------+
+  | Related Injuries        | Shoulder fracture, elbow fracture, rotator |
+  |                         | cuff injury, radial nerve palsy            |
+  +-------------------------+--------------------------------------------+
+

@@ -1,0 +1,960 @@
+==========================================================================================
+                   CLASS 4 – PITUITARY TUMOR: PATIENT & CAREGIVER GUIDE                   
+==========================================================================================
+
+An educational guide for people whose brain MRI suggests a pituitary tumor — a growth in
+the pituitary gland, the small hormone-control gland at the base of the brain. It explains
+what a pituitary tumor is, its types, symptoms, diagnosis, MRI features, treatment
+(including hormone therapy), recovery, nutrition, rehabilitation, warning signs, outlook,
+and answers to common questions.
+
+  [ NOTE ]
+  Educational disclaimer: This document is for general education and for use in a
+  retrieval-augmented (RAG) AI assistant that supports patients after an MRI-based brain
+  scan. It is NOT a medical diagnosis and does NOT replace consultation with qualified
+  healthcare professionals such as a neurologist, neurosurgeon, or oncologist. Every
+  person is different, and only your own medical team can confirm a diagnosis and plan
+  treatment. If you have severe or sudden symptoms, seek emergency medical care
+  immediately.
+
+
+==========================================================================================
+1. OVERVIEW
+==========================================================================================
+
+A pituitary tumor is a growth in the pituitary gland, a pea-sized gland at the base of the
+brain that controls many of the body's hormones. Most pituitary tumors are called
+pituitary adenomas. The great majority are benign (non-cancerous) and slow-growing;
+cancerous pituitary tumors are very rare.
+
+Two key ideas: (1) Functioning tumors make too much of a hormone, causing specific
+conditions such as acromegaly (excess growth hormone), Cushing's disease (excess
+cortisol), or high prolactin (a prolactinoma). (2) Non-functioning tumors do not
+over-produce hormones and usually cause problems by their size, pressing on nearby
+structures such as the vision nerves.
+
+Where it occurs: in the pituitary gland, which sits in a small bony pocket (the sella
+turcica) just below the brain and behind the eyes, close to the optic nerves.
+Epidemiology: pituitary tumors are common and are often found by chance. Size:
+'microadenomas' are under 10 mm; 'macroadenomas' are 10 mm or larger. Age groups: they can
+occur at any age, most often in adults. Gender: prolactinomas are more common in younger
+women.
+
+Disease progression and prognosis: most pituitary tumors grow slowly and the outlook is
+generally very good. Many are controlled with medicine or cured with surgery. Hormone
+effects and vision problems often improve with treatment.
+
+
+==========================================================================================
+2. BRAIN ANATOMY
+==========================================================================================
+
+The pituitary gland is small but powerful, and its position explains many symptoms.
+
+  - Pituitary gland: the 'master gland' that controls other hormone glands, including the
+    thyroid, adrenal glands, and reproductive organs.
+  - Hypothalamus: the brain area just above that directs the pituitary; tumors can affect
+    this link.
+  - Sella turcica: the bony pocket that holds the gland.
+  - Optic chiasm: the crossing point of the vision nerves sits just above the gland; a
+    growing tumor can press here and affect side vision.
+  - Cavernous sinuses: spaces on each side carrying blood and the nerves that move the
+    eyes; large tumors can extend into them.
+  - Key hormones: growth hormone, prolactin, ACTH (controls cortisol), TSH (controls
+    thyroid), and the hormones that control the ovaries and testes.
+
+Relationship to surrounding tissue: because the gland sits right below the optic chiasm, a
+larger tumor often first affects vision (classically the outer/side fields). Its position
+also allows surgeons to reach it through the nose (transsphenoidal surgery) rather than
+opening the skull.
+
+
+==========================================================================================
+3. WHAT CAUSES A PITUITARY TUMOR?
+==========================================================================================
+
+In most people the cause is unknown. Pituitary tumors arise when cells in the gland grow
+abnormally. They are not caused by anything the patient did and are not contagious.
+
+
+  Established Risk Factors
+  ------------------------
+
+  - Rare inherited syndromes: such as Multiple Endocrine Neoplasia type 1 (MEN1), Carney
+    complex, and familial isolated pituitary adenoma (FIPA).
+  - Family history of pituitary tumors in a small number of cases.
+
+
+  Possible / Being Studied Factors
+  --------------------------------
+
+  - Hormonal changes may influence some tumors, but a clear avoidable cause is usually not
+    found.
+
+
+  Protective / Not Proven Factors
+  -------------------------------
+
+  - No specific action is proven to prevent pituitary tumors.
+  - A healthy lifestyle supports general health but is not proven to prevent them.
+
+
+==========================================================================================
+4. TYPES AND CLASSIFICATION
+==========================================================================================
+
+Pituitary tumors are usually classified by size and by whether they over-produce a
+hormone, rather than by the WHO I–IV grading used for gliomas. Most are benign adenomas.
+The rare pituitary carcinoma is the only truly malignant form.
+
+  +-------------------------+----------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Type                    | What it is                             | Typical effect                             | Typical treatment                          |
+  +-------------------------+----------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Prolactinoma            | Makes too much prolactin.              | Irregular periods, milk production, low    | Usually medicine (dopamine agonists) first |
+  |                         |                                        | libido, infertility.                       |                                            |
+  +-------------------------+----------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Growth-hormone tumor    | Makes too much growth hormone.         | Acromegaly (enlarged hands, feet, face) in | Surgery, sometimes medicine or radiation   |
+  |                         |                                        | adults.                                    |                                            |
+  +-------------------------+----------------------------------------+--------------------------------------------+--------------------------------------------+
+  | ACTH tumor              | Makes too much ACTH, raising cortisol. | Cushing's disease (weight gain, high blood | Surgery, sometimes medicine or radiation   |
+  |                         |                                        | pressure, high sugar).                     |                                            |
+  +-------------------------+----------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Non-functioning adenoma | Does not over-produce hormones.        | Pressure effects: vision loss, headache,   | Surgery if causing symptoms; sometimes     |
+  |                         |                                        | low hormone levels.                        | observation                                |
+  +-------------------------+----------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Micro- vs macroadenoma  | Under 10 mm vs 10 mm or larger.        | Larger tumors more likely to press on      | Depends on size, hormones, and symptoms    |
+  |                         |                                        | vision nerves.                             |                                            |
+  +-------------------------+----------------------------------------+--------------------------------------------+--------------------------------------------+
+
+Grade and recurrence: most adenomas are benign and slow-growing with a low recurrence risk
+after good treatment. Aggressive adenomas and the very rare carcinoma need closer,
+specialist follow-up.
+
+
+==========================================================================================
+5. COMMON SYMPTOMS
+==========================================================================================
+
+Symptoms come from two sources: too much of a hormone (functioning tumors) and pressure
+from a larger tumor (especially on the vision nerves). Some tumors also cause too little
+hormone by damaging the normal gland.
+
+  - Vision changes: loss of side (peripheral) vision or blurred/double vision, from
+    pressure on the optic nerves — a classic sign of a macroadenoma.
+  - Headache: from stretching of the tissues around the gland.
+  - Hormonal imbalance: irregular or absent periods, milk production (galactorrhoea), low
+    libido, or infertility (often from high prolactin).
+  - Acromegaly signs: enlarging hands, feet, and facial features, and joint pain (excess
+    growth hormone).
+  - Cushing's signs: weight gain around the middle and face, easy bruising, high blood
+    pressure, and high blood sugar (excess cortisol).
+  - Fatigue and weakness: from low hormone levels when the tumor presses on the gland.
+  - Feeling cold, weight change, and low mood: from an underactive thyroid or adrenal
+    axis.
+  - Nausea and vomiting: with larger tumors or sudden changes.
+
+  [ NOTE ]
+  Pituitary emergency (apoplexy): a sudden severe headache with sudden vision loss, double
+  vision, vomiting, or collapse can mean bleeding into the tumor. This is a medical
+  emergency — seek immediate care.
+
+
+==========================================================================================
+6. DIAGNOSIS
+==========================================================================================
+
+Diagnosing a pituitary tumor combines imaging with detailed hormone testing, because both
+the tumor's size and its hormone effects matter.
+
+  - Medical history: symptoms of hormone excess or deficiency, vision changes, and family
+    history.
+  - Neurological and vision examination: including formal visual field testing to check
+    side vision.
+  - MRI: the main imaging test; a dedicated pituitary MRI shows the gland and tumor in
+    detail without radiation.
+  - Contrast MRI: dye helps show the tumor against the normal gland; adenomas often
+    enhance less than the surrounding gland.
+  - CT scan: used in emergencies or to show bony detail; less detailed than MRI for the
+    gland.
+  - Hormone (blood) tests: measure prolactin, growth hormone/IGF-1, cortisol/ACTH, thyroid
+    hormones, and reproductive hormones to find over- or under-production.
+  - Special hormone tests: such as suppression or stimulation tests for Cushing's or
+    acromegaly.
+  - Genetic testing: considered if an inherited syndrome (like MEN1) is suspected.
+  - Biopsy: not usually needed separately; tissue is examined after surgery.
+
+Advantages and limitations: MRI shows the tumor well, but hormone tests are essential to
+understand its type and effects and to plan treatment. Vision testing is key when the
+tumor is large.
+
+
+==========================================================================================
+7. MRI CHARACTERISTICS
+==========================================================================================
+
+A dedicated pituitary MRI shows the size, position, and spread of the tumor.
+
+  - Location: within the pituitary gland in the sella turcica, at the base of the brain.
+  - Size: microadenoma (under 10 mm) or macroadenoma (10 mm or larger).
+  - Shape: microadenomas are small spots within the gland; macroadenomas are larger and
+    may bulge upward.
+  - Contrast enhancement: microadenomas often enhance less than the normal gland early
+    after dye.
+  - Suprasellar extension: larger tumors grow upward and can press on the optic chiasm,
+    sometimes giving a 'snowman' or 'figure-of-eight' shape.
+  - Cavernous sinus involvement: the tumor may extend sideways into these spaces.
+  - Edema: significant surrounding brain swelling is uncommon.
+  - Haemorrhage or necrosis: bleeding into the tumor (apoplexy) can be seen and is an
+    emergency.
+
+A typical macroadenoma looks like a mass rising out of the sella that lifts or presses the
+optic chiasm, which explains the classic loss of side vision.
+
+
+==========================================================================================
+8. TREATMENT OPTIONS
+==========================================================================================
+
+Treatment depends on the tumor type (which hormone, if any, it makes), its size, and its
+effect on vision. Pituitary tumors are unusual in that medicine alone can cure or control
+some of them.
+
+
+  Observation (Watchful Waiting)
+  ------------------------------
+
+Small, non-functioning tumors that cause no symptoms and do not threaten vision are often
+simply monitored with periodic MRI and hormone tests.
+
+
+  Surgery
+  -------
+
+  - Transsphenoidal surgery: the main operation, done through the nose and sphenoid sinus
+    to reach the gland without opening the skull; recovery is usually quicker than a
+    craniotomy.
+  - Endoscopic surgery: a camera-guided version of transsphenoidal surgery, widely used.
+  - Craniotomy: rarely needed, for very large or complex tumors that cannot be reached
+    through the nose.
+  - Complete or partial removal: surgeons remove as much tumor as is safe, especially to
+    relieve pressure on the vision nerves.
+  - Benefits: can cure many tumors, restore vision, and correct hormone excess.
+  - Risks: nasal issues, leak of brain fluid (CSF), infection, and temporary or lasting
+    hormone changes needing replacement.
+  - Recovery: often a short hospital stay with return to light activity over a few weeks.
+
+
+  Radiation Therapy
+  -----------------
+
+  - Stereotactic radiosurgery (Gamma Knife, CyberKnife) and external beam radiation: used
+    for tumor that remains or regrows after surgery, or when surgery is not suitable.
+  - Side effects: fatigue and, over time, possible reduced pituitary function needing
+    hormone replacement.
+  - Recovery: hormone effects are monitored for years after radiation.
+
+
+  Chemotherapy
+  ------------
+
+Standard chemotherapy is not used for typical pituitary adenomas. A drug called
+temozolomide is reserved for the rare aggressive adenoma or carcinoma, under specialist
+care.
+
+
+  Targeted Therapy and Immunotherapy
+  ----------------------------------
+
+These are not standard treatments and are studied mainly for rare, aggressive tumors
+within clinical trials.
+
+
+  Hormone Therapy (Especially Important for Pituitary Tumors)
+  -----------------------------------------------------------
+
+  - Dopamine agonists (e.g., cabergoline, bromocriptine): often the first treatment for
+    prolactinomas, frequently shrinking the tumor and normalising prolactin without
+    surgery.
+  - Somatostatin analogues and other drugs: used to control growth-hormone tumors
+    (acromegaly) and some others.
+  - Hormone replacement: if the tumor or its treatment leaves the gland underactive,
+    patients may need thyroid hormone, steroids (hydrocortisone), sex hormones, or growth
+    hormone to replace what is missing.
+  - Careful monitoring: hormone levels are checked regularly to balance replacement and
+    avoid too much or too little.
+
+  [ NOTE ]
+  Steroid (cortisol) replacement can be life-saving. If you are told you need steroid
+  replacement, never stop it suddenly, and follow 'sick day rules' to increase the dose
+  during illness, as advised by your endocrinologist.
+
+
+==========================================================================================
+9. RECOVERY TIMELINE
+==========================================================================================
+
+Recovery is often quicker than for other brain tumors, especially after transsphenoidal
+(through-the-nose) surgery. These are general guides.
+
+  +------------------------------------------+--------------------------------------------+
+  | Pathway                                  | What to expect                             |
+  +------------------------------------------+--------------------------------------------+
+  | After transsphenoidal surgery            | Hospital stay often 2–4 days; nasal        |
+  |                                          | congestion for a few weeks; light activity |
+  |                                          | in 1–2 weeks; fuller recovery over 4–6     |
+  |                                          | weeks.                                     |
+  +------------------------------------------+--------------------------------------------+
+  | After radiation/radiosurgery             | Often outpatient; fatigue is mild; hormone |
+  |                                          | effects are watched for years.             |
+  +------------------------------------------+--------------------------------------------+
+  | Medicine-controlled (e.g., prolactinoma) | No surgical recovery; the tumor may shrink |
+  |                                          | and symptoms improve over weeks to months  |
+  |                                          | on medication.                             |
+  +------------------------------------------+--------------------------------------------+
+  | Observation                              | No treatment recovery; periodic MRI and    |
+  |                                          | hormone tests.                             |
+  +------------------------------------------+--------------------------------------------+
+
+  - Return to work: often 1–4 weeks after surgery for desk jobs; longer for heavy work.
+  - Return to school: gradual return once recovered and cleared.
+  - Driving: usually paused after surgery or if vision is affected; resume after clearance
+    and normal vision testing.
+  - Physical activity: avoid nose-blowing, heavy lifting, and straining early after
+    transsphenoidal surgery to protect the healing area; gentle activity is encouraged.
+
+Expected milestones: vision often improves within days to weeks after pressure is
+relieved; hormone levels and energy stabilise over weeks to months with the right
+treatment and replacement.
+
+
+==========================================================================================
+10. HOME CARE
+==========================================================================================
+
+Home care focuses on medication, protecting the surgical area, and watching hormone
+balance.
+
+  - Medication adherence: take hormone medicines and any replacements exactly as
+    prescribed; never stop steroid replacement suddenly.
+  - After nasal surgery: avoid forceful nose-blowing, heavy lifting, and straining for a
+    few weeks; sneeze with your mouth open.
+  - Watch fluid balance: report unusual thirst and very frequent urination, which can
+    signal a temporary hormone imbalance (diabetes insipidus) after surgery.
+  - Sleep and hydration: keep regular sleep and drink water as advised.
+  - Stress reduction: manage stress; remember sick-day steroid rules if you need
+    replacement.
+  - Activity restrictions: avoid driving until cleared and vision is normal.
+  - Mental health: seek support for mood changes, which can accompany hormone shifts.
+  - Follow-up appointments: keep all scans, vision checks, and hormone blood tests.
+  - Carry information: if on steroid replacement, carry a steroid alert card or bracelet.
+
+
+==========================================================================================
+11. NUTRITION
+==========================================================================================
+
+Good nutrition supports recovery from pituitary surgery or radiation and hormone balance,
+helps the body cope with treatment, and keeps energy and mood steady. There is no single
+'anti-tumor' diet, but a balanced, mostly whole-food diet is widely recommended. Always
+follow any specific advice from your medical team or dietitian, especially during
+treatment.
+
+
+  Key Nutrients and Why They Help
+  -------------------------------
+
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Nutrient          | Why it helps                               | Vegetarian sources                         | Non-vegetarian sources                  |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Protein           | Repairs tissue and supports healing after  | Dal, beans, chickpeas, rajma, soya,        | Eggs, chicken, fish, lean meat          |
+  |                   | surgery or treatment.                      | paneer, tofu, nuts                         |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Omega-3 fats      | Support brain-cell health and reduce       | Flaxseed, chia, walnuts, soybean oil       | Fatty fish (salmon, mackerel, sardines) |
+  |                   | inflammation.                              |                                            |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin D         | Supports bone and immune health; many      | Sunlight, fortified milk/cereals,          | Egg yolk, fatty fish                    |
+  |                   | patients are low.                          | mushrooms                                  |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin B12       | Needed for healthy nerves and blood.       | Fortified foods, dairy, supplements if     | Eggs, dairy, fish, meat                 |
+  |                   |                                            | vegan                                      |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin C         | Helps wound healing and immunity.          | Amla, orange, guava, lemon, capsicum,      | (mainly plant foods)                    |
+  |                   |                                            | tomato                                     |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin E         | An antioxidant that protects cells.        | Nuts, seeds, vegetable oils, spinach       | (mainly plant foods)                    |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Antioxidants      | Protect cells from damage; from colourful  | Berries, leafy greens, carrots, beetroot,  | (mainly plant foods)                    |
+  |                   | produce.                                   | tomatoes                                   |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Healthy fats      | Provide steady energy and support the      | Olive oil, mustard oil, nuts, avocado,     | Fish                                    |
+  |                   | brain.                                     | seeds                                      |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Whole grains      | Give steady energy and fibre for           | Oats, brown rice, millets (jowar, bajra,   | (mainly plant foods)                    |
+  |                   | digestion.                                 | ragi), whole wheat                         |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Hydration (water) | Prevents tiredness, headaches, and         | Water, buttermilk, coconut water, soups    | Water, broths                           |
+  |                   | constipation.                              |                                            |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+
+
+  Sample Daily Meal Suggestions
+  -----------------------------
+
+  - Breakfast: vegetable oats or besan chilla or eggs with whole-wheat toast and a fruit.
+  - Mid-morning: a fruit (apple, guava, orange) or a handful of nuts.
+  - Lunch: 2 multigrain rotis, dal or beans, a large bowl of vegetables, curd, and salad.
+  - Evening: buttermilk, sprouts, or green tea with roasted chana.
+  - Dinner: brown rice or roti with vegetables and a protein (fish, chicken, tofu, or
+    dal).
+  - Through the day: sip water regularly to stay well hydrated.
+
+  [ NOTE ]
+  During chemotherapy or if you have swallowing, taste, or appetite problems, ask your
+  team for tailored advice. Do not start high-dose supplements on your own, as some can
+  interfere with treatment.
+
+
+==========================================================================================
+12. FOODS TO LIMIT
+==========================================================================================
+
+Some foods and habits do not directly cause brain tumors but can slow recovery, worsen
+general health, or interact with treatment. It is wise to limit the following.
+
+  - Alcohol: can interact with medicines (including anti-seizure and chemotherapy drugs),
+    affect the brain, and disturb sleep. Best avoided or strictly limited.
+  - Smoking and tobacco: harm blood vessels and overall health and slow healing. Stopping
+    is strongly recommended.
+  - Highly processed foods: often high in salt, sugar, and unhealthy fat and low in
+    nutrients.
+  - Sugary beverages: sodas and sweetened juices add empty calories and can worsen energy
+    swings.
+  - Excess salt: too much salt can raise blood pressure and cause fluid retention.
+  - Excess caffeine: large amounts of coffee, tea, or energy drinks can worsen anxiety,
+    tremor, and sleep problems.
+  - Trans fats: found in some fried and bakery items; bad for heart and blood vessels.
+  - Ultra-processed foods: packaged snacks and ready meals; keep these occasional.
+
+In short, a fresh, home-cooked, balanced diet with less salt, sugar, alcohol, and no
+smoking supports recovery and overall brain health.
+
+
+==========================================================================================
+13. REHABILITATION
+==========================================================================================
+
+Many people need little physical rehabilitation after pituitary treatment, but support for
+vision, energy, and hormone adjustment is often helpful.
+
+  - Vision therapy and monitoring: to support recovery and adaptation if vision was
+    affected.
+  - Physical therapy: general reconditioning if weakness or long illness reduced fitness.
+  - Occupational therapy: help returning to daily tasks and work.
+  - Cognitive support: for concentration or memory changes linked to hormone imbalance.
+  - Endocrine rehabilitation: careful, ongoing adjustment of hormone replacement to
+    restore energy and wellbeing.
+  - Counselling: to cope with body-image changes (e.g., from acromegaly or Cushing's) and
+    the emotional impact of hormone changes.
+
+Duration and goals: adjustment of hormones and recovery of vision and energy may take
+weeks to months. The goal is to restore normal hormone balance, protect vision, and return
+to daily life. Outcomes are generally good.
+
+
+==========================================================================================
+14. LIFESTYLE RECOMMENDATIONS
+==========================================================================================
+
+Healthy daily habits support brain health, mood, and recovery. Adapt these to your
+abilities and your doctor's advice.
+
+  - Regular exercise: gentle activity such as walking, as approved by your doctor,
+    improves energy, mood, and sleep.
+  - Stress management: reduce stress with breathing exercises, hobbies, and pacing your
+    day.
+  - Meditation: mindfulness or guided relaxation can ease anxiety and improve focus.
+  - Yoga: gentle yoga (with medical clearance) supports flexibility, balance, and calm.
+  - Sleep hygiene: keep a regular sleep schedule, a dark quiet room, and limit screens
+    before bed; aim for 7–9 hours.
+  - Hydration: drink water through the day to avoid tiredness and headaches.
+  - Weight management: keep a healthy weight with balanced food and activity.
+  - Mental wellness: seek support for low mood or anxiety; counselling can help.
+  - Family support: involve family in appointments, medication, and daily routines.
+  - Social engagement: stay connected with friends and community to protect mood and
+    thinking skills.
+
+
+==========================================================================================
+15. POSSIBLE COMPLICATIONS
+==========================================================================================
+
+Complications can come from the tumor, from surgery, or from hormone imbalance.
+
+  - Vision loss: from pressure on the optic nerves; often improves with treatment but can
+    be lasting if severe.
+  - Hormonal imbalance: too much or too little of pituitary hormones, needing medicine or
+    replacement.
+  - Hypopituitarism: an underactive gland after treatment, requiring hormone replacement.
+  - Diabetes insipidus: a temporary (sometimes lasting) problem after surgery causing
+    excess urination and thirst, treated with medication.
+  - CSF leak: leakage of brain fluid through the nose after transsphenoidal surgery,
+    needing prompt treatment.
+  - Pituitary apoplexy: sudden bleeding into the tumor — a medical emergency.
+  - Infection or meningitis: a small risk after surgery.
+  - Recurrence: the tumor can regrow, so monitoring continues.
+  - Mood disorders: hormone changes can affect mood; these are treatable.
+
+
+==========================================================================================
+16. EMERGENCY WARNING SIGNS
+==========================================================================================
+
+Seek emergency medical help right away for any of these:
+
+  - A sudden, severe ('worst ever') headache, especially with vision loss or double vision
+    (possible pituitary apoplexy).
+  - Sudden loss of vision or rapidly worsening vision.
+  - Severe vomiting with headache and confusion.
+  - Loss of consciousness or collapse.
+  - Signs of adrenal crisis if on steroid replacement: severe weakness, vomiting, low
+    blood pressure, and confusion — take emergency steroids if advised and get help.
+  - Clear watery fluid draining from the nose after surgery (possible CSF leak) with
+    headache or fever.
+  - Rapidly worsening symptoms of any kind.
+
+  [ NOTE ]
+  Pituitary apoplexy and adrenal crisis are life-threatening emergencies. If you carry a
+  steroid emergency kit or alert card, use it and call emergency services immediately.
+
+
+==========================================================================================
+17. FOLLOW-UP SCHEDULE
+==========================================================================================
+
+Follow-up watches hormone levels, vision, and the tumor. It is often lifelong because
+hormone balance needs ongoing care.
+
+  - Initial follow-up: within a few weeks of surgery to check healing, vision, and
+    hormones.
+  - MRI scans: a baseline scan after treatment, then periodic scans (often at 3–12 months
+    and then yearly, spacing out if stable).
+  - Hormone testing: regular blood tests to check for over-production, under-production,
+    and to adjust replacement.
+  - Vision testing: repeated visual field checks if the tumor pressed on the optic nerves.
+  - Neurological examination: as needed at reviews.
+  - Long-term monitoring: often lifelong for hormone balance and recurrence.
+  - Recurrence surveillance: new symptoms or rising hormone levels prompt earlier review.
+
+
+==========================================================================================
+18. LONG-TERM OUTLOOK
+==========================================================================================
+
+The outlook for most pituitary tumors is very good. Many are cured or well controlled, and
+vision and hormone problems often improve with treatment.
+
+  - Prognosis: excellent for most benign adenomas; prolactinomas are often controlled with
+    medicine alone.
+  - Quality of life: usually good, especially once hormones are balanced and vision
+    recovers.
+  - Recurrence risk: possible, so periodic scans and hormone tests continue.
+  - Living with the condition: many people need lifelong hormone replacement or
+    monitoring, which becomes a manageable routine.
+  - Psychological support: helpful for coping with body-image changes and the demands of
+    long-term hormone care.
+
+Your endocrinologist and neurosurgeon can give the most accurate outlook based on the
+tumor type, size, and treatment response.
+
+
+==========================================================================================
+19. PREVENTION AND RISK REDUCTION
+==========================================================================================
+
+There is no proven way to prevent pituitary tumors, but general steps support health and
+help detect problems early.
+
+  - Healthy lifestyle: balanced diet, regular activity, healthy weight, and good sleep.
+  - Report symptoms early: vision changes, persistent headaches, menstrual changes, or
+    unexplained body changes deserve medical review.
+  - Manage chronic conditions: control blood pressure and blood sugar, which hormone
+    tumors can worsen.
+  - Regular medical check-ups: especially if you have a family history or a known syndrome
+    such as MEN1.
+  - Screening: routine screening is not done in the general population; people with
+    inherited syndromes may have regular monitoring.
+  - What cannot be prevented: most pituitary tumors arise without an avoidable cause.
+
+
+==========================================================================================
+20. FREQUENTLY ASKED QUESTIONS (FAQ)
+==========================================================================================
+
+Below are common questions from patients and caregivers about pituitary tumors. Answers
+are general; your endocrinologist and surgeon can advise for your situation.
+
+
+  Q1. What is a pituitary tumor?
+  ------------------------------
+
+It is a growth in the pituitary gland, the small hormone-control gland at the base of the
+brain. Most are benign adenomas that are slow growing.
+
+
+  Q2. Is a pituitary tumor cancer?
+  --------------------------------
+
+Almost never. The vast majority are benign (non-cancerous) adenomas. True pituitary cancer
+(carcinoma) is very rare.
+
+
+  Q3. Can a pituitary tumor spread?
+  ---------------------------------
+
+Benign adenomas do not spread to other organs. They can grow and press on nearby
+structures such as the vision nerves. Spread is only seen in the very rare carcinoma.
+
+
+  Q4. Will I need surgery?
+  ------------------------
+
+Not always. Prolactinomas are often treated with medicine alone. Surgery (usually through
+the nose) is used for tumors pressing on vision or making certain hormones.
+
+
+  Q5. What is transsphenoidal surgery?
+  ------------------------------------
+
+It is an operation to remove the tumor through the nose and sphenoid sinus, avoiding
+opening the skull. Recovery is usually quicker than a craniotomy.
+
+
+  Q6. Can a pituitary tumor come back?
+  ------------------------------------
+
+Yes, it can regrow, so long-term monitoring with scans and hormone tests continues even
+after successful treatment.
+
+
+  Q7. Is a pituitary tumor hereditary?
+  ------------------------------------
+
+Usually not. Most occur by chance. A few are linked to inherited syndromes such as MEN1;
+tell your doctor of any family history.
+
+
+  Q8. Why do I have vision problems?
+  ----------------------------------
+
+A larger tumor can press on the optic chiasm just above the gland, classically causing
+loss of side vision. Relieving the pressure often improves vision.
+
+
+  Q9. Can I drive?
+  ----------------
+
+Driving is usually paused after surgery or if your vision is affected. You can return
+after clearance and normal vision testing, per your region's rules.
+
+
+  Q10. Can I travel?
+  ------------------
+
+Yes, once stable and cleared. If you take steroid replacement, carry extra medicine, a
+steroid alert card, and know your sick-day rules.
+
+
+  Q11. Can I fly?
+  ---------------
+
+Flying is generally safe once cleared, but avoid it soon after transsphenoidal surgery
+until your surgeon agrees, to protect the healing nasal area.
+
+
+  Q12. Can I work?
+  ----------------
+
+Most people return to work within a few weeks after surgery for desk jobs. Timing depends
+on your recovery, vision, and hormone balance.
+
+
+  Q13. Can I exercise?
+  --------------------
+
+Gentle activity is encouraged, but avoid heavy lifting, straining, and forceful
+nose-blowing for a few weeks after nasal surgery. Ask your surgeon when to resume.
+
+
+  Q14. Can I have children?
+  -------------------------
+
+Often yes. Treating a prolactinoma can actually restore fertility. Pregnancy needs
+planning and monitoring, especially with larger tumors — discuss it with your
+endocrinologist.
+
+
+  Q15. Can I drink alcohol?
+  -------------------------
+
+Limit alcohol, especially during recovery and if you take medicines that interact with it.
+Ask your doctor about your specific treatment.
+
+
+  Q16. Is an MRI safe?
+  --------------------
+
+Yes. MRI uses magnets, not radiation, and a dedicated pituitary MRI is the best test for
+the gland. Tell staff about metal implants or a pacemaker.
+
+
+  Q17. Will I lose my memory?
+  ---------------------------
+
+Memory loss is not typical. Hormone imbalance can affect concentration and mood, which
+usually improve once hormones are balanced.
+
+
+  Q18. What symptoms require emergency care?
+  ------------------------------------------
+
+A sudden severe headache with vision loss or vomiting (possible apoplexy), sudden vision
+loss, collapse, or signs of adrenal crisis on steroid replacement — seek emergency care at
+once.
+
+
+  Q19. How often will I need follow-up?
+  -------------------------------------
+
+Often a scan and hormone tests at 3–12 months, then yearly if stable, with vision checks
+if the tumor pressed on the nerves. Hormone care is frequently lifelong.
+
+
+  Q20. What is a prolactinoma?
+  ----------------------------
+
+A common pituitary tumor that makes too much prolactin, causing irregular periods, milk
+production, low libido, or infertility. It is usually treated with tablets that shrink it.
+
+
+  Q21. What is acromegaly?
+  ------------------------
+
+A condition from too much growth hormone, causing enlarged hands, feet, and facial
+features and joint pain. It is treated with surgery, medicine, or radiation.
+
+
+  Q22. What is Cushing's disease?
+  -------------------------------
+
+A condition from a tumor making too much ACTH, raising cortisol. It causes weight gain,
+high blood pressure, and high sugar, and is usually treated with surgery.
+
+
+  Q23. What does 'functioning' vs 'non-functioning' mean?
+  -------------------------------------------------------
+
+A functioning tumor over-produces a hormone and causes specific symptoms; a
+non-functioning tumor does not and usually causes problems by its size.
+
+
+  Q24. What is the difference between a microadenoma and a macroadenoma?
+  ----------------------------------------------------------------------
+
+A microadenoma is under 10 mm; a macroadenoma is 10 mm or larger and is more likely to
+press on the vision nerves.
+
+
+  Q25. Why do I need hormone replacement?
+  ---------------------------------------
+
+If the tumor or its treatment leaves the gland underactive, you may need to replace
+missing hormones such as thyroid hormone, steroids, or sex hormones to feel well and stay
+safe.
+
+
+  Q26. Why must I never stop steroid replacement suddenly?
+  --------------------------------------------------------
+
+Stopping cortisol replacement abruptly can cause a life-threatening adrenal crisis. Follow
+sick-day rules and always keep an emergency supply and alert card.
+
+
+  Q27. What is diabetes insipidus?
+  --------------------------------
+
+A temporary (sometimes lasting) problem after pituitary surgery causing very frequent
+urination and intense thirst. It is treated with a medicine that replaces the missing
+hormone.
+
+
+  Q28. Will radiation affect my hormones?
+  ---------------------------------------
+
+It can, over time, reduce pituitary function, so your hormones are monitored for years
+after radiation and replaced if needed.
+
+
+  Q29. Is chemotherapy used?
+  --------------------------
+
+Not for typical adenomas. A specific drug (temozolomide) is reserved for rare aggressive
+tumors, under specialist care.
+
+
+  Q30. Is a pituitary tumor painful?
+  ----------------------------------
+
+It can cause headaches from stretching nearby tissues, but the gland itself does not feel
+pain. Headache is managed as part of care.
+
+
+  Q31. Is it contagious?
+  ----------------------
+
+No. You cannot catch or pass on a pituitary tumor.
+
+
+  Q32. Will my appearance change?
+  -------------------------------
+
+Hormone excess (acromegaly or Cushing's) can change appearance; many changes stabilise or
+partly improve after treatment. Support and counselling help.
+
+
+  Q33. Can children get pituitary tumors?
+  ---------------------------------------
+
+Yes, though less commonly. They can affect growth and puberty, so children are cared for
+by paediatric endocrine specialists.
+
+
+  Q34. How long is the hospital stay?
+  -----------------------------------
+
+Often about 2–4 days after transsphenoidal surgery if recovery is smooth.
+
+
+  Q35. Can I blow my nose after surgery?
+  --------------------------------------
+
+Not forcefully for the first few weeks after nasal surgery, to protect the healing area.
+Sneeze with your mouth open and follow your surgeon's advice.
+
+
+  Q36. Can I take supplements?
+  ----------------------------
+
+Check with your doctor, as some can interact with hormone treatment. A balanced diet is
+usually the best source of nutrients.
+
+
+  Q37. Will I need lifelong treatment?
+  ------------------------------------
+
+Some people do — either ongoing medicine (as for many prolactinomas) or hormone
+replacement and monitoring. This becomes a manageable routine.
+
+
+  Q38. How is the tumor type confirmed?
+  -------------------------------------
+
+By combining MRI with detailed hormone blood tests, and by examining tissue removed at
+surgery.
+
+
+  Q39. How do I cope emotionally?
+  -------------------------------
+
+Hormone changes and diagnosis can affect mood. Counselling, support groups, and open
+communication with your endocrine team all help.
+
+
+  Q40. Does diet cure a pituitary tumor?
+  --------------------------------------
+
+No diet cures it, but good nutrition supports recovery and helps manage weight and blood
+sugar, which some hormone tumors affect.
+
+
+  Q41. Who is on my care team?
+  ----------------------------
+
+Usually an endocrinologist, a neurosurgeon (often a pituitary specialist), an
+ophthalmologist for vision, a radiologist, nurses, and sometimes a radiation oncologist.
+
+
+==========================================================================================
+21. METADATA FOR RETRIEVAL
+==========================================================================================
+
+Structured tags to help the AI assistant retrieve this document accurately.
+
+  +----------------------------+--------------------------------------------+
+  | Field                      | Value                                      |
+  +----------------------------+--------------------------------------------+
+  | Tumor Name                 | Pituitary Tumor                            |
+  +----------------------------+--------------------------------------------+
+  | Alternative Names          | Pituitary adenoma, prolactinoma,           |
+  |                            | growth-hormone/ACTH-secreting adenoma,     |
+  |                            | non-functioning adenoma                    |
+  +----------------------------+--------------------------------------------+
+  | WHO Grade                  | Usually benign adenoma (not WHO I–IV       |
+  |                            | graded); rare pituitary carcinoma          |
+  +----------------------------+--------------------------------------------+
+  | Tumor Category             | Tumor of the pituitary gland               |
+  |                            | (endocrine/skull-base)                     |
+  +----------------------------+--------------------------------------------+
+  | Brain Region               | Pituitary gland in the sella turcica at    |
+  |                            | the base of the brain, below the optic     |
+  |                            | chiasm                                     |
+  +----------------------------+--------------------------------------------+
+  | Benign or Malignant        | Almost always benign; malignant carcinoma  |
+  |                            | is very rare                               |
+  +----------------------------+--------------------------------------------+
+  | Typical Symptoms           | Vision loss (side fields), headache,       |
+  |                            | hormone excess (prolactin, growth hormone, |
+  |                            | cortisol) or deficiency, fatigue,          |
+  |                            | menstrual changes                          |
+  +----------------------------+--------------------------------------------+
+  | Diagnostic Methods         | Pituitary MRI, contrast MRI, hormone blood |
+  |                            | tests, visual field testing, genetic       |
+  |                            | testing if syndrome suspected              |
+  +----------------------------+--------------------------------------------+
+  | MRI Characteristics        | Sellar mass; micro (<10 mm) or             |
+  |                            | macroadenoma (>=10 mm); suprasellar        |
+  |                            | extension compressing optic chiasm;        |
+  |                            | possible apoplexy                          |
+  +----------------------------+--------------------------------------------+
+  | Treatment Options          | Observation, transsphenoidal/endoscopic    |
+  |                            | surgery, radiosurgery/radiation, hormone   |
+  |                            | therapy (dopamine agonists, somatostatin   |
+  |                            | analogues), hormone replacement            |
+  +----------------------------+--------------------------------------------+
+  | Recovery Duration          | Transsphenoidal surgery 4–6 weeks;         |
+  |                            | medicine-controlled tumors improve over    |
+  |                            | weeks to months                            |
+  +----------------------------+--------------------------------------------+
+  | Follow-Up Frequency        | MRI at 3–12 months then yearly; regular    |
+  |                            | hormone and vision testing, often lifelong |
+  +----------------------------+--------------------------------------------+
+  | Common Complications       | Vision loss, hypopituitarism, diabetes     |
+  |                            | insipidus, CSF leak, apoplexy, recurrence, |
+  |                            | mood changes                               |
+  +----------------------------+--------------------------------------------+
+  | Emergency Symptoms         | Sudden severe headache with vision loss    |
+  |                            | (apoplexy), adrenal crisis on steroids,    |
+  |                            | CSF leak, collapse                         |
+  +----------------------------+--------------------------------------------+
+  | Keywords                   | pituitary tumor, pituitary adenoma,        |
+  |                            | prolactinoma, acromegaly, Cushing's        |
+  |                            | disease, transsphenoidal surgery, hormone  |
+  |                            | replacement                                |
+  +----------------------------+--------------------------------------------+
+  | Synonyms                   | Pituitary gland tumor, hypophyseal         |
+  |                            | adenoma, sellar tumor                      |
+  +----------------------------+--------------------------------------------+
+  | Related Medical Conditions | Hypopituitarism, diabetes insipidus,       |
+  |                            | acromegaly, Cushing's disease, MEN1,       |
+  |                            | visual field loss                          |
+  +----------------------------+--------------------------------------------+
+

@@ -1,0 +1,803 @@
+==========================================================================================
+                       CLASS 2 – ELBOW FRACTURE: PATIENT CARE GUIDE                       
+==========================================================================================
+
+A clear, patient-friendly guide for people who have an elbow fracture — a break in one of
+the bones that form the elbow joint (the lower humerus, the olecranon of the ulna, or the
+radial head). It explains causes, symptoms, diagnosis, treatment, healing, exercises,
+warning signs, and common questions.
+
+  [ NOTE ]
+  Medical disclaimer: This document is an educational reference created for a
+  patient-support knowledge base and for use in a retrieval-augmented (RAG) AI assistant.
+  It is NOT a substitute for professional medical advice, diagnosis, or treatment. Healing
+  times, medicines, and exercises differ for every person. Always follow the instructions
+  of your own doctor, orthopaedic surgeon, or physiotherapist. In an emergency, contact
+  local emergency services immediately.
+
+
+1. INTRODUCTION
+---------------
+
+An elbow fracture is a break in one of the three bones that meet at the elbow joint. The
+elbow is a hinge joint that also allows the forearm to rotate. A break here is also called
+a broken elbow.
+
+Which bones are involved: the lower end of the humerus (upper arm bone), the olecranon
+(the bony tip of the ulna that forms the point of the elbow), and the radial head (the top
+of the radius). Any one or a combination can break.
+
+Common causes: falling onto the elbow or an outstretched hand, direct blows, sports
+injuries, and road accidents. How common it is: elbow fractures are common in both
+children (especially supracondylar fractures of the humerus) and adults, and account for a
+large share of arm injuries.
+
+Who is at higher risk: children (elbow fractures are among the most common childhood
+fractures), older adults with osteoporosis, athletes, and people in high-fall-risk
+activities. Severity ranges from a small undisplaced crack (mild) to a shattered,
+displaced, or open joint fracture (severe).
+
+
+  Types of Fractures Affecting This Bone
+
+A elbow fracture can happen in several patterns. Common fracture types include:
+
+  - Hairline fracture (a very thin, small crack in the bone).
+  - Stress fracture (a tiny crack caused by repeated force or overuse).
+  - Greenstick fracture (the bone bends and cracks on one side; common in children).
+  - Closed fracture (the bone breaks but the skin stays intact).
+  - Open (compound) fracture (the broken bone breaks through the skin).
+  - Comminuted fracture (the bone breaks into three or more pieces).
+  - Spiral fracture (a break that twists around the bone, often from a twisting injury).
+  - Impacted fracture (the broken ends are driven into each other).
+  - Transverse fracture (a straight break across the bone).
+  - Oblique fracture (a slanted or angled break across the bone).
+
+Common elbow patterns include olecranon fractures (the elbow tip), radial head fractures
+(top of the radius), and supracondylar fractures (just above the elbow in children).
+
+
+2. ANATOMY
+----------
+
+The elbow is where three bones meet, wrapped by muscles, ligaments, nerves, and vessels.
+
+  - Bones involved: the distal humerus, the olecranon (ulna), and the radial head
+    (radius). Together they allow bending, straightening, and forearm rotation.
+  - Nearby muscles: the biceps and brachialis bend the elbow; the triceps straightens it;
+    forearm muscles attach around the joint.
+  - Tendons: the triceps tendon attaches to the olecranon and the biceps tendon near the
+    radius; injury affects the ability to bend or straighten the elbow.
+  - Ligaments: the collateral ligaments on each side stabilise the joint against
+    side-to-side movement.
+  - Blood vessels: the brachial artery passes in front of the elbow to supply the forearm
+    and hand; injury can threaten blood flow.
+  - Nerves: the ulnar nerve (the 'funny bone'), median, and radial nerves cross the elbow
+    and control hand movement and feeling; they can be stretched or pressed in elbow
+    fractures.
+
+Because the elbow is a joint, breaks that involve the joint surface can lead to stiffness
+and arthritis if not aligned well. Nerve injury (especially the ulnar nerve) can cause
+hand numbness, so doctors check hand function carefully.
+
+
+3. COMMON CAUSES
+----------------
+
+Most fractures happen when a force is stronger than the bone can handle. The main causes
+are:
+
+  - Falls: slipping, tripping, or falling onto an outstretched hand or arm — the most
+    common cause overall.
+  - Road traffic accidents: high-speed impacts from car, motorbike, or cycle crashes.
+  - Sports injuries: contact sports, skating, cycling, gymnastics, and falls during play.
+  - Workplace accidents: falls from height, machinery injuries, or heavy objects.
+  - Direct trauma: a hard blow or hit directly on the bone.
+  - Twisting injuries: the limb turns while the hand or body stays fixed.
+  - Heavy object injuries: something heavy falling onto the limb.
+  - Osteoporosis: weak, thin bones that break easily, especially in older adults.
+  - Bone tumors: growths that weaken the bone (pathological fracture).
+  - Repetitive stress: repeated overuse leading to stress fractures over time.
+
+For the elbow specifically, a fall directly onto the point of the elbow or onto an
+outstretched hand is the leading cause.
+
+
+4. SYMPTOMS
+-----------
+
+Common signs and symptoms of a elbow fracture include:
+
+  - Sudden, sharp pain in the elbow.
+  - Swelling and bruising around the joint.
+  - A deformed or out-of-shape elbow.
+  - Inability to straighten or bend the elbow.
+  - Difficulty turning the palm up or down.
+  - Numbness or tingling in the hand or fingers (possible nerve involvement).
+  - Weak grip or trouble using the hand.
+  - A popping or cracking feeling at the time of injury.
+  - In an open fracture, bone may be visible through a wound.
+
+  [ NOTE ]
+  Emergency warning signs: a cold, pale, or blue hand, no pulse at the wrist, spreading
+  numbness, severe deformity, bone through the skin, or rapidly increasing pain. Get
+  emergency care at once — the brachial artery and nerves can be at risk.
+
+
+5. DIAGNOSIS
+------------
+
+Doctors confirm a fracture using a physical check and imaging tests. Each test gives
+different information.
+
+
+  Physical Examination and Medical History
+
+The doctor asks how the injury happened and checks for pain, swelling, bruising,
+deformity, tenderness, movement, pulse, skin colour, and sensation. Telling the doctor
+about past fractures, osteoporosis, medicines, and other illnesses helps plan the right
+treatment.
+
+
+  Imaging Tests
+
+  - X-ray: the first and main test. It shows most fractures, the exact location, and
+    whether the bone has moved out of place (displacement).
+  - CT scan: gives detailed 3-D images. Used for complex breaks, joint involvement, or
+    when the X-ray is unclear, to plan surgery.
+  - MRI: shows soft tissues, bone bruising, and hairline or stress fractures that may not
+    appear on an X-ray. Also checks nearby ligaments, tendons, and nerves.
+  - Ultrasound: sometimes used, especially in children, to look at bone surfaces and
+    soft-tissue swelling without radiation.
+  - Bone scan: can detect very small stress fractures or hidden fractures that other tests
+    miss, by showing areas of increased bone activity.
+
+For an elbow fracture, X-rays from two angles are standard. A CT scan is often used
+because joint-surface (intra-articular) fractures are common and need precise assessment
+before surgery. In children, comparison X-rays of the other elbow may help because growth
+plates can look like fractures.
+
+
+6. TREATMENT OPTIONS
+--------------------
+
+Treatment depends on the type of break, how far the bone has moved, and your age and
+health. It falls into non-surgical and surgical options.
+
+
+  Non-Surgical Treatment
+
+Undisplaced or stable elbow fractures often heal without surgery.
+
+  - Cast or splint: holds the elbow, usually bent at about 90 degrees, while it heals.
+  - Brace: a hinged brace may allow controlled, protected movement in some fractures.
+  - Sling: supports the arm and keeps the elbow at rest.
+  - Ice therapy: reduces pain and swelling in the first days.
+  - Elevation: keeping the arm raised lowers swelling.
+  - Pain medications: paracetamol for pain relief.
+  - Anti-inflammatory medicines: such as ibuprofen, if approved by your doctor.
+
+When recommended: non-surgical care suits stable fractures where the bone is in a good
+position. Advantages: no surgery, lower infection risk, and no anaesthesia. Limitations:
+needs a well-set position, the cast can cause stiffness, and it may not hold badly
+displaced or unstable fractures.
+
+
+  Surgical Treatment
+
+Surgery is used when the bone is badly out of place, broken into many pieces, involves a
+joint, is an open (compound) fracture, or fails to heal with a cast. The aim is to put the
+pieces back in the correct position and hold them still while they heal.
+
+  - ORIF (Open Reduction Internal Fixation): the surgeon opens the skin, sets the bone in
+    the right position (reduction), and fixes it with metal implants.
+  - Plates: flat metal supports screwed along the bone to hold the pieces together.
+  - Screws: hold fragments together, alone or with a plate.
+  - Pins (K-wires): thin wires that hold small pieces, often used in fingers and in
+    children; usually removed later.
+  - Rods (intramedullary nails): metal rods placed inside the hollow centre of a long bone
+    to support it.
+  - External fixator: a frame outside the body connected to the bone by pins; used for
+    severe, open, or badly contaminated fractures.
+  - Bone graft: extra bone (from your own body or a donor) added to help healing when
+    there is bone loss or slow healing.
+
+Indications (when surgery is needed): displaced olecranon fractures, comminuted or
+joint-surface fractures, unstable radial head fractures, open fractures, and most
+displaced supracondylar fractures in children (often fixed with pins). Olecranon fractures
+are commonly fixed with a tension-band wire or a plate.
+
+
+  Recovery Expectations and Risks After Surgery
+
+  - Recovery: a protective cast, splint, or sling is often used after surgery, followed by
+    physiotherapy. Implants usually stay in place unless they cause problems.
+  - Risks: infection, bleeding, nerve or blood vessel injury, implant irritation or
+    loosening, stiffness, blood clots, and reaction to anaesthesia.
+  - Most people regain good function, but full recovery takes weeks to months and depends
+    on the injury and following rehabilitation.
+
+
+7. HEALING TIMELINE
+-------------------
+
+Healing time varies by age, general health, fracture type, and how well instructions are
+followed. The table gives typical ranges.
+
+  +--------------+--------------------------------------------+
+  | Group        | Typical healing / recovery                 |
+  +--------------+--------------------------------------------+
+  | Children     | Often 3–6 weeks to unite; pinned           |
+  |              | supracondylar fractures heal quickly but   |
+  |              | need careful follow-up.                    |
+  +--------------+--------------------------------------------+
+  | Adults       | About 6–12 weeks for bone union; joint     |
+  |              | fractures may need longer rehab.           |
+  +--------------+--------------------------------------------+
+  | Older adults | 8–12 weeks or more; stiffness is a common  |
+  |              | challenge.                                 |
+  +--------------+--------------------------------------------+
+  | Athletes     | Union in 6–12 weeks; full return to sport  |
+  |              | often 3–4 months.                          |
+  +--------------+--------------------------------------------+
+
+Stages of healing: initial healing (inflammation and soft callus) in the first weeks, bone
+union (hard callus bridges the break), and functional recovery (regaining strength and
+movement). Regaining full straightening (extension) of the elbow is often the slowest part
+and needs steady physiotherapy.
+
+  - Return to work: desk work in 1–3 weeks; heavy manual work often 10–12 weeks or after
+    clearance.
+  - Return to sports: non-contact around 8–12 weeks; contact/throwing sports usually 3–4
+    months.
+  - Full recovery: 3–6 months; some stiffness can take up to a year to fully settle.
+
+Factors that delay healing: smoking, alcohol, poor nutrition, diabetes, osteoporosis,
+infection, poor blood supply, older age, certain medicines (such as steroids), and not
+resting the injured limb.
+
+
+8. RECOVERY STAGES
+------------------
+
+Knowing what to expect at each stage helps you feel reassured. Your own timeline may
+differ slightly.
+
+  +----------+--------------------------------------------+
+  | Stage    | What usually happens                       |
+  +----------+--------------------------------------------+
+  | Week 1   | Pain and swelling peak; arm rested in      |
+  |          | splint/sling; move fingers and shoulder.   |
+  +----------+--------------------------------------------+
+  | Week 2   | Swelling easing; keep hand and shoulder    |
+  |          | moving to prevent stiffness.               |
+  +----------+--------------------------------------------+
+  | Week 3–4 | Bone knitting; gentle, protected elbow     |
+  |          | movement may begin if advised.             |
+  +----------+--------------------------------------------+
+  | Week 5–8 | Bone uniting; splint often removed; active |
+  |          | physiotherapy for bending/straightening.   |
+  +----------+--------------------------------------------+
+  | Month 3  | Bone usually united; working on full range |
+  |          | and strength.                              |
+  +----------+--------------------------------------------+
+  | Month 6  | Near-full movement and strength for most;  |
+  |          | heavy activity resumed.                    |
+  +----------+--------------------------------------------+
+
+
+9. DAILY CARE INSTRUCTIONS
+--------------------------
+
+  - Keep the cast or splint dry: cover it while bathing; moisture weakens it and irritates
+    skin.
+  - Sleeping position: keep the arm supported and slightly raised on a pillow; avoid lying
+    on the injured elbow.
+  - Bathing: use a waterproof cover or sponge-bathe; keep the elbow still if in a splint.
+  - Clothing: wear loose or button clothing; dress the injured arm first.
+  - Walking: normal walking is fine; keep the arm in the sling for support.
+  - Driving: avoid driving until the elbow bends enough and you can control the car safely
+    — ask your doctor.
+  - Returning to office: light desk work is often possible within 1–3 weeks.
+  - Returning to school: children can attend once comfortable, avoiding sport and rough
+    play.
+  - Household activities: avoid pushing, pulling, and lifting with the injured arm.
+
+
+10. PAIN MANAGEMENT
+-------------------
+
+Some pain is normal after a fracture, especially in the first days. These safe, simple
+methods help control it.
+
+  - Ice packs: wrap ice in a cloth and apply for 15–20 minutes several times a day to
+    reduce pain and swelling (never put ice directly on the skin).
+  - Elevation: keep the injured limb raised above the level of the heart to reduce
+    throbbing and swelling.
+  - Rest: avoid using the injured limb for gripping, lifting, or bearing weight.
+  - Painkillers: paracetamol (acetaminophen) is commonly used. Anti-inflammatory medicines
+    such as ibuprofen may be advised. Take only the dose your doctor approves.
+  - Safe positioning: support the limb on a pillow and avoid letting it hang down.
+  - Relaxation techniques: slow breathing, distraction, and gentle music can reduce the
+    sensation of pain.
+
+  [ NOTE ]
+  When pain is abnormal: pain that suddenly becomes severe, is not relieved by medicine,
+  comes with numbness, a cold or blue hand, or a very tight cast may signal a serious
+  problem such as compartment syndrome or poor blood supply. Seek medical help urgently.
+
+
+11. DIET FOR BONE HEALING
+-------------------------
+
+Good nutrition speeds up bone healing. The nutrients below all play a role. Try to eat a
+balanced diet that includes them every day, and follow any special diet advice from your
+doctor or dietitian.
+
+
+  Key Nutrients for Bone Healing
+
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Nutrient     | Why it helps & daily intake                | Vegetarian sources                         | Non-vegetarian sources                     |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Calcium      | Main mineral that builds and repairs bone. | Milk, curd, paneer, cheese, ragi, tofu,    | Small fish eaten with bones (sardines),    |
+  |              | About 1000–1200 mg/day for adults.         | green leafy vegetables, sesame seeds       | dairy                                      |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin D    | Helps the body absorb calcium. About       | Sunlight, fortified milk and cereals,      | Egg yolk, fatty fish (salmon, mackerel),   |
+  |              | 600–800 IU/day (more if deficient).        | mushrooms                                  | fish liver oil                             |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Protein      | Builds the collagen framework of bone.     | Dal, beans, chickpeas, rajma, soya,        | Eggs, chicken, fish, lean meat             |
+  |              | About 1.0–1.5 g per kg body weight.        | paneer, tofu, nuts                         |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin C    | Needed to make collagen for bone repair.   | Oranges, lemon, amla, guava, capsicum,     | (Mainly from plant foods)                  |
+  |              | About 65–90 mg/day.                        | tomato, broccoli                           |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin K    | Helps bind calcium into bone. About 90–120 | Spinach, kale, broccoli, cabbage, green    | Eggs, some dairy                           |
+  |              | mcg/day.                                   | leafy vegetables                           |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Magnesium    | Supports bone structure and vitamin D use. | Nuts, seeds, whole grains, bananas, dark   | Fish                                       |
+  |              | About 310–420 mg/day.                      | leafy greens                               |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Phosphorus   | Works with calcium to harden bone. About   | Dairy, beans, lentils, whole grains, nuts  | Meat, fish, poultry, eggs                  |
+  |              | 700 mg/day.                                |                                            |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Zinc         | Helps bone cells grow and repair. About    | Whole grains, legumes, seeds, nuts         | Meat, shellfish, eggs                      |
+  |              | 8–11 mg/day.                               |                                            |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Omega-3 fats | Reduce inflammation and support healing.   | Flaxseed, chia seeds, walnuts, soybean oil | Fatty fish (salmon, mackerel, sardines)    |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Collagen     | Forms the flexible base of bone. Supported | Body makes it from protein-rich plant      | Bone broth, chicken, fish, eggs            |
+  |              | by protein + vitamin C.                    | foods + vitamin C                          |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+
+Drink enough water and, if your doctor recommends, take calcium and vitamin D supplements.
+Do not take high-dose supplements on your own without medical advice.
+
+
+12. FOODS TO AVOID
+------------------
+
+Some foods and habits slow bone healing by reducing calcium absorption, increasing
+inflammation, or harming blood supply. Limit or avoid the following while your fracture
+heals.
+
+  - Alcohol: slows new bone formation and reduces calcium and vitamin D use. Best avoided
+    completely during healing.
+  - Smoking and tobacco: reduce blood flow to the bone and are a leading cause of delayed
+    healing and nonunion. Stopping greatly improves healing.
+  - Sugary foods: too much sugar can increase inflammation and displace healthy foods.
+  - Soft drinks and colas: high phosphoric acid and sugar may reduce calcium balance.
+  - Excess caffeine: large amounts of coffee, tea, or energy drinks can reduce calcium
+    absorption; keep intake moderate.
+  - Processed and packaged food: often high in salt and low in nutrients.
+  - High sodium (salt) intake: makes the body lose more calcium in urine.
+  - Junk and deep-fried food: high in unhealthy fat and low in bone-building nutrients.
+
+In short, a fresh, home-cooked, balanced diet with less salt, sugar, alcohol, and no
+smoking gives your bone the best chance to heal quickly.
+
+
+13. PHYSICAL THERAPY AND REHABILITATION EXERCISES
+-------------------------------------------------
+
+Physiotherapy restores movement, strength, and function. Start only when your doctor
+allows, and stop any exercise that causes sharp or increasing pain. Below are typical
+stages — your therapist will tailor them to you.
+
+
+  Early Stage
+
+  - Finger, wrist, and shoulder movements — purpose: prevent stiffness while the elbow
+    rests. Repetitions: gentle, 10 each, several times a day. Precaution: keep the elbow
+    still if instructed.
+  - Gentle hand squeezing — purpose: maintain grip and reduce swelling.
+
+
+  Middle Stage
+
+  - Active elbow bending and straightening (when allowed) — purpose: restore the hinge
+    movement. Repetitions: 10 slow reps, 2–3 times daily. Precaution: no forcing into
+    pain.
+  - Forearm rotation (palm up/down) — purpose: regain rotation. Repetitions: 10 slow
+    turns.
+  - Assisted stretches to regain full straightening — purpose: reduce stiffness.
+
+
+  Advanced Stage
+
+  - Light resistance for biceps and triceps — purpose: rebuild strength. Repetitions:
+    10–15, 2–3 sets. Precaution: start with very light weight.
+  - Grip and forearm strengthening with putty or bands — purpose: restore hand strength.
+  - Sport-specific and lifting progression — purpose: safe return to full activity.
+    Precaution: increase slowly; stop if pain or swelling returns.
+
+  [ NOTE ]
+  General exercise precautions: move slowly, never push through sharp pain, stop if you
+  feel numbness or dizziness, and follow the exact repetitions your therapist advises.
+  When to stop: stop and call your therapist if pain worsens, swelling increases, or
+  movement suddenly decreases.
+
+
+14. ACTIVITIES TO AVOID DURING HEALING
+--------------------------------------
+
+Avoiding certain activities protects the healing bone and implants.
+
+  +-----------------------------------------+-----------------------------------------+
+  | Activity                                | How long to avoid (typical)             |
+  +-----------------------------------------+-----------------------------------------+
+  | Leaning or pushing up on the elbow      | Until healed — often 6–8 weeks          |
+  +-----------------------------------------+-----------------------------------------+
+  | Heavy lifting / carrying with that arm  | About 10–12 weeks or until cleared      |
+  +-----------------------------------------+-----------------------------------------+
+  | Throwing sports and racket sports       | About 3–4 months                        |
+  +-----------------------------------------+-----------------------------------------+
+  | Push-ups, pull-ups, weight training     | About 3 months or until cleared         |
+  +-----------------------------------------+-----------------------------------------+
+  | Contact sports (football, martial arts) | About 3–4 months                        |
+  +-----------------------------------------+-----------------------------------------+
+  | Driving with a stiff or splinted elbow  | Until safe control and doctor clearance |
+  +-----------------------------------------+-----------------------------------------+
+
+
+15. POSSIBLE COMPLICATIONS
+--------------------------
+
+Most fractures heal well, but knowing the possible problems helps you spot them early.
+Report any of these to your doctor.
+
+  - Delayed union: the bone heals more slowly than expected. Prevented by good nutrition,
+    not smoking, and following restrictions.
+  - Nonunion: the bone fails to join. Signs are ongoing pain and movement at the break
+    site; may need surgery or a bone graft.
+  - Malunion: the bone heals in the wrong position, causing deformity or reduced function;
+    sometimes needs correction.
+  - Infection: mainly with open fractures or after surgery. Signs are fever, redness,
+    warmth, swelling, pus, or bad smell.
+  - Stiffness: nearby joints become stiff from being kept still; prevented by
+    physiotherapy and gentle movement as advised.
+  - Nerve injury: causes numbness, tingling, or weakness; often improves but should be
+    checked.
+  - Blood vessel injury: rare but serious; causes a cold, pale, or blue limb and needs
+    emergency care.
+  - Chronic (long-lasting) pain: pain that continues after healing; managed with therapy
+    and pain specialists.
+  - Arthritis: joint fractures can lead to wear-and-tear arthritis years later.
+  - Reduced mobility: lasting loss of full movement, reduced by good rehabilitation.
+  - Complex Regional Pain Syndrome (CRPS): an uncommon condition with severe pain,
+    swelling, skin colour and temperature changes; early treatment gives the best result.
+
+
+16. RED FLAG SYMPTOMS — GO TO HOSPITAL IMMEDIATELY
+--------------------------------------------------
+
+Get emergency medical help right away if you notice any of the following. These can mean
+the blood supply, nerves, or the healing is in danger.
+
+  - Severe or rapidly increasing swelling.
+  - Fingers (or toes) turning blue, grey, or very pale.
+  - The hand or limb feels cold to touch.
+  - Numbness or loss of feeling that does not go away.
+  - Fever or chills (a sign of infection).
+  - Bleeding that will not stop.
+  - Severe pain that is not relieved by rest, elevation, or prescribed medicine.
+  - The cast becomes too tight or the limb feels squeezed.
+  - The cast breaks, cracks, or becomes loose.
+  - Pus, discharge, or fluid coming from under the cast or a wound.
+  - A bad smell coming from the cast or wound.
+  - Bone is visible through the skin (open fracture).
+  - Difficulty breathing, chest pain, or coughing after the injury (a possible blood clot
+    or fat embolism — a rare but serious emergency).
+
+  [ NOTE ]
+  Compartment syndrome warning: severe deep pain, tightness, numbness, and pain when the
+  fingers are gently stretched can signal dangerous pressure build-up. This is an
+  emergency — do not wait.
+
+
+17. FOLLOW-UP SCHEDULE
+----------------------
+
+Regular follow-up lets the doctor check that the bone is healing in the right position. A
+typical schedule is below.
+
+  +---------+--------------------------------------------+
+  | Visit   | What the doctor usually checks             |
+  +---------+--------------------------------------------+
+  | Week 1  | Check swelling, splint fit, blood flow,    |
+  |         | nerve function, and position on X-ray.     |
+  +---------+--------------------------------------------+
+  | Week 2  | Confirm the bone/pins have not shifted;    |
+  |         | check the wound if operated.               |
+  +---------+--------------------------------------------+
+  | Week 4  | X-ray for early healing; often begin       |
+  |         | gentle protected movement.                 |
+  +---------+--------------------------------------------+
+  | Week 6  | Check union; remove pins in children if    |
+  |         | used; progress physiotherapy.              |
+  +---------+--------------------------------------------+
+  | Week 12 | Confirm full union; assess range of        |
+  |         | motion, strength, and plan return to       |
+  |         | activity.                                  |
+  +---------+--------------------------------------------+
+
+
+18. RETURNING TO NORMAL LIFE
+----------------------------
+
+These are general guides for when people usually return to activities. Always get your
+doctor's clearance first.
+
+  +--------------------+--------------------------------------------+
+  | Activity           | Typical time to return                     |
+  +--------------------+--------------------------------------------+
+  | School             | A few days to 1–2 weeks (no sport/rough    |
+  |                    | play)                                      |
+  +--------------------+--------------------------------------------+
+  | Office (desk job)  | 1–3 weeks                                  |
+  +--------------------+--------------------------------------------+
+  | Driving            | After good elbow movement and control —    |
+  |                    | often 6–9 weeks                            |
+  +--------------------+--------------------------------------------+
+  | Gym (upper body)   | About 3 months, building up gradually      |
+  +--------------------+--------------------------------------------+
+  | Swimming           | After splint off and skin/wound healed —   |
+  |                    | about 8–12 weeks                           |
+  +--------------------+--------------------------------------------+
+  | Cycling            | Light cycling around 8–12 weeks (elbow     |
+  |                    | must bend and be pain-free)                |
+  +--------------------+--------------------------------------------+
+  | Running            | Often 6–8 weeks once the arm is stable     |
+  +--------------------+--------------------------------------------+
+  | Cricket / Football | About 3–4 months with clearance            |
+  +--------------------+--------------------------------------------+
+  | Weight lifting     | About 3–4 months, increasing load slowly   |
+  +--------------------+--------------------------------------------+
+
+
+19. PREVENTION OF FUTURE FRACTURES
+----------------------------------
+
+After one fracture, it is worth protecting your bones for the future. These steps lower
+the chance of breaking a bone again.
+
+  - Bone-strengthening exercises: regular resistance and muscle-strengthening activity
+    keeps bones dense.
+  - Weight-bearing exercise: walking, jogging, dancing, and stair climbing build bone
+    strength.
+  - Balance training: yoga, tai chi, and balance drills reduce falls, especially in older
+    adults.
+  - Vitamin D: from sunlight, diet, or supplements as advised, to help absorb calcium.
+  - Calcium intake: eat enough calcium-rich foods every day.
+  - Protective equipment: wrist guards, elbow pads, and helmets during sports and skating.
+  - Safe workplace habits: follow safety rules, use guards, and prevent falls from height.
+  - Sports safety: warm up, use correct technique, and wear the right gear.
+  - Fall prevention: good footwear, adequate lighting, and vision checks.
+  - Home safety tips: remove loose rugs, add grab bars, keep floors dry and clutter-free.
+  - Osteoporosis screening: a bone density (DEXA) scan for older adults and high-risk
+    people, with treatment if bones are weak.
+
+
+20. FREQUENTLY ASKED QUESTIONS (FAQ)
+------------------------------------
+
+
+  Q1. Can I move my fingers?
+
+Yes. Move your fingers, wrist, and shoulder gently while your elbow rests. This prevents
+stiffness and swelling. Keep the elbow itself still unless told otherwise.
+
+
+  Q2. Can I sleep on the injured arm?
+
+No, avoid lying on the injured elbow. Support the arm on a pillow, slightly raised, for
+comfort and less swelling.
+
+
+  Q3. Can I remove the splint or cast?
+
+No. Do not remove or adjust it yourself. It keeps the elbow in the right position until
+the doctor says it can come off.
+
+
+  Q4. When can I drive?
+
+Only after your elbow bends enough and you can control the car safely — often around 6–9
+weeks. Confirm with your doctor.
+
+
+  Q5. Can I exercise?
+
+Gentle finger, wrist, shoulder, and lower-body exercise is usually fine early. Wait for
+advice before elbow and upper-body strengthening.
+
+
+  Q6. Can I lift weights?
+
+Not until the bone heals and you are cleared — usually about 3–4 months, starting light.
+
+
+  Q7. Is swelling normal?
+
+Yes, in the first days to weeks. Keep the arm raised and use ice. Report sudden, severe,
+or increasing swelling urgently.
+
+
+  Q8. Is itching inside the cast normal?
+
+Yes, mild itching is common. Never insert objects to scratch. Cool air can relieve it.
+
+
+  Q9. Can I travel?
+
+Short trips are fine once pain is controlled and the arm is supported. Ask before long
+journeys.
+
+
+  Q10. Can I fly?
+
+Usually yes, but tell your doctor, especially soon after a new cast, because swelling can
+increase at altitude.
+
+
+  Q11. Can I get the cast wet?
+
+No. Keep a standard cast dry with a waterproof cover during bathing to protect the skin
+and cast.
+
+
+  Q12. How long should I wear the sling?
+
+Usually 1–3 weeks for comfort and support, or as your doctor advises.
+
+
+  Q13. When should I see a doctor urgently?
+
+For a cold or blue hand, no wrist pulse, spreading numbness, severe pain, a very tight
+cast, fever, or discharge — seek care now.
+
+
+  Q14. Why is my elbow so stiff?
+
+Elbows become stiff easily after injury. This is common and improves with regular
+physiotherapy; do not force painful movement.
+
+
+  Q15. Will I get full straightening back?
+
+Most people regain most or all movement, but full straightening can be the slowest to
+return and may take several months.
+
+
+  Q16. Will I need surgery?
+
+Not always. Undisplaced fractures heal in a splint. Displaced olecranon, joint, or
+unstable fractures often need surgery.
+
+
+  Q17. Do the wires or plates need removal?
+
+Plates usually stay for life. Tension-band wires that irritate the skin, and children's
+pins, are often removed later.
+
+
+  Q18. My hand feels numb — is that serious?
+
+Numbness can mean nerve irritation, often the ulnar nerve. Tell your doctor. It frequently
+improves but must be checked.
+
+
+  Q19. Can my child's elbow fracture affect growth?
+
+Most heal well, but because growth plates are near the elbow, children need careful
+follow-up to ensure normal growth.
+
+
+  Q20. Is some pain normal weeks later?
+
+Mild aching during healing and physiotherapy is normal. Sharp or worsening pain should be
+reviewed.
+
+
+  Q21. What foods help healing?
+
+Calcium, vitamin D, protein, and vitamin C support bone repair. Avoid smoking and alcohol,
+which slow healing.
+
+
+  Q22. Can I go to work?
+
+Desk work is often possible in 1–3 weeks. Heavy manual work usually needs 10–12 weeks or
+clearance.
+
+
+  Q23. Will my arm be weak after the splint comes off?
+
+Yes, temporary weakness and stiffness are expected. Physiotherapy restores strength and
+movement.
+
+
+  Q24. Can I play sports again?
+
+Yes, most people do. Non-contact around 8–12 weeks and contact/throwing sports around 3–4
+months, after clearance.
+
+
+  Q25. How can I prevent another elbow fracture?
+
+Strengthen bones and muscles, prevent falls, wear elbow protection in sport, and get
+osteoporosis screening if at risk.
+
+
+  Q26. Can I bend my elbow to eat or write?
+
+Once your doctor allows gentle movement, light use like eating or writing is encouraged if
+it is not painful.
+
+
+21. METADATA (FOR RETRIEVAL)
+----------------------------
+
+Structured tags to help the AI assistant retrieve this document accurately.
+
+  +-------------------------+--------------------------------------------+
+  | Field                   | Value                                      |
+  +-------------------------+--------------------------------------------+
+  | Fracture Name           | Elbow Fracture                             |
+  +-------------------------+--------------------------------------------+
+  | Bones Involved          | Distal humerus, Olecranon (ulna), Radial   |
+  |                         | head (radius)                              |
+  +-------------------------+--------------------------------------------+
+  | Body Region             | Upper limb (elbow joint)                   |
+  +-------------------------+--------------------------------------------+
+  | Common Causes           | Falls onto elbow or outstretched hand,     |
+  |                         | direct trauma, sports, road accidents,     |
+  |                         | osteoporosis                               |
+  +-------------------------+--------------------------------------------+
+  | Symptoms                | Pain, swelling, deformity, unable to       |
+  |                         | bend/straighten, numbness, weak grip       |
+  +-------------------------+--------------------------------------------+
+  | Treatment Options       | Cast, splint, sling, hinged brace; ORIF,   |
+  |                         | tension-band wire, plates, screws, pins,   |
+  |                         | external fixator, bone graft               |
+  +-------------------------+--------------------------------------------+
+  | Healing Duration        | Children 3–6 weeks; adults 6–12 weeks;     |
+  |                         | full recovery 3–6 months                   |
+  +-------------------------+--------------------------------------------+
+  | Rehabilitation Duration | 8–16 weeks of physiotherapy; stiffness may |
+  |                         | take longer                                |
+  +-------------------------+--------------------------------------------+
+  | Emergency Signs         | Cold/blue hand, absent pulse, nerve loss,  |
+  |                         | open bone, compartment syndrome            |
+  +-------------------------+--------------------------------------------+
+  | Keywords                | elbow fracture, broken elbow, olecranon    |
+  |                         | fracture, radial head fracture,            |
+  |                         | supracondylar fracture, funny bone injury  |
+  +-------------------------+--------------------------------------------+
+  | Synonyms                | Broken elbow, cracked elbow, elbow joint   |
+  |                         | fracture                                   |
+  +-------------------------+--------------------------------------------+
+  | Related Injuries        | Forearm fracture, humerus fracture, radial |
+  |                         | head dislocation, ulnar nerve injury       |
+  +-------------------------+--------------------------------------------+
+

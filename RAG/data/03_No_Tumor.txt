@@ -1,0 +1,851 @@
+==========================================================================================
+                    CLASS 3 – NO TUMOR (HEALTHY BRAIN): PATIENT GUIDE                     
+==========================================================================================
+
+An educational guide for people whose brain MRI shows NO tumor. It explains what a normal
+brain MRI means, common reasons a scan is ordered, how to keep your brain healthy through
+diet, exercise, sleep and stress management, preventive neurological care, and when to
+still seek medical advice despite a normal scan.
+
+  [ NOTE ]
+  Educational disclaimer: This document is for general education and for use in a
+  retrieval-augmented (RAG) AI assistant that supports patients after an MRI-based brain
+  scan. It is NOT a medical diagnosis and does NOT replace consultation with qualified
+  healthcare professionals such as a neurologist, neurosurgeon, or oncologist. Every
+  person is different, and only your own medical team can confirm a diagnosis and plan
+  treatment. If you have severe or sudden symptoms, seek emergency medical care
+  immediately.
+
+
+==========================================================================================
+1. OVERVIEW
+==========================================================================================
+
+Good news: this result means that no brain tumor was detected on your MRI scan. In simple
+terms, the automated analysis and/or radiologist did not find signs of a mass, growth, or
+tumor in the brain images. This is a normal (healthy) finding for the tumor question the
+scan was checking.
+
+It is important to understand what this does and does not mean. A 'no tumor' result means
+no tumor was seen on this scan. It does not automatically mean that every possible brain
+or health condition has been ruled out, because an MRI focused on tumors may not evaluate
+every other issue. Your doctor interprets the scan together with your symptoms,
+examination, and history.
+
+This document is different from the tumor guides: since there is no tumor to treat, it
+focuses on understanding your normal result, keeping your brain healthy, and knowing when
+to seek further medical advice. There is no grading, staging, or tumor treatment to
+discuss.
+
+
+==========================================================================================
+2. BRAIN ANATOMY (YOUR HEALTHY BRAIN)
+==========================================================================================
+
+A normal MRI shows the brain's structures in their expected shape, size, and position,
+without a tumor. Here is what those healthy structures do.
+
+  - Cerebrum: the large upper brain with left and right halves that control movement,
+    sensation, thinking, language, and vision.
+  - Frontal lobe: personality, decision-making, movement, and speech.
+  - Temporal lobe: memory, hearing, and understanding language.
+  - Parietal lobe: touch, spatial awareness, and coordination.
+  - Occipital lobe: vision.
+  - Cerebellum: balance and smooth, coordinated movement.
+  - Brainstem: vital automatic functions such as breathing and heart rate.
+  - Ventricles: fluid-filled spaces that cushion the brain; normal on a healthy scan.
+  - Blood vessels and nerves: supply and connect the brain; seen in their expected
+    positions on a normal scan.
+
+On a healthy MRI these structures look normal and symmetrical, with no mass, no abnormal
+swelling, and no shift of the midline. Small, harmless normal variants (such as tiny cysts
+or minor asymmetries) are common and are usually reported as not significant.
+
+
+==========================================================================================
+3. COMMON REASONS A BRAIN MRI IS ORDERED
+==========================================================================================
+
+Doctors order a brain MRI for many reasons, most of which are not cancer. Knowing why
+yours was done helps you understand the next steps, even with a normal result.
+
+  - Persistent or unusual headaches or migraines.
+  - Dizziness, balance problems, or fainting.
+  - Seizures or episodes of altered awareness.
+  - Head injury or trauma.
+  - Vision or hearing changes.
+  - Numbness, tingling, or weakness in the face, arms, or legs.
+  - Memory problems or confusion.
+  - Suspected stroke or blood-vessel problems.
+  - Follow-up of a previously known condition.
+  - Investigating symptoms such as ringing in the ears or facial pain.
+
+A normal (no tumor) result is reassuring, but it does not always explain the original
+symptom. Your doctor will decide whether the symptom needs other tests or simply
+monitoring.
+
+
+==========================================================================================
+4. WHAT A NORMAL BRAIN MRI SHOWS
+==========================================================================================
+
+Because there is no tumor, there is no tumor 'type' or grade to describe. Instead, this
+section explains what a normal scan and harmless normal findings look like.
+
+  +------------------------------+--------------------------------------------+
+  | Finding on a normal MRI      | What it means                              |
+  +------------------------------+--------------------------------------------+
+  | Symmetrical brain structures | The two halves and lobes look balanced and |
+  |                              | normal.                                    |
+  +------------------------------+--------------------------------------------+
+  | No mass or growth            | No tumor, lump, or abnormal tissue is      |
+  |                              | seen.                                      |
+  +------------------------------+--------------------------------------------+
+  | Normal ventricles            | The fluid spaces are a normal size, with   |
+  |                              | no build-up.                               |
+  +------------------------------+--------------------------------------------+
+  | No midline shift             | The brain is not pushed to one side by any |
+  |                              | mass.                                      |
+  +------------------------------+--------------------------------------------+
+  | Incidental normal variants   | Small, common, harmless findings (e.g.,    |
+  |                              | tiny cysts) that usually need no action.   |
+  +------------------------------+--------------------------------------------+
+  | Age-related changes          | Minor changes that can be normal for your  |
+  |                              | age and are not tumors.                    |
+  +------------------------------+--------------------------------------------+
+
+If your report mentions a small 'incidental finding', ask your doctor to explain it. Many
+such findings are harmless and simply noted, sometimes with a suggestion to recheck later.
+
+
+==========================================================================================
+5. SYMPTOMS TO STILL TAKE SERIOUSLY (DESPITE A NORMAL MRI)
+==========================================================================================
+
+A normal scan is reassuring, but certain symptoms still deserve medical attention because
+not every condition shows up as a tumor. Tell your doctor if you have:
+
+  - Frequent, severe, or changing headaches.
+  - New or repeated seizures.
+  - Ongoing dizziness, balance problems, or falls.
+  - Persistent numbness, tingling, or weakness.
+  - Speech, vision, or hearing changes.
+  - Memory problems, confusion, or personality changes.
+  - Fainting or blackouts.
+  - Symptoms that keep returning or getting worse.
+
+  [ NOTE ]
+  Emergency signs still apply to everyone: a sudden severe 'worst ever' headache, sudden
+  weakness or numbness on one side, sudden speech or vision loss, a new seizure, or loss
+  of consciousness need emergency care immediately, even with a recent normal MRI — they
+  could indicate a stroke or other urgent problem.
+
+
+==========================================================================================
+6. UNDERSTANDING YOUR DIAGNOSIS PROCESS
+==========================================================================================
+
+Your care team uses more than just the scan to understand your health. A normal MRI is one
+piece of the picture.
+
+  - Medical history: your symptoms, their pattern, and your background guide
+    interpretation.
+  - Neurological examination: checks strength, sensation, reflexes, vision, balance, and
+    thinking.
+  - MRI: the scan that showed no tumor; excellent for detecting masses and many other
+    conditions.
+  - Further tests if needed: depending on your symptoms, your doctor might suggest blood
+    tests, an EEG (for seizures), a hearing or vision assessment, or scans of blood
+    vessels.
+  - Referral: if symptoms persist, you may see a neurologist or another specialist even
+    though the MRI is normal.
+
+The purpose of explaining this is reassurance with realism: a normal scan is genuinely
+good news, and your doctor will decide whether any further checks are needed for your
+specific symptoms.
+
+
+==========================================================================================
+7. MRI CHARACTERISTICS OF A HEALTHY BRAIN
+==========================================================================================
+
+For reference, here is what radiologists look for to call a brain MRI normal.
+
+  - No mass or tumor: no abnormal lump or growth anywhere in the brain.
+  - Normal shape and symmetry: the lobes and halves look balanced.
+  - No abnormal contrast enhancement: no areas that 'light up' in a way that suggests a
+    tumor (if contrast was used).
+  - No significant swelling (edema): brain tissue looks normal, not waterlogged.
+  - No mass effect or midline shift: nothing is pushing the brain out of place.
+  - Normal ventricles and fluid spaces: correct size, with no blockage or build-up.
+  - Clear blood-vessel and tissue signals: no signs of recent stroke or bleeding on the
+    images reviewed.
+
+In short, a healthy brain MRI looks balanced, well-defined, and free of any mass — which
+is exactly what your 'no tumor' result reflects.
+
+
+==========================================================================================
+8. WHAT HAPPENS NEXT (NO TUMOR TREATMENT NEEDED)
+==========================================================================================
+
+Because no tumor was found, there is no tumor treatment — no surgery, radiation, or
+chemotherapy is needed for a tumor. Instead, the focus shifts to your symptoms (if any)
+and to keeping your brain healthy.
+
+
+  If You Have No Symptoms
+  -----------------------
+
+Simply continue healthy habits and routine medical care. No special brain treatment or
+scans are usually required just because of a normal result.
+
+
+  If You Still Have Symptoms
+  --------------------------
+
+Your doctor treats the underlying cause of your symptoms, which may be unrelated to any
+tumor — for example, migraine treatment for headaches, therapy for dizziness, or
+management of blood pressure. Follow their specific advice.
+
+
+  General Brain-Health Approach
+  -----------------------------
+
+  - Maintain a healthy diet and weight.
+  - Exercise regularly.
+  - Sleep well and manage stress.
+  - Keep blood pressure, blood sugar, and cholesterol in a healthy range.
+  - Attend routine check-ups and report new or worsening symptoms.
+
+
+==========================================================================================
+9. STAYING HEALTHY (RECOVERY TIMELINE FOR HEALTHY INDIVIDUALS)
+==========================================================================================
+
+There is no illness to recover from with a normal result, so this section is about
+maintaining and building brain health over time.
+
+  +--------------+--------------------------------------------+
+  | Timeframe    | Focus for a healthy brain                  |
+  +--------------+--------------------------------------------+
+  | Now          | Feel reassured by the normal result; note  |
+  |              | any ongoing symptoms to discuss.           |
+  +--------------+--------------------------------------------+
+  | First weeks  | Build simple habits: daily walking, better |
+  |              | sleep, more water, less junk food.         |
+  +--------------+--------------------------------------------+
+  | First months | Establish regular exercise, balanced       |
+  |              | meals, and stress-management routines.     |
+  +--------------+--------------------------------------------+
+  | Ongoing      | Keep routine check-ups; monitor blood      |
+  |              | pressure, sugar, and cholesterol.          |
+  +--------------+--------------------------------------------+
+
+  - Return to work, school, driving, and sport: no restrictions from a normal MRI unless
+    your doctor advises otherwise for a specific symptom.
+  - Physical activity: you can generally exercise freely; build up gradually if you have
+    been inactive.
+
+The 'milestones' here are simply healthy-lifestyle habits that protect long-term brain
+function.
+
+
+==========================================================================================
+10. HOME CARE AND BRAIN-HEALTH SELF-CARE
+==========================================================================================
+
+With a healthy result, home care means everyday habits that keep your brain and body well.
+
+  - Medication: continue any regular medicines as prescribed for other conditions.
+  - Sleep: aim for 7–9 hours of good-quality sleep each night.
+  - Hydration: drink water through the day; dehydration can cause headaches and tiredness.
+  - Stress reduction: use relaxation, hobbies, and breaks to manage stress.
+  - Activity: stay physically active; movement supports brain health.
+  - Rest and balance: balance work, rest, and recreation.
+  - Mental health: look after your mood; seek help if you feel persistently low or
+    anxious.
+  - Follow-up: keep routine health check-ups and report any new symptoms.
+
+
+==========================================================================================
+11. NUTRITION
+==========================================================================================
+
+Good nutrition supports long-term brain health and prevention, helps the body cope with
+treatment, and keeps energy and mood steady. There is no single 'anti-tumor' diet, but a
+balanced, mostly whole-food diet is widely recommended. Always follow any specific advice
+from your medical team or dietitian, especially during treatment.
+
+
+  Key Nutrients and Why They Help
+  -------------------------------
+
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Nutrient          | Why it helps                               | Vegetarian sources                         | Non-vegetarian sources                  |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Protein           | Repairs tissue and supports healing after  | Dal, beans, chickpeas, rajma, soya,        | Eggs, chicken, fish, lean meat          |
+  |                   | surgery or treatment.                      | paneer, tofu, nuts                         |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Omega-3 fats      | Support brain-cell health and reduce       | Flaxseed, chia, walnuts, soybean oil       | Fatty fish (salmon, mackerel, sardines) |
+  |                   | inflammation.                              |                                            |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin D         | Supports bone and immune health; many      | Sunlight, fortified milk/cereals,          | Egg yolk, fatty fish                    |
+  |                   | patients are low.                          | mushrooms                                  |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin B12       | Needed for healthy nerves and blood.       | Fortified foods, dairy, supplements if     | Eggs, dairy, fish, meat                 |
+  |                   |                                            | vegan                                      |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin C         | Helps wound healing and immunity.          | Amla, orange, guava, lemon, capsicum,      | (mainly plant foods)                    |
+  |                   |                                            | tomato                                     |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Vitamin E         | An antioxidant that protects cells.        | Nuts, seeds, vegetable oils, spinach       | (mainly plant foods)                    |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Antioxidants      | Protect cells from damage; from colourful  | Berries, leafy greens, carrots, beetroot,  | (mainly plant foods)                    |
+  |                   | produce.                                   | tomatoes                                   |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Healthy fats      | Provide steady energy and support the      | Olive oil, mustard oil, nuts, avocado,     | Fish                                    |
+  |                   | brain.                                     | seeds                                      |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Whole grains      | Give steady energy and fibre for           | Oats, brown rice, millets (jowar, bajra,   | (mainly plant foods)                    |
+  |                   | digestion.                                 | ragi), whole wheat                         |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+  | Hydration (water) | Prevents tiredness, headaches, and         | Water, buttermilk, coconut water, soups    | Water, broths                           |
+  |                   | constipation.                              |                                            |                                         |
+  +-------------------+--------------------------------------------+--------------------------------------------+-----------------------------------------+
+
+
+  Sample Daily Meal Suggestions
+  -----------------------------
+
+  - Breakfast: vegetable oats or besan chilla or eggs with whole-wheat toast and a fruit.
+  - Mid-morning: a fruit (apple, guava, orange) or a handful of nuts.
+  - Lunch: 2 multigrain rotis, dal or beans, a large bowl of vegetables, curd, and salad.
+  - Evening: buttermilk, sprouts, or green tea with roasted chana.
+  - Dinner: brown rice or roti with vegetables and a protein (fish, chicken, tofu, or
+    dal).
+  - Through the day: sip water regularly to stay well hydrated.
+
+  [ NOTE ]
+  During chemotherapy or if you have swallowing, taste, or appetite problems, ask your
+  team for tailored advice. Do not start high-dose supplements on your own, as some can
+  interfere with treatment.
+
+
+==========================================================================================
+12. FOODS TO LIMIT
+==========================================================================================
+
+Some foods and habits do not directly cause brain tumors but can slow recovery, worsen
+general health, or interact with treatment. It is wise to limit the following.
+
+  - Alcohol: can interact with medicines (including anti-seizure and chemotherapy drugs),
+    affect the brain, and disturb sleep. Best avoided or strictly limited.
+  - Smoking and tobacco: harm blood vessels and overall health and slow healing. Stopping
+    is strongly recommended.
+  - Highly processed foods: often high in salt, sugar, and unhealthy fat and low in
+    nutrients.
+  - Sugary beverages: sodas and sweetened juices add empty calories and can worsen energy
+    swings.
+  - Excess salt: too much salt can raise blood pressure and cause fluid retention.
+  - Excess caffeine: large amounts of coffee, tea, or energy drinks can worsen anxiety,
+    tremor, and sleep problems.
+  - Trans fats: found in some fried and bakery items; bad for heart and blood vessels.
+  - Ultra-processed foods: packaged snacks and ready meals; keep these occasional.
+
+In short, a fresh, home-cooked, balanced diet with less salt, sugar, alcohol, and no
+smoking supports recovery and overall brain health.
+
+
+==========================================================================================
+13. KEEPING YOUR BRAIN FIT (COGNITIVE HEALTH)
+==========================================================================================
+
+There is no rehabilitation needed for a normal scan, but you can actively keep your brain
+sharp and healthy.
+
+  - Mental exercise: reading, puzzles, learning new skills, and hobbies keep the mind
+    active.
+  - Physical exercise: regular activity improves blood flow to the brain and supports
+    memory and mood.
+  - Social connection: staying socially active protects thinking skills and mood.
+  - Good sleep: sleep helps the brain consolidate memory and clear waste.
+  - Stress management: chronic stress harms focus and memory; relaxation helps.
+  - Balance and coordination: activities like yoga or tai chi support overall function.
+
+The goal is simple: protect and strengthen your natural brain function through a healthy,
+active, connected lifestyle.
+
+
+==========================================================================================
+14. LIFESTYLE RECOMMENDATIONS
+==========================================================================================
+
+Healthy daily habits support brain health, mood, and recovery. Adapt these to your
+abilities and your doctor's advice.
+
+  - Regular exercise: gentle activity such as walking, as approved by your doctor,
+    improves energy, mood, and sleep.
+  - Stress management: reduce stress with breathing exercises, hobbies, and pacing your
+    day.
+  - Meditation: mindfulness or guided relaxation can ease anxiety and improve focus.
+  - Yoga: gentle yoga (with medical clearance) supports flexibility, balance, and calm.
+  - Sleep hygiene: keep a regular sleep schedule, a dark quiet room, and limit screens
+    before bed; aim for 7–9 hours.
+  - Hydration: drink water through the day to avoid tiredness and headaches.
+  - Weight management: keep a healthy weight with balanced food and activity.
+  - Mental wellness: seek support for low mood or anxiety; counselling can help.
+  - Family support: involve family in appointments, medication, and daily routines.
+  - Social engagement: stay connected with friends and community to protect mood and
+    thinking skills.
+
+
+==========================================================================================
+15. WHEN TO SEEK EVALUATION DESPITE A NORMAL MRI
+==========================================================================================
+
+A normal MRI does not rule out every condition. See a doctor if you develop or continue to
+have concerning symptoms, because some conditions do not appear as tumors.
+
+  - Persistent or worsening headaches.
+  - New or repeated seizures.
+  - Ongoing dizziness, balance problems, or unexplained falls.
+  - Lasting numbness, tingling, or weakness.
+  - Speech, vision, or hearing changes.
+  - Memory decline, confusion, or personality changes.
+  - Fainting or blackouts.
+  - Symptoms that keep returning even after reassurance.
+
+In these cases your doctor may repeat the assessment, order different tests, or refer you
+to a specialist. A normal scan today does not prevent you from seeking help for new
+problems later.
+
+
+==========================================================================================
+16. EMERGENCY WARNING SIGNS (STILL APPLY TO EVERYONE)
+==========================================================================================
+
+Even with a recent normal MRI, get emergency medical help right away for any of these, as
+they can signal a stroke or other urgent problem:
+
+  - A sudden, severe ('worst ever') headache.
+  - Sudden weakness, numbness, or drooping on one side of the face or body.
+  - Sudden difficulty speaking or understanding speech.
+  - Sudden vision loss or double vision.
+  - A new seizure or loss of consciousness.
+  - Repeated vomiting with a severe headache.
+  - Sudden severe dizziness with difficulty walking.
+  - Difficulty breathing or rapidly worsening symptoms.
+
+  [ NOTE ]
+  Remember the stroke rule 'FAST': Face drooping, Arm weakness, Speech difficulty — Time
+  to call emergency services. Do not delay, even with a normal scan.
+
+
+==========================================================================================
+17. FOLLOW-UP AND PREVENTIVE NEUROLOGICAL CARE
+==========================================================================================
+
+With a normal result, follow-up is usually simple and focused on prevention and any
+ongoing symptoms.
+
+  - Routine check-ups: regular general health reviews, including blood pressure, sugar,
+    and cholesterol.
+  - Symptom-based follow-up: return to your doctor if the original symptom persists or new
+    ones appear.
+  - Repeat imaging only if advised: a normal scan usually does not need routine repeat MRI
+    unless a small incidental finding needs rechecking or symptoms change.
+  - Preventive care: manage risk factors for stroke and other brain conditions.
+  - Vaccinations and general health: keep up with recommended preventive care.
+
+
+==========================================================================================
+18. LONG-TERM OUTLOOK
+==========================================================================================
+
+A 'no tumor' result is reassuring and generally means a good outlook regarding brain
+tumors.
+
+  - Prognosis: excellent with respect to the tumor question — none was found.
+  - Quality of life: unaffected by this normal result; maintained through healthy habits.
+  - Ongoing care: continue routine check-ups and address any symptoms as they arise.
+  - Peace of mind: it is normal to feel relief, and also normal to still want answers if
+    symptoms continue — both are valid.
+  - Psychological support: if health anxiety persists, talking to your doctor or a
+    counsellor can help.
+
+Keep looking after your general and brain health, and stay alert to new symptoms, so any
+future issue can be caught and managed early.
+
+
+==========================================================================================
+19. PREVENTION AND BRAIN-HEALTH RISK REDUCTION
+==========================================================================================
+
+You can actively protect your brain and lower the risk of many neurological problems (such
+as stroke and cognitive decline), even though most brain tumors cannot be specifically
+prevented.
+
+  - Healthy diet: plenty of vegetables, fruits, whole grains, healthy fats, and lean
+    protein.
+  - Regular exercise: at least 150 minutes of moderate activity per week.
+  - Good sleep: 7–9 hours nightly with a regular routine.
+  - Stress management: relaxation, mindfulness, hobbies, and social connection.
+  - Avoid smoking and limit alcohol.
+  - Control blood pressure, blood sugar, and cholesterol to protect blood vessels.
+  - Protect your head: wear seatbelts and helmets to prevent injury.
+  - Avoid unnecessary radiation: only have medical imaging that is clinically needed.
+  - Regular check-ups: catch and manage risk factors early.
+  - Stay mentally and socially active to support long-term brain function.
+
+
+==========================================================================================
+20. FREQUENTLY ASKED QUESTIONS (FAQ)
+==========================================================================================
+
+Below are common questions from people who received a normal 'no tumor' brain MRI result.
+Answers are general; your own doctor can advise for your situation.
+
+
+  Q1. What does 'no tumor' mean?
+  ------------------------------
+
+It means no brain tumor was detected on your MRI scan. This is a normal, reassuring
+finding for the tumor question the scan was checking.
+
+
+  Q2. Does this mean my brain is completely healthy?
+  --------------------------------------------------
+
+It means no tumor was seen. An MRI focused on tumors may not evaluate every other
+condition, so your doctor considers your symptoms and exam too.
+
+
+  Q3. Should I still be worried about my symptoms?
+  ------------------------------------------------
+
+A normal scan is good news, but if symptoms continue, tell your doctor. Some conditions do
+not show up as tumors and may need other tests.
+
+
+  Q4. Why was my MRI ordered if there is no tumor?
+  ------------------------------------------------
+
+MRIs are ordered for many reasons — headaches, dizziness, seizures, injury, and more. Most
+are not cancer, and a normal result helps rule a tumor out.
+
+
+  Q5. Can a tumor be missed on MRI?
+  ---------------------------------
+
+MRI is very accurate for detecting tumors, but no test is perfect. If symptoms persist or
+change, your doctor may repeat imaging or do other tests.
+
+
+  Q6. Do I need another scan?
+  ---------------------------
+
+Usually not just because of a normal result. A repeat scan is only needed if a small
+incidental finding must be rechecked or if your symptoms change.
+
+
+  Q7. What is an 'incidental finding'?
+  ------------------------------------
+
+A small, often harmless finding seen by chance that is unrelated to your symptoms. Many
+need no action; your doctor will explain any that appear on your report.
+
+
+  Q8. Can I drive?
+  ----------------
+
+Yes, a normal MRI does not restrict driving, unless your doctor has advised otherwise for
+a specific symptom such as seizures.
+
+
+  Q9. Can I travel or fly?
+  ------------------------
+
+Yes. A normal brain MRI places no restriction on travel or flying.
+
+
+  Q10. Can I exercise and play sport?
+  -----------------------------------
+
+Yes. You can generally exercise freely. Build up gradually if you have been inactive, and
+protect your head in contact sports.
+
+
+  Q11. Can I work normally?
+  -------------------------
+
+Yes. A normal result does not limit work. If a symptom is being investigated, follow your
+doctor's specific advice.
+
+
+  Q12. Do I need any treatment?
+  -----------------------------
+
+Not for a tumor, since none was found. Any treatment would be for your specific symptoms,
+guided by your doctor.
+
+
+  Q13. Why do I still have headaches if there is no tumor?
+  --------------------------------------------------------
+
+Most headaches are not caused by tumors. Common causes include migraine, tension,
+dehydration, stress, or eye strain, which your doctor can help manage.
+
+
+  Q14. Is an MRI safe?
+  --------------------
+
+Yes. MRI uses magnets, not radiation, and is very safe. Tell staff about metal implants or
+a pacemaker.
+
+
+  Q15. Should I get regular brain scans to be safe?
+  -------------------------------------------------
+
+Routine brain scans are not recommended for people without symptoms, as they can cause
+anxiety and detect harmless findings. Scans are done when clinically needed.
+
+
+  Q16. How can I keep my brain healthy?
+  -------------------------------------
+
+Eat well, exercise regularly, sleep 7–9 hours, manage stress, stay socially and mentally
+active, avoid smoking, and control blood pressure and sugar.
+
+
+  Q17. What foods are good for the brain?
+  ---------------------------------------
+
+Vegetables, fruits, whole grains, nuts, seeds, healthy oils, and omega-3 sources (like
+fish or flaxseed) support brain health as part of a balanced diet.
+
+
+  Q18. How much sleep do I need?
+  ------------------------------
+
+Most adults need about 7–9 hours of good-quality sleep. Consistent sleep supports memory,
+mood, and focus.
+
+
+  Q19. Can stress cause brain symptoms?
+  -------------------------------------
+
+Yes. Stress and anxiety can cause headaches, poor focus, dizziness, and fatigue, even when
+the brain is healthy. Managing stress helps.
+
+
+  Q20. What symptoms still need emergency care?
+  ---------------------------------------------
+
+A sudden severe headache, sudden weakness or numbness on one side, sudden speech or vision
+loss, a new seizure, or loss of consciousness — call emergency services even with a normal
+MRI, as these can mean a stroke.
+
+
+  Q21. What is the FAST rule?
+  ---------------------------
+
+It helps spot a stroke: Face drooping, Arm weakness, Speech difficulty, Time to call
+emergency services. Act fast if you see these signs.
+
+
+  Q22. Could my symptoms be a migraine?
+  -------------------------------------
+
+Possibly. Migraines can cause severe headaches, visual changes, and nausea with a normal
+MRI. Your doctor can diagnose and treat them.
+
+
+  Q23. Do I need to see a neurologist?
+  ------------------------------------
+
+Only if your symptoms persist or your doctor recommends it. A normal MRI often means
+simple follow-up with your regular doctor.
+
+
+  Q24. Can dehydration cause headaches?
+  -------------------------------------
+
+Yes. Not drinking enough water is a common cause of headaches and tiredness. Staying
+hydrated can help.
+
+
+  Q25. Is it normal to feel relieved but still anxious?
+  -----------------------------------------------------
+
+Yes. Relief and lingering worry can coexist, especially if symptoms continue. Talking to
+your doctor or a counsellor can help.
+
+
+  Q26. Can I drink alcohol and caffeine?
+  --------------------------------------
+
+In moderation, yes, if you have no condition that restricts them. Excess alcohol and
+caffeine can worsen sleep, headaches, and anxiety.
+
+
+  Q27. Will my symptoms come back?
+  --------------------------------
+
+Some symptoms may recur depending on their cause. Keep track of them and see your doctor
+if they persist or worsen.
+
+
+  Q28. Can I stop worrying about a brain tumor now?
+  -------------------------------------------------
+
+A normal scan is strong reassurance about tumors. If health anxiety persists, discuss it
+with your doctor, who can offer support.
+
+
+  Q29. Should I change my lifestyle after a normal result?
+  --------------------------------------------------------
+
+It is a great time to build healthy habits — better diet, exercise, sleep, and stress
+control all protect long-term brain health.
+
+
+  Q30. Can children have a normal 'no tumor' result too?
+  ------------------------------------------------------
+
+Yes. Many children have MRIs for headaches, seizures, or injury and get reassuring normal
+results, interpreted alongside their symptoms.
+
+
+  Q31. Does a normal MRI rule out epilepsy?
+  -----------------------------------------
+
+Not entirely. Some seizure conditions have a normal MRI. If seizures are suspected, an EEG
+and specialist review may be needed.
+
+
+  Q32. Does a normal MRI rule out a stroke risk?
+  ----------------------------------------------
+
+It shows no tumor and often no past stroke on the images reviewed, but you should still
+manage stroke risk factors like blood pressure and cholesterol.
+
+
+  Q33. Can I take supplements for brain health?
+  ---------------------------------------------
+
+A balanced diet usually provides what you need. Discuss any supplements with your doctor
+rather than taking high doses on your own.
+
+
+  Q34. How often should I have general check-ups?
+  -----------------------------------------------
+
+Follow your doctor's advice, but regular reviews of blood pressure, sugar, and cholesterol
+are good for long-term brain and heart health.
+
+
+  Q35. Can eye or ear problems cause my symptoms?
+  -----------------------------------------------
+
+Yes. Vision problems, eye strain, and inner-ear issues can cause headaches or dizziness
+with a normal brain MRI; these may need separate checks.
+
+
+  Q36. Is memory loss always serious?
+  -----------------------------------
+
+Occasional forgetfulness is common, especially with stress or poor sleep. Persistent or
+worsening memory problems should be assessed by a doctor.
+
+
+  Q37. Can I exercise vigorously?
+  -------------------------------
+
+Yes, if you are otherwise healthy. Start gradually if you are new to exercise, and stop
+and seek help for chest pain, fainting, or severe breathlessness.
+
+
+  Q38. Do I need to avoid screens or phones?
+  ------------------------------------------
+
+No. Normal device use does not harm a healthy brain. Take breaks to reduce eye strain and
+headaches, and limit screens before bed.
+
+
+  Q39. What if I get new symptoms next year?
+  ------------------------------------------
+
+See your doctor. A normal scan now does not prevent future problems, and new symptoms
+should always be assessed on their own.
+
+
+  Q40. Who can I talk to about ongoing worry?
+  -------------------------------------------
+
+Your regular doctor is a good start; they can reassure you, arrange further checks if
+needed, or refer you for counselling if anxiety persists.
+
+
+==========================================================================================
+21. METADATA FOR RETRIEVAL
+==========================================================================================
+
+Structured tags to help the AI assistant retrieve this document accurately.
+
+  +----------------------------+--------------------------------------------+
+  | Field                      | Value                                      |
+  +----------------------------+--------------------------------------------+
+  | Tumor Name                 | No Tumor (Healthy Brain MRI)               |
+  +----------------------------+--------------------------------------------+
+  | Alternative Names          | Normal brain MRI, negative scan, no mass   |
+  |                            | detected                                   |
+  +----------------------------+--------------------------------------------+
+  | WHO Grade                  | Not applicable (no tumor)                  |
+  +----------------------------+--------------------------------------------+
+  | Tumor Category             | Healthy / normal imaging finding           |
+  +----------------------------+--------------------------------------------+
+  | Brain Region               | Whole brain — all structures normal        |
+  +----------------------------+--------------------------------------------+
+  | Benign or Malignant        | No tumor present (benign/normal result)    |
+  +----------------------------+--------------------------------------------+
+  | Typical Symptoms           | May be none; any ongoing symptoms are      |
+  |                            | evaluated separately (headache, dizziness, |
+  |                            | seizures, etc.)                            |
+  +----------------------------+--------------------------------------------+
+  | Diagnostic Methods         | MRI (no mass), neurological exam, medical  |
+  |                            | history; further tests only if symptoms    |
+  |                            | persist                                    |
+  +----------------------------+--------------------------------------------+
+  | MRI Characteristics        | Symmetrical structures, no mass, no        |
+  |                            | abnormal enhancement, no edema, no midline |
+  |                            | shift, normal ventricles                   |
+  +----------------------------+--------------------------------------------+
+  | Treatment Options          | None for a tumor; healthy-lifestyle and    |
+  |                            | symptom-based care only                    |
+  +----------------------------+--------------------------------------------+
+  | Recovery Duration          | Not applicable; focus on maintaining brain |
+  |                            | health                                     |
+  +----------------------------+--------------------------------------------+
+  | Follow-Up Frequency        | Routine check-ups; repeat imaging only if  |
+  |                            | advised or symptoms change                 |
+  +----------------------------+--------------------------------------------+
+  | Common Complications       | None from the result itself; watch for new |
+  |                            | neurological symptoms                      |
+  +----------------------------+--------------------------------------------+
+  | Emergency Symptoms         | Stroke signs (FAST), sudden severe         |
+  |                            | headache, new seizure, loss of             |
+  |                            | consciousness — still apply                |
+  +----------------------------+--------------------------------------------+
+  | Keywords                   | no tumor, normal brain MRI, healthy brain, |
+  |                            | negative scan, brain health, prevention,   |
+  |                            | FAST stroke                                |
+  +----------------------------+--------------------------------------------+
+  | Synonyms                   | Normal scan, no mass, negative MRI,        |
+  |                            | healthy brain result                       |
+  +----------------------------+--------------------------------------------+
+  | Related Medical Conditions | Migraine, tension headache, anxiety,       |
+  |                            | stroke prevention, epilepsy evaluation,    |
+  |                            | healthy lifestyle                          |
+  +----------------------------+--------------------------------------------+
+

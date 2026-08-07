@@ -1,0 +1,794 @@
+==========================================================================================
+                      CLASS 3 – FINGER FRACTURE: PATIENT CARE GUIDE                       
+==========================================================================================
+
+An easy-to-understand guide for patients with a finger fracture — a break in one of the
+small bones (phalanges) of a finger or thumb. It covers causes, symptoms, diagnosis,
+treatment, healing, hand exercises, warning signs, and common questions.
+
+  [ NOTE ]
+  Medical disclaimer: This document is an educational reference created for a
+  patient-support knowledge base and for use in a retrieval-augmented (RAG) AI assistant.
+  It is NOT a substitute for professional medical advice, diagnosis, or treatment. Healing
+  times, medicines, and exercises differ for every person. Always follow the instructions
+  of your own doctor, orthopaedic surgeon, or physiotherapist. In an emergency, contact
+  local emergency services immediately.
+
+
+1. INTRODUCTION
+---------------
+
+A finger fracture is a break in one of the small bones of a finger. Each finger has three
+bones called phalanges (the thumb has two), and a break can happen in any of them. It is
+also called a broken finger or a fractured phalanx.
+
+Which bones are involved: the phalanges — the proximal (near the hand), middle, and distal
+(fingertip) phalanges. A break can also occur where the finger meets the hand bones
+(metacarpals). A common related injury is a mallet finger (a small break where the tendon
+pulls off the fingertip bone).
+
+Common causes: jamming or crushing the finger, sports (especially ball sports), catching
+the finger in a door or machine, falls, and direct blows. How common it is: finger
+fractures are among the most common hand injuries, seen often in sports and workplaces.
+
+Who is at higher risk: athletes in ball and contact sports, manual workers, children at
+play, and older adults with weaker bones. Severity ranges from a small undisplaced crack
+(mild) to a crushed, displaced, rotated, or open fracture (severe).
+
+
+  Types of Fractures Affecting This Bone
+
+A finger fracture can happen in several patterns. Common fracture types include:
+
+  - Hairline fracture (a very thin, small crack in the bone).
+  - Stress fracture (a tiny crack caused by repeated force or overuse).
+  - Greenstick fracture (the bone bends and cracks on one side; common in children).
+  - Closed fracture (the bone breaks but the skin stays intact).
+  - Open (compound) fracture (the broken bone breaks through the skin).
+  - Comminuted fracture (the bone breaks into three or more pieces).
+  - Spiral fracture (a break that twists around the bone, often from a twisting injury).
+  - Impacted fracture (the broken ends are driven into each other).
+  - Transverse fracture (a straight break across the bone).
+  - Oblique fracture (a slanted or angled break across the bone).
+
+Fingertip (distal phalanx) crush fractures, mallet finger, and small avulsion fractures
+(where a tendon or ligament pulls off a bone fragment) are common finger-specific
+patterns.
+
+
+2. ANATOMY
+----------
+
+The finger is a small but complex structure of bones, tendons, and nerves.
+
+  - Bones involved: the three phalanges of each finger (two in the thumb), which form the
+    finger's small hinge joints.
+  - Nearby muscles: the fingers are moved mostly by muscles in the forearm and small
+    muscles in the hand, working through long tendons.
+  - Tendons: the flexor tendons (palm side) bend the finger and the extensor tendons
+    (back) straighten it; injury can stop the finger from bending or straightening.
+  - Ligaments: small collateral ligaments hold the finger joints steady on each side.
+  - Blood vessels: tiny arteries on each side of the finger supply blood; a crushed finger
+    can lose good blood flow.
+  - Nerves: small digital nerves run along each side of the finger and give feeling;
+    injury causes numbness in the finger.
+
+Because the finger bones are small and near the joints and tendons, even a small fracture
+that heals rotated or angled can cause the finger to cross over its neighbour or lose
+movement. Correct alignment and early, guided movement are key to a good recovery.
+
+
+3. COMMON CAUSES
+----------------
+
+Most fractures happen when a force is stronger than the bone can handle. The main causes
+are:
+
+  - Falls: slipping, tripping, or falling onto an outstretched hand or arm — the most
+    common cause overall.
+  - Road traffic accidents: high-speed impacts from car, motorbike, or cycle crashes.
+  - Sports injuries: contact sports, skating, cycling, gymnastics, and falls during play.
+  - Workplace accidents: falls from height, machinery injuries, or heavy objects.
+  - Direct trauma: a hard blow or hit directly on the bone.
+  - Twisting injuries: the limb turns while the hand or body stays fixed.
+  - Heavy object injuries: something heavy falling onto the limb.
+  - Osteoporosis: weak, thin bones that break easily, especially in older adults.
+  - Bone tumors: growths that weaken the bone (pathological fracture).
+  - Repetitive stress: repeated overuse leading to stress fractures over time.
+
+For fingers specifically, jamming the finger (for example catching a ball), crushing it in
+a door, and direct blows are the most common causes.
+
+
+4. SYMPTOMS
+-----------
+
+Common signs and symptoms of a finger fracture include:
+
+  - Pain in the finger, worse with movement or pressure.
+  - Swelling of the finger, sometimes spreading to the hand.
+  - Bruising or discolouration.
+  - A bent, crooked, or rotated finger (deformity).
+  - Difficulty bending or straightening the finger.
+  - Numbness or tingling in the finger.
+  - Reduced grip or trouble holding objects.
+  - A dropped fingertip that will not straighten (mallet finger).
+  - In an open fracture, bone or a deep wound may be visible.
+
+  [ NOTE ]
+  Emergency warning signs: a finger that is cold, blue, or white, severe crushing injury,
+  bone through the skin, heavy bleeding, or a finger twisted out of shape. Seek urgent
+  care to protect blood flow and function.
+
+
+5. DIAGNOSIS
+------------
+
+Doctors confirm a fracture using a physical check and imaging tests. Each test gives
+different information.
+
+
+  Physical Examination and Medical History
+
+The doctor asks how the injury happened and checks for pain, swelling, bruising,
+deformity, tenderness, movement, pulse, skin colour, and sensation. Telling the doctor
+about past fractures, osteoporosis, medicines, and other illnesses helps plan the right
+treatment.
+
+
+  Imaging Tests
+
+  - X-ray: the first and main test. It shows most fractures, the exact location, and
+    whether the bone has moved out of place (displacement).
+  - CT scan: gives detailed 3-D images. Used for complex breaks, joint involvement, or
+    when the X-ray is unclear, to plan surgery.
+  - MRI: shows soft tissues, bone bruising, and hairline or stress fractures that may not
+    appear on an X-ray. Also checks nearby ligaments, tendons, and nerves.
+  - Ultrasound: sometimes used, especially in children, to look at bone surfaces and
+    soft-tissue swelling without radiation.
+  - Bone scan: can detect very small stress fractures or hidden fractures that other tests
+    miss, by showing areas of increased bone activity.
+
+For a finger fracture, X-rays of the specific finger from more than one angle are the main
+test and show the fracture and any rotation or joint involvement. A CT scan is rarely
+needed but may help for complex joint fractures; MRI or ultrasound can assess tendon
+injuries such as mallet finger.
+
+
+6. TREATMENT OPTIONS
+--------------------
+
+Treatment depends on the type of break, how far the bone has moved, and your age and
+health. It falls into non-surgical and surgical options.
+
+
+  Non-Surgical Treatment
+
+Most finger fractures are stable and heal well without surgery.
+
+  - Splint: a small finger splint holds the bone still; a mallet finger uses a special
+    straight fingertip splint worn continuously for several weeks.
+  - Buddy taping: taping the injured finger to the healthy finger next to it gives support
+    while allowing gentle movement.
+  - Cast: occasionally a small hand cast is used for less stable fractures.
+  - Brace: a hand-based brace may protect the finger in some injuries.
+  - Ice therapy: reduces pain and swelling in the first days.
+  - Elevation: keeping the hand raised above heart level reduces swelling.
+  - Pain medications: paracetamol for pain relief.
+  - Anti-inflammatory medicines: such as ibuprofen, if approved by your doctor.
+
+When recommended: non-surgical care suits stable fractures where the bone is in a good
+position. Advantages: no surgery, lower infection risk, and no anaesthesia. Limitations:
+needs a well-set position, the cast can cause stiffness, and it may not hold badly
+displaced or unstable fractures.
+
+
+  Surgical Treatment
+
+Surgery is used when the bone is badly out of place, broken into many pieces, involves a
+joint, is an open (compound) fracture, or fails to heal with a cast. The aim is to put the
+pieces back in the correct position and hold them still while they heal.
+
+  - ORIF (Open Reduction Internal Fixation): the surgeon opens the skin, sets the bone in
+    the right position (reduction), and fixes it with metal implants.
+  - Plates: flat metal supports screwed along the bone to hold the pieces together.
+  - Screws: hold fragments together, alone or with a plate.
+  - Pins (K-wires): thin wires that hold small pieces, often used in fingers and in
+    children; usually removed later.
+  - Rods (intramedullary nails): metal rods placed inside the hollow centre of a long bone
+    to support it.
+  - External fixator: a frame outside the body connected to the bone by pins; used for
+    severe, open, or badly contaminated fractures.
+  - Bone graft: extra bone (from your own body or a donor) added to help healing when
+    there is bone loss or slow healing.
+
+Indications (when surgery is needed): displaced, rotated, or unstable fractures, fractures
+involving the joint surface, multiple fragments (comminuted), open fractures, and some
+mallet or avulsion injuries. Fingers are often fixed with fine pins (K-wires) or small
+screws and plates.
+
+
+  Recovery Expectations and Risks After Surgery
+
+  - Recovery: a protective cast, splint, or sling is often used after surgery, followed by
+    physiotherapy. Implants usually stay in place unless they cause problems.
+  - Risks: infection, bleeding, nerve or blood vessel injury, implant irritation or
+    loosening, stiffness, blood clots, and reaction to anaesthesia.
+  - Most people regain good function, but full recovery takes weeks to months and depends
+    on the injury and following rehabilitation.
+
+
+7. HEALING TIMELINE
+-------------------
+
+Healing time varies by age, general health, fracture type, and how well instructions are
+followed. The table gives typical ranges.
+
+  +--------------+--------------------------------------------+
+  | Group        | Typical healing / recovery                 |
+  +--------------+--------------------------------------------+
+  | Children     | Often 3–4 weeks to unite; small finger     |
+  |              | bones heal quickly.                        |
+  +--------------+--------------------------------------------+
+  | Adults       | About 4–6 weeks for bone union; full       |
+  |              | strength over 2–3 months.                  |
+  +--------------+--------------------------------------------+
+  | Older adults | 6 weeks or more; stiffness is the main     |
+  |              | challenge.                                 |
+  +--------------+--------------------------------------------+
+  | Athletes     | Union in 4–6 weeks; return to sport often  |
+  |              | 6–12 weeks with protection.                |
+  +--------------+--------------------------------------------+
+
+Stages of healing: initial healing (inflammation and soft callus) in the first weeks, bone
+union (hard callus bridges the break), and functional recovery (regaining strength and
+movement). Regaining a full fist and full straightening is the key functional goal.
+
+  - Return to work: light/desk work often within days; heavy hand work usually 4–8 weeks.
+  - Return to sports: with buddy taping some sports return in 3–6 weeks; full contact 6–12
+    weeks.
+  - Full recovery: 2–3 months for most; swelling and stiffness can linger a little longer.
+
+Factors that delay healing: smoking, alcohol, poor nutrition, diabetes, osteoporosis,
+infection, poor blood supply, older age, certain medicines (such as steroids), and not
+resting the injured limb.
+
+
+8. RECOVERY STAGES
+------------------
+
+Knowing what to expect at each stage helps you feel reassured. Your own timeline may
+differ slightly.
+
+  +----------+--------------------------------------------+
+  | Stage    | What usually happens                       |
+  +----------+--------------------------------------------+
+  | Week 1   | Pain and swelling greatest; finger         |
+  |          | splinted or buddy-taped; keep hand raised. |
+  +----------+--------------------------------------------+
+  | Week 2   | Swelling easing; gentle guided movement    |
+  |          | may begin if advised to prevent stiffness. |
+  +----------+--------------------------------------------+
+  | Week 3–4 | Bone knitting; many splints continue; work |
+  |          | on gentle bending and straightening.       |
+  +----------+--------------------------------------------+
+  | Week 5–8 | Bone usually united; focus on regaining a  |
+  |          | full fist, grip, and strength.             |
+  +----------+--------------------------------------------+
+  | Month 3  | Most movement and strength restored;       |
+  |          | residual swelling may remain.              |
+  +----------+--------------------------------------------+
+  | Month 6  | Full recovery for most; the finger joint   |
+  |          | may look slightly larger permanently.      |
+  +----------+--------------------------------------------+
+
+
+9. DAILY CARE INSTRUCTIONS
+--------------------------
+
+  - Keep any cast or splint dry: cover it while washing; a wet splint irritates the skin.
+  - Sleeping position: rest the hand on a pillow, raised, to reduce night-time swelling.
+  - Bathing: use a waterproof cover or wash carefully; dry the splint area well.
+  - Clothing: choose loose sleeves and avoid tight rings (remove rings early, as swelling
+    can trap them).
+  - Walking: unaffected — normal walking is fine.
+  - Driving: avoid driving until you can grip the wheel safely and painlessly.
+  - Returning to office: light desk and computer work is often possible within a few days.
+  - Returning to school: children can usually attend, avoiding sports and rough play.
+  - Household activities: avoid gripping, lifting, and tasks that stress the finger.
+
+
+10. PAIN MANAGEMENT
+-------------------
+
+Some pain is normal after a fracture, especially in the first days. These safe, simple
+methods help control it.
+
+  - Ice packs: wrap ice in a cloth and apply for 15–20 minutes several times a day to
+    reduce pain and swelling (never put ice directly on the skin).
+  - Elevation: keep the injured limb raised above the level of the heart to reduce
+    throbbing and swelling.
+  - Rest: avoid using the injured limb for gripping, lifting, or bearing weight.
+  - Painkillers: paracetamol (acetaminophen) is commonly used. Anti-inflammatory medicines
+    such as ibuprofen may be advised. Take only the dose your doctor approves.
+  - Safe positioning: support the limb on a pillow and avoid letting it hang down.
+  - Relaxation techniques: slow breathing, distraction, and gentle music can reduce the
+    sensation of pain.
+
+  [ NOTE ]
+  When pain is abnormal: pain that suddenly becomes severe, is not relieved by medicine,
+  comes with numbness, a cold or blue hand, or a very tight cast may signal a serious
+  problem such as compartment syndrome or poor blood supply. Seek medical help urgently.
+
+
+11. DIET FOR BONE HEALING
+-------------------------
+
+Good nutrition speeds up bone healing. The nutrients below all play a role. Try to eat a
+balanced diet that includes them every day, and follow any special diet advice from your
+doctor or dietitian.
+
+
+  Key Nutrients for Bone Healing
+
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Nutrient     | Why it helps & daily intake                | Vegetarian sources                         | Non-vegetarian sources                     |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Calcium      | Main mineral that builds and repairs bone. | Milk, curd, paneer, cheese, ragi, tofu,    | Small fish eaten with bones (sardines),    |
+  |              | About 1000–1200 mg/day for adults.         | green leafy vegetables, sesame seeds       | dairy                                      |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin D    | Helps the body absorb calcium. About       | Sunlight, fortified milk and cereals,      | Egg yolk, fatty fish (salmon, mackerel),   |
+  |              | 600–800 IU/day (more if deficient).        | mushrooms                                  | fish liver oil                             |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Protein      | Builds the collagen framework of bone.     | Dal, beans, chickpeas, rajma, soya,        | Eggs, chicken, fish, lean meat             |
+  |              | About 1.0–1.5 g per kg body weight.        | paneer, tofu, nuts                         |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin C    | Needed to make collagen for bone repair.   | Oranges, lemon, amla, guava, capsicum,     | (Mainly from plant foods)                  |
+  |              | About 65–90 mg/day.                        | tomato, broccoli                           |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin K    | Helps bind calcium into bone. About 90–120 | Spinach, kale, broccoli, cabbage, green    | Eggs, some dairy                           |
+  |              | mcg/day.                                   | leafy vegetables                           |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Magnesium    | Supports bone structure and vitamin D use. | Nuts, seeds, whole grains, bananas, dark   | Fish                                       |
+  |              | About 310–420 mg/day.                      | leafy greens                               |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Phosphorus   | Works with calcium to harden bone. About   | Dairy, beans, lentils, whole grains, nuts  | Meat, fish, poultry, eggs                  |
+  |              | 700 mg/day.                                |                                            |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Zinc         | Helps bone cells grow and repair. About    | Whole grains, legumes, seeds, nuts         | Meat, shellfish, eggs                      |
+  |              | 8–11 mg/day.                               |                                            |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Omega-3 fats | Reduce inflammation and support healing.   | Flaxseed, chia seeds, walnuts, soybean oil | Fatty fish (salmon, mackerel, sardines)    |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Collagen     | Forms the flexible base of bone. Supported | Body makes it from protein-rich plant      | Bone broth, chicken, fish, eggs            |
+  |              | by protein + vitamin C.                    | foods + vitamin C                          |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+
+Drink enough water and, if your doctor recommends, take calcium and vitamin D supplements.
+Do not take high-dose supplements on your own without medical advice.
+
+
+12. FOODS TO AVOID
+------------------
+
+Some foods and habits slow bone healing by reducing calcium absorption, increasing
+inflammation, or harming blood supply. Limit or avoid the following while your fracture
+heals.
+
+  - Alcohol: slows new bone formation and reduces calcium and vitamin D use. Best avoided
+    completely during healing.
+  - Smoking and tobacco: reduce blood flow to the bone and are a leading cause of delayed
+    healing and nonunion. Stopping greatly improves healing.
+  - Sugary foods: too much sugar can increase inflammation and displace healthy foods.
+  - Soft drinks and colas: high phosphoric acid and sugar may reduce calcium balance.
+  - Excess caffeine: large amounts of coffee, tea, or energy drinks can reduce calcium
+    absorption; keep intake moderate.
+  - Processed and packaged food: often high in salt and low in nutrients.
+  - High sodium (salt) intake: makes the body lose more calcium in urine.
+  - Junk and deep-fried food: high in unhealthy fat and low in bone-building nutrients.
+
+In short, a fresh, home-cooked, balanced diet with less salt, sugar, alcohol, and no
+smoking gives your bone the best chance to heal quickly.
+
+
+13. PHYSICAL THERAPY AND REHABILITATION EXERCISES
+-------------------------------------------------
+
+Physiotherapy restores movement, strength, and function. Start only when your doctor
+allows, and stop any exercise that causes sharp or increasing pain. Below are typical
+stages — your therapist will tailor them to you.
+
+
+  Early Stage
+
+  - Gentle movement of the uninjured fingers, thumb, wrist, and elbow — purpose: keep the
+    rest of the hand mobile. Repetitions: 10 each, several times daily.
+  - Elevation and light finger wiggling (if allowed) — purpose: reduce swelling and
+    stiffness. Precaution: keep a mallet-finger splint on at all times.
+
+
+  Middle Stage
+
+  - Active finger bending toward the palm — purpose: regain a fist. Repetitions: 10 slow
+    bends, several times daily. Precaution: no forcing painful movement.
+  - Finger straightening exercises — purpose: restore full extension.
+  - Buddy-taped movement — purpose: safe motion while protecting the healing bone.
+
+
+  Advanced Stage
+
+  - Grip and pinch strengthening with putty — purpose: rebuild hand strength. Repetitions:
+    10–15 squeezes, 2–3 sets. Precaution: start soft.
+  - Full-fist and finger-spread exercises — purpose: restore complete movement.
+  - Return to fine tasks and sport-specific drills — purpose: full function. Precaution:
+    protect the finger with tape early on.
+
+  [ NOTE ]
+  General exercise precautions: move slowly, never push through sharp pain, stop if you
+  feel numbness or dizziness, and follow the exact repetitions your therapist advises.
+  When to stop: stop and call your therapist if pain worsens, swelling increases, or
+  movement suddenly decreases.
+
+
+14. ACTIVITIES TO AVOID DURING HEALING
+--------------------------------------
+
+Avoiding certain activities protects the healing bone and implants.
+
+  +----------------------------------------+------------------------------------------+
+  | Activity                               | How long to avoid (typical)              |
+  +----------------------------------------+------------------------------------------+
+  | Gripping and squeezing hard            | Until healed — often 4–6 weeks           |
+  +----------------------------------------+------------------------------------------+
+  | Ball sports without buddy taping       | About 6 weeks (then tape for protection) |
+  +----------------------------------------+------------------------------------------+
+  | Heavy lifting / carrying by that hand  | About 6–8 weeks or until cleared         |
+  +----------------------------------------+------------------------------------------+
+  | Contact sports (cricket, football)     | About 6–12 weeks                         |
+  +----------------------------------------+------------------------------------------+
+  | Weight training that loads the fingers | About 8 weeks or until cleared           |
+  +----------------------------------------+------------------------------------------+
+  | Removing a mallet-finger splint early  | For the full 6–8 weeks prescribed        |
+  +----------------------------------------+------------------------------------------+
+
+
+15. POSSIBLE COMPLICATIONS
+--------------------------
+
+Most fractures heal well, but knowing the possible problems helps you spot them early.
+Report any of these to your doctor.
+
+  - Delayed union: the bone heals more slowly than expected. Prevented by good nutrition,
+    not smoking, and following restrictions.
+  - Nonunion: the bone fails to join. Signs are ongoing pain and movement at the break
+    site; may need surgery or a bone graft.
+  - Malunion: the bone heals in the wrong position, causing deformity or reduced function;
+    sometimes needs correction.
+  - Infection: mainly with open fractures or after surgery. Signs are fever, redness,
+    warmth, swelling, pus, or bad smell.
+  - Stiffness: nearby joints become stiff from being kept still; prevented by
+    physiotherapy and gentle movement as advised.
+  - Nerve injury: causes numbness, tingling, or weakness; often improves but should be
+    checked.
+  - Blood vessel injury: rare but serious; causes a cold, pale, or blue limb and needs
+    emergency care.
+  - Chronic (long-lasting) pain: pain that continues after healing; managed with therapy
+    and pain specialists.
+  - Arthritis: joint fractures can lead to wear-and-tear arthritis years later.
+  - Reduced mobility: lasting loss of full movement, reduced by good rehabilitation.
+  - Complex Regional Pain Syndrome (CRPS): an uncommon condition with severe pain,
+    swelling, skin colour and temperature changes; early treatment gives the best result.
+
+
+16. RED FLAG SYMPTOMS — GO TO HOSPITAL IMMEDIATELY
+--------------------------------------------------
+
+Get emergency medical help right away if you notice any of the following. These can mean
+the blood supply, nerves, or the healing is in danger.
+
+  - Severe or rapidly increasing swelling.
+  - Fingers (or toes) turning blue, grey, or very pale.
+  - The hand or limb feels cold to touch.
+  - Numbness or loss of feeling that does not go away.
+  - Fever or chills (a sign of infection).
+  - Bleeding that will not stop.
+  - Severe pain that is not relieved by rest, elevation, or prescribed medicine.
+  - The cast becomes too tight or the limb feels squeezed.
+  - The cast breaks, cracks, or becomes loose.
+  - Pus, discharge, or fluid coming from under the cast or a wound.
+  - A bad smell coming from the cast or wound.
+  - Bone is visible through the skin (open fracture).
+  - Difficulty breathing, chest pain, or coughing after the injury (a possible blood clot
+    or fat embolism — a rare but serious emergency).
+
+  [ NOTE ]
+  Compartment syndrome warning: severe deep pain, tightness, numbness, and pain when the
+  fingers are gently stretched can signal dangerous pressure build-up. This is an
+  emergency — do not wait.
+
+
+17. FOLLOW-UP SCHEDULE
+----------------------
+
+Regular follow-up lets the doctor check that the bone is healing in the right position. A
+typical schedule is below.
+
+  +---------+--------------------------------------------+
+  | Visit   | What the doctor usually checks             |
+  +---------+--------------------------------------------+
+  | Week 1  | Check swelling, splint fit, rotation,      |
+  |         | blood flow, and feeling; X-ray if needed.  |
+  +---------+--------------------------------------------+
+  | Week 2  | Confirm the bone has not shifted; begin    |
+  |         | gentle movement if advised.                |
+  +---------+--------------------------------------------+
+  | Week 4  | X-ray for early healing; progress          |
+  |         | movement; check for stiffness.             |
+  +---------+--------------------------------------------+
+  | Week 6  | Check union; remove pins if used; advance  |
+  |         | strengthening.                             |
+  +---------+--------------------------------------------+
+  | Week 12 | Confirm full recovery of movement and      |
+  |         | strength; clear for full activity.         |
+  +---------+--------------------------------------------+
+
+
+18. RETURNING TO NORMAL LIFE
+----------------------------
+
+These are general guides for when people usually return to activities. Always get your
+doctor's clearance first.
+
+  +--------------------+--------------------------------------------+
+  | Activity           | Typical time to return                     |
+  +--------------------+--------------------------------------------+
+  | School             | A few days (no sport/rough play)           |
+  +--------------------+--------------------------------------------+
+  | Office (desk job)  | A few days to 1 week                       |
+  +--------------------+--------------------------------------------+
+  | Driving            | Once a safe, painless grip returns — often |
+  |                    | 2–4 weeks                                  |
+  +--------------------+--------------------------------------------+
+  | Gym (upper body)   | About 6–8 weeks, avoiding heavy grip early |
+  +--------------------+--------------------------------------------+
+  | Swimming           | After splint off and skin healed — about   |
+  |                    | 4–6 weeks                                  |
+  +--------------------+--------------------------------------------+
+  | Cycling            | Light cycling around 4–6 weeks (safe grip  |
+  |                    | needed)                                    |
+  +--------------------+--------------------------------------------+
+  | Running            | Usually within 1–2 weeks (does not stress  |
+  |                    | the finger)                                |
+  +--------------------+--------------------------------------------+
+  | Cricket / Football | About 6–12 weeks, often with buddy taping  |
+  +--------------------+--------------------------------------------+
+  | Weight lifting     | About 8 weeks, increasing grip load slowly |
+  +--------------------+--------------------------------------------+
+
+
+19. PREVENTION OF FUTURE FRACTURES
+----------------------------------
+
+After one fracture, it is worth protecting your bones for the future. These steps lower
+the chance of breaking a bone again.
+
+  - Bone-strengthening exercises: regular resistance and muscle-strengthening activity
+    keeps bones dense.
+  - Weight-bearing exercise: walking, jogging, dancing, and stair climbing build bone
+    strength.
+  - Balance training: yoga, tai chi, and balance drills reduce falls, especially in older
+    adults.
+  - Vitamin D: from sunlight, diet, or supplements as advised, to help absorb calcium.
+  - Calcium intake: eat enough calcium-rich foods every day.
+  - Protective equipment: wrist guards, elbow pads, and helmets during sports and skating.
+  - Safe workplace habits: follow safety rules, use guards, and prevent falls from height.
+  - Sports safety: warm up, use correct technique, and wear the right gear.
+  - Fall prevention: good footwear, adequate lighting, and vision checks.
+  - Home safety tips: remove loose rugs, add grab bars, keep floors dry and clutter-free.
+  - Osteoporosis screening: a bone density (DEXA) scan for older adults and high-risk
+    people, with treatment if bones are weak.
+
+
+20. FREQUENTLY ASKED QUESTIONS (FAQ)
+------------------------------------
+
+
+  Q1. Can I move my finger?
+
+Gentle movement of nearby fingers, the thumb, and wrist is encouraged. The injured finger
+is moved only when your doctor allows, to avoid stiffness without disturbing the healing
+bone.
+
+
+  Q2. Can I sleep on the injured hand?
+
+Avoid pressing on the injured finger. Rest the hand on a pillow, raised, to reduce
+swelling and pain.
+
+
+  Q3. Can I remove the splint?
+
+No, keep the splint on as instructed. A mallet-finger splint especially must stay on
+continuously for the full period, or healing restarts.
+
+
+  Q4. When can I drive?
+
+Once you can grip the wheel safely and without pain — often around 2–4 weeks. Confirm with
+your doctor.
+
+
+  Q5. Can I exercise?
+
+Yes, lower-body and cardio exercise is usually fine. Avoid gripping and hand-loading
+exercises until cleared.
+
+
+  Q6. Can I lift weights?
+
+Not until the bone heals and grip is pain-free — usually about 8 weeks, starting light.
+
+
+  Q7. Is swelling normal?
+
+Yes, finger swelling is common for several weeks. Keep the hand raised and use ice. Report
+severe or increasing swelling or a cold, blue finger urgently.
+
+
+  Q8. Is itching inside the splint normal?
+
+Mild itching is common. Do not poke objects inside; cool air can help. Tell your doctor if
+the skin becomes sore or smells.
+
+
+  Q9. Can I travel?
+
+Yes, once pain is controlled. Keep the hand raised on long journeys to limit swelling.
+
+
+  Q10. Can I fly?
+
+Air travel is usually fine; tell your doctor if it is very soon after the injury, as
+swelling can increase.
+
+
+  Q11. Can I get the splint or cast wet?
+
+Keep a plaster splint or cast dry. Some removable splints can be taken off briefly to wash
+— only if your doctor says so.
+
+
+  Q12. How long should I wear the splint?
+
+Simple fractures often need 3–4 weeks; a mallet finger needs about 6–8 weeks of continuous
+splinting.
+
+
+  Q13. When should I see a doctor urgently?
+
+For a cold, blue, or white finger, severe pain, spreading numbness, heavy bleeding, or
+signs of infection (pus, fever, bad smell).
+
+
+  Q14. Why does my finger look crooked?
+
+Swelling and the fracture can make it look bent. If it is truly rotated or crossing
+another finger, it must be corrected — see your doctor.
+
+
+  Q15. Will my finger be stiff afterwards?
+
+Some stiffness is common. Guided movement and hand exercises restore most or all motion
+over a few weeks to months.
+
+
+  Q16. Will I need surgery?
+
+Most finger fractures do not. Surgery is used for displaced, rotated, joint, or open
+fractures, often with fine pins or small screws.
+
+
+  Q17. Do the pins need to be removed?
+
+Small pins (K-wires) are often removed in the clinic after a few weeks. Small screws or
+plates usually stay unless they cause problems.
+
+
+  Q18. My fingertip won't straighten — what is that?
+
+That is likely a mallet finger, where the extensor tendon pulls off a bone fragment. It is
+treated with a special splint held straight for several weeks.
+
+
+  Q19. Is a little pain normal weeks later?
+
+Mild aching during healing and exercises is normal. Sharp or worsening pain should be
+checked.
+
+
+  Q20. What foods help my finger heal?
+
+Calcium, vitamin D, protein, and vitamin C support bone repair. Avoid smoking and alcohol,
+which slow healing.
+
+
+  Q21. Can I go to work?
+
+Light desk work is often possible within days. Heavy hand work usually needs 4–8 weeks.
+
+
+  Q22. Can I type or use my phone?
+
+Light typing and texting with the other fingers is usually fine if it does not hurt the
+injured finger.
+
+
+  Q23. Can I play sports again?
+
+Yes. With buddy taping some sports resume in 3–6 weeks; full contact play often 6–12
+weeks, after clearance.
+
+
+  Q24. Will my knuckle stay swollen or larger?
+
+The joint may look slightly larger permanently after some fractures, but function is
+usually good.
+
+
+  Q25. How can I prevent another finger fracture?
+
+Use protective taping or gloves in sport, keep bones strong with good nutrition, and take
+care around doors and machinery.
+
+
+  Q26. Should I remove my rings?
+
+Yes, remove rings early. Swelling can trap a ring and cut off blood flow to the finger.
+
+
+21. METADATA (FOR RETRIEVAL)
+----------------------------
+
+Structured tags to help the AI assistant retrieve this document accurately.
+
+  +-------------------------+--------------------------------------------+
+  | Field                   | Value                                      |
+  +-------------------------+--------------------------------------------+
+  | Fracture Name           | Finger Fracture                            |
+  +-------------------------+--------------------------------------------+
+  | Bones Involved          | Phalanges (proximal, middle, distal);      |
+  |                         | sometimes metacarpal border                |
+  +-------------------------+--------------------------------------------+
+  | Body Region             | Hand (finger/thumb)                        |
+  +-------------------------+--------------------------------------------+
+  | Common Causes           | Jamming, crushing, ball sports,            |
+  |                         | doors/machinery, falls, direct blows       |
+  +-------------------------+--------------------------------------------+
+  | Symptoms                | Pain, swelling, bruising, crooked/rotated  |
+  |                         | finger, stiffness, numbness, dropped       |
+  |                         | fingertip (mallet)                         |
+  +-------------------------+--------------------------------------------+
+  | Treatment Options       | Splint, buddy taping, cast; pins           |
+  |                         | (K-wires), small screws/plates for         |
+  |                         | unstable or joint fractures                |
+  +-------------------------+--------------------------------------------+
+  | Healing Duration        | Children 3–4 weeks; adults 4–6 weeks; full |
+  |                         | recovery 2–3 months                        |
+  +-------------------------+--------------------------------------------+
+  | Rehabilitation Duration | 3–8 weeks of hand exercises; stiffness may |
+  |                         | take longer                                |
+  +-------------------------+--------------------------------------------+
+  | Emergency Signs         | Cold/blue/white finger, crush injury, open |
+  |                         | bone, heavy bleeding, infection            |
+  +-------------------------+--------------------------------------------+
+  | Keywords                | finger fracture, broken finger, fractured  |
+  |                         | phalanx, mallet finger, jammed finger,     |
+  |                         | avulsion fracture                          |
+  +-------------------------+--------------------------------------------+
+  | Synonyms                | Broken finger, cracked finger bone,        |
+  |                         | fractured phalanx, hand fracture           |
+  +-------------------------+--------------------------------------------+
+  | Related Injuries        | Wrist fracture, metacarpal (hand)          |
+  |                         | fracture, tendon injury, dislocated finger |
+  +-------------------------+--------------------------------------------+
+

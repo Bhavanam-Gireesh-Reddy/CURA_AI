@@ -1,0 +1,812 @@
+==========================================================================================
+                      CLASS 1 – FOREARM FRACTURE: PATIENT CARE GUIDE                      
+==========================================================================================
+
+A complete, easy-to-understand guide for patients who have a forearm fracture (a break in
+the radius and/or ulna, the two bones between the elbow and wrist). It covers causes,
+symptoms, diagnosis, treatment, healing, diet, exercises, warning signs, and frequently
+asked questions.
+
+  [ NOTE ]
+  Medical disclaimer: This document is an educational reference created for a
+  patient-support knowledge base and for use in a retrieval-augmented (RAG) AI assistant.
+  It is NOT a substitute for professional medical advice, diagnosis, or treatment. Healing
+  times, medicines, and exercises differ for every person. Always follow the instructions
+  of your own doctor, orthopaedic surgeon, or physiotherapist. In an emergency, contact
+  local emergency services immediately.
+
+
+1. INTRODUCTION
+---------------
+
+A forearm fracture is a break in one or both of the two long bones of the forearm — the
+radius (on the thumb side) and the ulna (on the little-finger side). These bones run
+between the elbow and the wrist and work together to let you turn your palm up and down
+and to bend the elbow and wrist. A break in this area is also called a broken forearm.
+
+Which bones are involved: the radius, the ulna, or both. When both bones break it is
+called a 'both-bone forearm fracture'. Special named patterns include the Monteggia
+fracture (ulna break with dislocation of the radius at the elbow) and the Galeazzi
+fracture (radius break with injury to the wrist joint).
+
+Common causes: falling onto an outstretched hand, direct blows, sports injuries, road
+accidents, and twisting injuries. How common it is: forearm fractures are very common,
+especially in children and active adults, and are among the most frequent arm injuries
+seen in emergency rooms.
+
+Who is at higher risk: children (whose bones are still growing), older adults with weak
+bones (osteoporosis), athletes in contact or wheel sports, and people in physically
+demanding or high-fall-risk jobs. Severity levels range from a simple hairline crack
+(mild) to a displaced or open both-bone fracture (severe).
+
+
+  Types of Fractures Affecting This Bone
+
+A forearm fracture can happen in several patterns. Common fracture types include:
+
+  - Hairline fracture (a very thin, small crack in the bone).
+  - Stress fracture (a tiny crack caused by repeated force or overuse).
+  - Greenstick fracture (the bone bends and cracks on one side; common in children).
+  - Closed fracture (the bone breaks but the skin stays intact).
+  - Open (compound) fracture (the broken bone breaks through the skin).
+  - Comminuted fracture (the bone breaks into three or more pieces).
+  - Spiral fracture (a break that twists around the bone, often from a twisting injury).
+  - Impacted fracture (the broken ends are driven into each other).
+  - Transverse fracture (a straight break across the bone).
+  - Oblique fracture (a slanted or angled break across the bone).
+
+In children, greenstick and buckle (torus) fractures are especially common because young
+bones are softer and bend before they break.
+
+
+2. ANATOMY
+----------
+
+Understanding the forearm helps you see why care and rehabilitation matter.
+
+  - Bones involved: the radius and ulna. They pivot around each other to turn the palm up
+    (supination) and down (pronation).
+  - Nearby muscles: the forearm flexor muscles (front) bend the wrist and fingers, and the
+    extensor muscles (back) straighten them; these move the hand and grip.
+  - Tendons: strong cords that connect these muscles to the wrist and finger bones; injury
+    or swelling here can limit hand movement.
+  - Ligaments: tough bands that hold the radius and ulna together (including the
+    interosseous membrane between the bones) and stabilise the elbow and wrist joints.
+  - Blood vessels: the radial and ulnar arteries run through the forearm to supply the
+    hand; injury can affect blood flow and healing.
+  - Nerves: the median, ulnar, and radial nerves pass through the forearm and control hand
+    movement and feeling; pressure or injury can cause numbness or weakness.
+
+Because the two bones must glide smoothly to rotate the forearm, a break that heals in a
+poor position can limit the ability to turn the palm. Damage to nerves or vessels can also
+slow recovery, which is why doctors check hand movement, sensation, and pulse carefully.
+
+
+3. COMMON CAUSES
+----------------
+
+Most fractures happen when a force is stronger than the bone can handle. The main causes
+are:
+
+  - Falls: slipping, tripping, or falling onto an outstretched hand or arm — the most
+    common cause overall.
+  - Road traffic accidents: high-speed impacts from car, motorbike, or cycle crashes.
+  - Sports injuries: contact sports, skating, cycling, gymnastics, and falls during play.
+  - Workplace accidents: falls from height, machinery injuries, or heavy objects.
+  - Direct trauma: a hard blow or hit directly on the bone.
+  - Twisting injuries: the limb turns while the hand or body stays fixed.
+  - Heavy object injuries: something heavy falling onto the limb.
+  - Osteoporosis: weak, thin bones that break easily, especially in older adults.
+  - Bone tumors: growths that weaken the bone (pathological fracture).
+  - Repetitive stress: repeated overuse leading to stress fractures over time.
+
+For the forearm specifically, a fall onto an outstretched hand (often called a FOOSH
+injury) and direct impact during sports or accidents are the leading causes.
+
+
+4. SYMPTOMS
+-----------
+
+Common signs and symptoms of a forearm fracture include:
+
+  - Pain in the forearm, made worse by movement or touch.
+  - Swelling around the injured area.
+  - Bruising or discolouration of the skin.
+  - A visible deformity, bend, or 'crooked' look to the forearm.
+  - Difficulty or inability to turn the palm up or down.
+  - Numbness or tingling in the hand or fingers.
+  - Reduced grip strength or trouble holding objects.
+  - A snapping or cracking sound at the time of injury.
+  - In an open fracture, bone may be seen through a wound.
+
+  [ NOTE ]
+  Emergency warning signs: bone sticking through the skin, a cold or blue hand, spreading
+  numbness, uncontrolled bleeding, or severe worsening pain. Seek emergency care
+  immediately.
+
+
+5. DIAGNOSIS
+------------
+
+Doctors confirm a fracture using a physical check and imaging tests. Each test gives
+different information.
+
+
+  Physical Examination and Medical History
+
+The doctor asks how the injury happened and checks for pain, swelling, bruising,
+deformity, tenderness, movement, pulse, skin colour, and sensation. Telling the doctor
+about past fractures, osteoporosis, medicines, and other illnesses helps plan the right
+treatment.
+
+
+  Imaging Tests
+
+  - X-ray: the first and main test. It shows most fractures, the exact location, and
+    whether the bone has moved out of place (displacement).
+  - CT scan: gives detailed 3-D images. Used for complex breaks, joint involvement, or
+    when the X-ray is unclear, to plan surgery.
+  - MRI: shows soft tissues, bone bruising, and hairline or stress fractures that may not
+    appear on an X-ray. Also checks nearby ligaments, tendons, and nerves.
+  - Ultrasound: sometimes used, especially in children, to look at bone surfaces and
+    soft-tissue swelling without radiation.
+  - Bone scan: can detect very small stress fractures or hidden fractures that other tests
+    miss, by showing areas of increased bone activity.
+
+For a forearm fracture, X-rays of the whole forearm — including the elbow and wrist joints
+— are essential to rule out associated dislocations (Monteggia and Galeazzi patterns). A
+CT scan may be added for complex or joint-involving breaks.
+
+
+6. TREATMENT OPTIONS
+--------------------
+
+Treatment depends on the type of break, how far the bone has moved, and your age and
+health. It falls into non-surgical and surgical options.
+
+
+  Non-Surgical Treatment
+
+Many stable forearm fractures, especially in children, heal well without surgery.
+
+  - Cast: a plaster or fibreglass cast (often an above-elbow cast) holds the bones still
+    while they heal; commonly worn for several weeks.
+  - Splint: used first, especially when there is a lot of swelling, before a full cast.
+  - Brace: a removable functional brace may be used in later healing for some fractures.
+  - Sling: supports the arm, keeps it raised, and reduces pain.
+  - Ice therapy: reduces pain and swelling in the first days.
+  - Elevation: keeping the forearm raised lowers swelling.
+  - Pain medications: paracetamol for pain relief.
+  - Anti-inflammatory medicines: such as ibuprofen, if approved by your doctor.
+
+When recommended: non-surgical care suits stable fractures where the bone is in a good
+position. Advantages: no surgery, lower infection risk, and no anaesthesia. Limitations:
+needs a well-set position, the cast can cause stiffness, and it may not hold badly
+displaced or unstable fractures.
+
+
+  Surgical Treatment
+
+Surgery is used when the bone is badly out of place, broken into many pieces, involves a
+joint, is an open (compound) fracture, or fails to heal with a cast. The aim is to put the
+pieces back in the correct position and hold them still while they heal.
+
+  - ORIF (Open Reduction Internal Fixation): the surgeon opens the skin, sets the bone in
+    the right position (reduction), and fixes it with metal implants.
+  - Plates: flat metal supports screwed along the bone to hold the pieces together.
+  - Screws: hold fragments together, alone or with a plate.
+  - Pins (K-wires): thin wires that hold small pieces, often used in fingers and in
+    children; usually removed later.
+  - Rods (intramedullary nails): metal rods placed inside the hollow centre of a long bone
+    to support it.
+  - External fixator: a frame outside the body connected to the bone by pins; used for
+    severe, open, or badly contaminated fractures.
+  - Bone graft: extra bone (from your own body or a donor) added to help healing when
+    there is bone loss or slow healing.
+
+Indications (when surgery is needed): both-bone forearm fractures in adults, displaced
+fractures, unstable or open fractures, Monteggia and Galeazzi injuries, and fractures that
+cannot be held in a good position by a cast. Adults with both-bone breaks usually need a
+plate-and-screw fixation.
+
+
+  Recovery Expectations and Risks After Surgery
+
+  - Recovery: a protective cast, splint, or sling is often used after surgery, followed by
+    physiotherapy. Implants usually stay in place unless they cause problems.
+  - Risks: infection, bleeding, nerve or blood vessel injury, implant irritation or
+    loosening, stiffness, blood clots, and reaction to anaesthesia.
+  - Most people regain good function, but full recovery takes weeks to months and depends
+    on the injury and following rehabilitation.
+
+
+7. HEALING TIMELINE
+-------------------
+
+Healing time varies by age, general health, fracture type, and how well instructions are
+followed. The table gives typical ranges.
+
+  +--------------+--------------------------------------------+
+  | Group        | Typical healing / recovery                 |
+  +--------------+--------------------------------------------+
+  | Children     | Often 4–6 weeks to unite; remodelling can  |
+  |              | correct minor angles over months.          |
+  +--------------+--------------------------------------------+
+  | Adults       | About 8–12 weeks for bone union; longer    |
+  |              | for both-bone or surgical fractures.       |
+  +--------------+--------------------------------------------+
+  | Older adults | 12 weeks or more; healing may be slower    |
+  |              | with osteoporosis.                         |
+  +--------------+--------------------------------------------+
+  | Athletes     | Bone union in 8–12 weeks, but return to    |
+  |              | sport often 3–4 months with full strength. |
+  +--------------+--------------------------------------------+
+
+Stages of healing: initial healing (inflammation and soft callus) in the first weeks, bone
+union (hard callus bridges the break), and functional recovery (regaining strength and
+movement). Turning the palm fully up and down is often the last movement to return.
+
+  - Return to work: desk work in 1–2 weeks; heavy manual work often 10–12 weeks or after
+    clearance.
+  - Return to sports: non-contact around 8–10 weeks; contact sports usually 3–4 months.
+  - Full recovery: 3–6 months for full strength and rotation in most adults.
+
+Factors that delay healing: smoking, alcohol, poor nutrition, diabetes, osteoporosis,
+infection, poor blood supply, older age, certain medicines (such as steroids), and not
+resting the injured limb.
+
+
+8. RECOVERY STAGES
+------------------
+
+Knowing what to expect at each stage helps you feel reassured. Your own timeline may
+differ slightly.
+
+  +----------+--------------------------------------------+
+  | Stage    | What usually happens                       |
+  +----------+--------------------------------------------+
+  | Week 1   | Most pain and swelling; arm kept elevated  |
+  |          | in cast/splint; move fingers gently.       |
+  +----------+--------------------------------------------+
+  | Week 2   | Pain settling; swelling reducing; keep     |
+  |          | using fingers, shoulder, and hand.         |
+  +----------+--------------------------------------------+
+  | Week 3–4 | Cast continues; bone starting to knit;     |
+  |          | stiffness in wrist/fingers is common.      |
+  +----------+--------------------------------------------+
+  | Week 5–8 | Bone uniting; cast may come off toward the |
+  |          | end; gentle movement begins.               |
+  +----------+--------------------------------------------+
+  | Month 3  | Bone usually united; physiotherapy to      |
+  |          | regain rotation and strength.              |
+  +----------+--------------------------------------------+
+  | Month 6  | Most people near full strength and         |
+  |          | movement; heavy tasks resumed.             |
+  +----------+--------------------------------------------+
+
+
+9. DAILY CARE INSTRUCTIONS
+--------------------------
+
+  - Keep the cast dry: cover it with a plastic bag while bathing; a wet cast weakens and
+    can irritate the skin.
+  - Sleeping position: keep the arm supported on a pillow, slightly raised, to reduce
+    swelling; avoid lying on the injured arm.
+  - Bathing: use a waterproof cover or sponge-bathe; dry the edges of the cast if damp.
+  - Clothing: wear loose sleeves or button shirts; dress the injured arm first and undress
+    it last.
+  - Walking: normal walking is fine; keep the arm in the sling for comfort and support.
+  - Driving: avoid driving while in an arm cast or when unable to control the wheel
+    safely; ask your doctor when it is safe.
+  - Returning to office: light desk work is often possible within days to a couple of
+    weeks if pain allows.
+  - Returning to school: children can usually attend once comfortable, avoiding sports and
+    rough play.
+  - Household activities: avoid lifting, carrying, and using the injured arm for heavy
+    tasks; use the other hand.
+
+
+10. PAIN MANAGEMENT
+-------------------
+
+Some pain is normal after a fracture, especially in the first days. These safe, simple
+methods help control it.
+
+  - Ice packs: wrap ice in a cloth and apply for 15–20 minutes several times a day to
+    reduce pain and swelling (never put ice directly on the skin).
+  - Elevation: keep the injured limb raised above the level of the heart to reduce
+    throbbing and swelling.
+  - Rest: avoid using the injured limb for gripping, lifting, or bearing weight.
+  - Painkillers: paracetamol (acetaminophen) is commonly used. Anti-inflammatory medicines
+    such as ibuprofen may be advised. Take only the dose your doctor approves.
+  - Safe positioning: support the limb on a pillow and avoid letting it hang down.
+  - Relaxation techniques: slow breathing, distraction, and gentle music can reduce the
+    sensation of pain.
+
+  [ NOTE ]
+  When pain is abnormal: pain that suddenly becomes severe, is not relieved by medicine,
+  comes with numbness, a cold or blue hand, or a very tight cast may signal a serious
+  problem such as compartment syndrome or poor blood supply. Seek medical help urgently.
+
+
+11. DIET FOR BONE HEALING
+-------------------------
+
+Good nutrition speeds up bone healing. The nutrients below all play a role. Try to eat a
+balanced diet that includes them every day, and follow any special diet advice from your
+doctor or dietitian.
+
+
+  Key Nutrients for Bone Healing
+
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Nutrient     | Why it helps & daily intake                | Vegetarian sources                         | Non-vegetarian sources                     |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Calcium      | Main mineral that builds and repairs bone. | Milk, curd, paneer, cheese, ragi, tofu,    | Small fish eaten with bones (sardines),    |
+  |              | About 1000–1200 mg/day for adults.         | green leafy vegetables, sesame seeds       | dairy                                      |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin D    | Helps the body absorb calcium. About       | Sunlight, fortified milk and cereals,      | Egg yolk, fatty fish (salmon, mackerel),   |
+  |              | 600–800 IU/day (more if deficient).        | mushrooms                                  | fish liver oil                             |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Protein      | Builds the collagen framework of bone.     | Dal, beans, chickpeas, rajma, soya,        | Eggs, chicken, fish, lean meat             |
+  |              | About 1.0–1.5 g per kg body weight.        | paneer, tofu, nuts                         |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin C    | Needed to make collagen for bone repair.   | Oranges, lemon, amla, guava, capsicum,     | (Mainly from plant foods)                  |
+  |              | About 65–90 mg/day.                        | tomato, broccoli                           |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Vitamin K    | Helps bind calcium into bone. About 90–120 | Spinach, kale, broccoli, cabbage, green    | Eggs, some dairy                           |
+  |              | mcg/day.                                   | leafy vegetables                           |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Magnesium    | Supports bone structure and vitamin D use. | Nuts, seeds, whole grains, bananas, dark   | Fish                                       |
+  |              | About 310–420 mg/day.                      | leafy greens                               |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Phosphorus   | Works with calcium to harden bone. About   | Dairy, beans, lentils, whole grains, nuts  | Meat, fish, poultry, eggs                  |
+  |              | 700 mg/day.                                |                                            |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Zinc         | Helps bone cells grow and repair. About    | Whole grains, legumes, seeds, nuts         | Meat, shellfish, eggs                      |
+  |              | 8–11 mg/day.                               |                                            |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Omega-3 fats | Reduce inflammation and support healing.   | Flaxseed, chia seeds, walnuts, soybean oil | Fatty fish (salmon, mackerel, sardines)    |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+  | Collagen     | Forms the flexible base of bone. Supported | Body makes it from protein-rich plant      | Bone broth, chicken, fish, eggs            |
+  |              | by protein + vitamin C.                    | foods + vitamin C                          |                                            |
+  +--------------+--------------------------------------------+--------------------------------------------+--------------------------------------------+
+
+Drink enough water and, if your doctor recommends, take calcium and vitamin D supplements.
+Do not take high-dose supplements on your own without medical advice.
+
+
+12. FOODS TO AVOID
+------------------
+
+Some foods and habits slow bone healing by reducing calcium absorption, increasing
+inflammation, or harming blood supply. Limit or avoid the following while your fracture
+heals.
+
+  - Alcohol: slows new bone formation and reduces calcium and vitamin D use. Best avoided
+    completely during healing.
+  - Smoking and tobacco: reduce blood flow to the bone and are a leading cause of delayed
+    healing and nonunion. Stopping greatly improves healing.
+  - Sugary foods: too much sugar can increase inflammation and displace healthy foods.
+  - Soft drinks and colas: high phosphoric acid and sugar may reduce calcium balance.
+  - Excess caffeine: large amounts of coffee, tea, or energy drinks can reduce calcium
+    absorption; keep intake moderate.
+  - Processed and packaged food: often high in salt and low in nutrients.
+  - High sodium (salt) intake: makes the body lose more calcium in urine.
+  - Junk and deep-fried food: high in unhealthy fat and low in bone-building nutrients.
+
+In short, a fresh, home-cooked, balanced diet with less salt, sugar, alcohol, and no
+smoking gives your bone the best chance to heal quickly.
+
+
+13. PHYSICAL THERAPY AND REHABILITATION EXERCISES
+-------------------------------------------------
+
+Physiotherapy restores movement, strength, and function. Start only when your doctor
+allows, and stop any exercise that causes sharp or increasing pain. Below are typical
+stages — your therapist will tailor them to you.
+
+
+  Early Stage
+
+  - Finger, thumb, and shoulder movements while in the cast — purpose: prevent stiffness
+    and swelling. Repetitions: gentle bends, 10 times, several times a day. Precaution:
+    keep the wrist and forearm still.
+  - Gentle fist opening and closing — purpose: keep tendons gliding and reduce swelling.
+
+
+  Middle Stage
+
+  - Wrist bending up and down (after cast removal) — purpose: restore wrist movement.
+    Repetitions: 10 each way, 2–3 times daily. Precaution: no pain past a gentle stretch.
+  - Forearm rotation (turning palm up and down) — purpose: regain the key forearm
+    movement. Repetitions: 10 slow turns. Precaution: move within a comfortable range.
+  - Elbow bending and straightening — purpose: reduce elbow stiffness.
+
+
+  Advanced Stage
+
+  - Grip strengthening with a soft ball or putty — purpose: rebuild hand strength.
+    Repetitions: squeeze 10–15 times, 2–3 sets. Precaution: start light.
+  - Resistance-band wrist and forearm exercises — purpose: build strength and endurance.
+  - Gradual return to lifting and sport-specific drills — purpose: safe return to full
+    activity. Precaution: increase load slowly and stop if pain returns.
+
+  [ NOTE ]
+  General exercise precautions: move slowly, never push through sharp pain, stop if you
+  feel numbness or dizziness, and follow the exact repetitions your therapist advises.
+  When to stop: stop and call your therapist if pain worsens, swelling increases, or
+  movement suddenly decreases.
+
+
+14. ACTIVITIES TO AVOID DURING HEALING
+--------------------------------------
+
+Avoiding certain activities protects the healing bone and implants.
+
+  +--------------------------------------------+--------------------------------------------+
+  | Activity                                   | How long to avoid (typical)                |
+  +--------------------------------------------+--------------------------------------------+
+  | Heavy lifting with the injured arm         | Until healed and cleared — often 10–12     |
+  |                                            | weeks                                      |
+  +--------------------------------------------+--------------------------------------------+
+  | Push-ups, pull-ups, weight lifting         | About 3 months or until cleared            |
+  +--------------------------------------------+--------------------------------------------+
+  | Contact sports (cricket, football, martial | About 3–4 months                           |
+  | arts)                                      |                                            |
+  +--------------------------------------------+--------------------------------------------+
+  | Carrying heavy bags on that arm            | Until full strength returns (2–3 months)   |
+  +--------------------------------------------+--------------------------------------------+
+  | Forceful twisting of the forearm           | Until rotation is pain-free (about 8–12    |
+  |                                            | weeks)                                     |
+  +--------------------------------------------+--------------------------------------------+
+  | Driving with the arm in a cast             | Until the cast is off and control is safe  |
+  +--------------------------------------------+--------------------------------------------+
+
+
+15. POSSIBLE COMPLICATIONS
+--------------------------
+
+Most fractures heal well, but knowing the possible problems helps you spot them early.
+Report any of these to your doctor.
+
+  - Delayed union: the bone heals more slowly than expected. Prevented by good nutrition,
+    not smoking, and following restrictions.
+  - Nonunion: the bone fails to join. Signs are ongoing pain and movement at the break
+    site; may need surgery or a bone graft.
+  - Malunion: the bone heals in the wrong position, causing deformity or reduced function;
+    sometimes needs correction.
+  - Infection: mainly with open fractures or after surgery. Signs are fever, redness,
+    warmth, swelling, pus, or bad smell.
+  - Stiffness: nearby joints become stiff from being kept still; prevented by
+    physiotherapy and gentle movement as advised.
+  - Nerve injury: causes numbness, tingling, or weakness; often improves but should be
+    checked.
+  - Blood vessel injury: rare but serious; causes a cold, pale, or blue limb and needs
+    emergency care.
+  - Chronic (long-lasting) pain: pain that continues after healing; managed with therapy
+    and pain specialists.
+  - Arthritis: joint fractures can lead to wear-and-tear arthritis years later.
+  - Reduced mobility: lasting loss of full movement, reduced by good rehabilitation.
+  - Complex Regional Pain Syndrome (CRPS): an uncommon condition with severe pain,
+    swelling, skin colour and temperature changes; early treatment gives the best result.
+
+
+16. RED FLAG SYMPTOMS — GO TO HOSPITAL IMMEDIATELY
+--------------------------------------------------
+
+Get emergency medical help right away if you notice any of the following. These can mean
+the blood supply, nerves, or the healing is in danger.
+
+  - Severe or rapidly increasing swelling.
+  - Fingers (or toes) turning blue, grey, or very pale.
+  - The hand or limb feels cold to touch.
+  - Numbness or loss of feeling that does not go away.
+  - Fever or chills (a sign of infection).
+  - Bleeding that will not stop.
+  - Severe pain that is not relieved by rest, elevation, or prescribed medicine.
+  - The cast becomes too tight or the limb feels squeezed.
+  - The cast breaks, cracks, or becomes loose.
+  - Pus, discharge, or fluid coming from under the cast or a wound.
+  - A bad smell coming from the cast or wound.
+  - Bone is visible through the skin (open fracture).
+  - Difficulty breathing, chest pain, or coughing after the injury (a possible blood clot
+    or fat embolism — a rare but serious emergency).
+
+  [ NOTE ]
+  Compartment syndrome warning: severe deep pain, tightness, numbness, and pain when the
+  fingers are gently stretched can signal dangerous pressure build-up. This is an
+  emergency — do not wait.
+
+
+17. FOLLOW-UP SCHEDULE
+----------------------
+
+Regular follow-up lets the doctor check that the bone is healing in the right position. A
+typical schedule is below.
+
+  +---------+--------------------------------------------+
+  | Visit   | What the doctor usually checks             |
+  +---------+--------------------------------------------+
+  | Week 1  | Check swelling, cast fit, blood flow, and  |
+  |         | position on a repeat X-ray.                |
+  +---------+--------------------------------------------+
+  | Week 2  | Confirm the bone has not shifted; adjust   |
+  |         | splint/cast if needed.                     |
+  +---------+--------------------------------------------+
+  | Week 4  | X-ray to check early bone healing          |
+  |         | (callus); assess pain and movement.        |
+  +---------+--------------------------------------------+
+  | Week 6  | Check for bone union; the cast may be      |
+  |         | removed or changed to a brace.             |
+  +---------+--------------------------------------------+
+  | Week 12 | Confirm full union; review strength,       |
+  |         | rotation, and plan for return to           |
+  |         | sport/work.                                |
+  +---------+--------------------------------------------+
+
+
+18. RETURNING TO NORMAL LIFE
+----------------------------
+
+These are general guides for when people usually return to activities. Always get your
+doctor's clearance first.
+
+  +--------------------+--------------------------------------------+
+  | Activity           | Typical time to return                     |
+  +--------------------+--------------------------------------------+
+  | School             | A few days to 1–2 weeks (no sports/rough   |
+  |                    | play)                                      |
+  +--------------------+--------------------------------------------+
+  | Office (desk job)  | A few days to 2 weeks                      |
+  +--------------------+--------------------------------------------+
+  | Driving            | After the cast is off and control is safe  |
+  |                    | — often 6–8 weeks                          |
+  +--------------------+--------------------------------------------+
+  | Gym (upper body)   | About 3 months, building up gradually      |
+  +--------------------+--------------------------------------------+
+  | Swimming           | After the cast is off and the wound/skin   |
+  |                    | has healed — about 8–10 weeks              |
+  +--------------------+--------------------------------------------+
+  | Cycling            | Light cycling around 8–10 weeks; avoid     |
+  |                    | falls risk                                 |
+  +--------------------+--------------------------------------------+
+  | Running            | Often 6–8 weeks (arm must be pain-free and |
+  |                    | stable)                                    |
+  +--------------------+--------------------------------------------+
+  | Cricket / Football | About 3–4 months with clearance            |
+  +--------------------+--------------------------------------------+
+  | Weight lifting     | About 3–4 months, increasing load slowly   |
+  +--------------------+--------------------------------------------+
+
+
+19. PREVENTION OF FUTURE FRACTURES
+----------------------------------
+
+After one fracture, it is worth protecting your bones for the future. These steps lower
+the chance of breaking a bone again.
+
+  - Bone-strengthening exercises: regular resistance and muscle-strengthening activity
+    keeps bones dense.
+  - Weight-bearing exercise: walking, jogging, dancing, and stair climbing build bone
+    strength.
+  - Balance training: yoga, tai chi, and balance drills reduce falls, especially in older
+    adults.
+  - Vitamin D: from sunlight, diet, or supplements as advised, to help absorb calcium.
+  - Calcium intake: eat enough calcium-rich foods every day.
+  - Protective equipment: wrist guards, elbow pads, and helmets during sports and skating.
+  - Safe workplace habits: follow safety rules, use guards, and prevent falls from height.
+  - Sports safety: warm up, use correct technique, and wear the right gear.
+  - Fall prevention: good footwear, adequate lighting, and vision checks.
+  - Home safety tips: remove loose rugs, add grab bars, keep floors dry and clutter-free.
+  - Osteoporosis screening: a bone density (DEXA) scan for older adults and high-risk
+    people, with treatment if bones are weak.
+
+
+20. FREQUENTLY ASKED QUESTIONS (FAQ)
+------------------------------------
+
+
+  Q1. Can I move my fingers?
+
+Yes. Gently moving your fingers, thumb, and shoulder while in the cast is encouraged. It
+keeps them from getting stiff and helps reduce swelling. Avoid moving the wrist and
+forearm inside the cast.
+
+
+  Q2. Can I sleep on the injured arm?
+
+It is best not to sleep on the injured arm. Rest it on a pillow, slightly raised, to keep
+it comfortable and reduce swelling.
+
+
+  Q3. Can I remove the cast or splint myself?
+
+No. Never remove or cut your cast or splint yourself. It must stay on until your doctor
+decides the bone has healed enough.
+
+
+  Q4. When can I drive?
+
+Usually only after the cast is removed and you can safely control the steering wheel and
+gears — often around 6–8 weeks. Ask your doctor first.
+
+
+  Q5. Can I exercise?
+
+You can do gentle finger, shoulder, and light lower-body exercise early on. Wait for your
+doctor's advice before forearm, wrist, or upper-body workouts.
+
+
+  Q6. Can I lift weights?
+
+Not until the bone has healed and you are cleared — often around 3–4 months, starting
+light and increasing slowly.
+
+
+  Q7. Is swelling normal?
+
+Some swelling is normal in the first days to weeks. Keep the arm raised and use ice.
+Sudden, severe, or increasing swelling needs urgent medical review.
+
+
+  Q8. Is itching inside the cast normal?
+
+Yes, mild itching is common. Do not push objects inside the cast to scratch, as this can
+injure the skin and cause infection. Cool air from a hair dryer on a low setting can help.
+
+
+  Q9. Can I travel?
+
+Short travel is usually fine once pain is controlled. Keep the arm raised and supported.
+Ask your doctor before long journeys.
+
+
+  Q10. Can I fly?
+
+Air travel is generally allowed, but tell your doctor. On long flights soon after a new
+cast, some doctors advise a split cast because swelling can increase.
+
+
+  Q11. Can I get the cast wet?
+
+No. A standard plaster or fibreglass cast must stay dry. Use a waterproof cover for
+bathing. A wet cast can weaken and irritate the skin.
+
+
+  Q12. How long should I wear the sling?
+
+A sling is usually worn for comfort in the first 1–3 weeks, or as your doctor advises.
+Remove it for gentle movement if allowed.
+
+
+  Q13. When should I see a doctor urgently?
+
+If you have severe pain, a cold or blue hand, spreading numbness, a very tight or broken
+cast, fever, or discharge, seek care at once.
+
+
+  Q14. How long will the whole forearm fracture take to heal?
+
+Bone union usually takes about 8–12 weeks in adults and 4–6 weeks in children, with full
+strength over 3–6 months.
+
+
+  Q15. Will I need surgery?
+
+Not always. Many fractures heal in a cast. Surgery is more likely for both-bone breaks in
+adults, displaced, unstable, or open fractures.
+
+
+  Q16. Do the metal plates or screws need to be removed?
+
+Usually they can stay for life. They are removed only if they cause pain, irritation, or
+infection.
+
+
+  Q17. Why can't I turn my palm properly?
+
+The two forearm bones must glide to rotate the palm. Stiffness after a fracture is common
+and usually improves with physiotherapy.
+
+
+  Q18. Can I type or use a phone?
+
+You can use your fingers gently for light typing or texting if it does not hurt and the
+wrist stays supported.
+
+
+  Q19. Is some pain normal weeks after the injury?
+
+Mild aching during healing is normal. Sharp, worsening, or new pain should be checked by
+your doctor.
+
+
+  Q20. Can children's forearm fractures straighten on their own?
+
+Yes. Because children's bones remodel as they grow, minor bends often correct themselves
+over months.
+
+
+  Q21. What food helps my bone heal faster?
+
+A balanced diet rich in calcium, vitamin D, protein, and vitamin C helps. Avoid smoking
+and alcohol, which slow healing.
+
+
+  Q22. Can I go to work?
+
+Desk jobs are often possible within days to two weeks. Heavy manual work usually needs
+10–12 weeks or your doctor's clearance.
+
+
+  Q23. Will my arm be weak after the cast comes off?
+
+Yes, temporary weakness and stiffness are normal after weeks in a cast. Physiotherapy
+restores strength and movement.
+
+
+  Q24. Can I play sports again?
+
+Yes, most people return to sport. Non-contact around 8–10 weeks and contact sports around
+3–4 months, after clearance.
+
+
+  Q25. How can I prevent another forearm fracture?
+
+Strengthen bones with exercise, get enough calcium and vitamin D, prevent falls, wear
+protective gear in sport, and get screened for osteoporosis if you are at risk.
+
+
+  Q26. My cast feels too tight — what should I do?
+
+A cast that becomes very tight, painful, or causes tingling or a cold hand needs urgent
+review; do not wait, contact your doctor.
+
+
+21. METADATA (FOR RETRIEVAL)
+----------------------------
+
+Structured tags to help the AI assistant retrieve this document accurately.
+
+  +-------------------------+--------------------------------------------+
+  | Field                   | Value                                      |
+  +-------------------------+--------------------------------------------+
+  | Fracture Name           | Forearm Fracture                           |
+  +-------------------------+--------------------------------------------+
+  | Bones Involved          | Radius, Ulna                               |
+  +-------------------------+--------------------------------------------+
+  | Body Region             | Upper limb (forearm, between elbow and     |
+  |                         | wrist)                                     |
+  +-------------------------+--------------------------------------------+
+  | Common Causes           | Falls (FOOSH), direct trauma, sports, road |
+  |                         | accidents, twisting, osteoporosis          |
+  +-------------------------+--------------------------------------------+
+  | Symptoms                | Pain, swelling, bruising, deformity,       |
+  |                         | limited rotation, numbness, weak grip      |
+  +-------------------------+--------------------------------------------+
+  | Treatment Options       | Cast, splint, sling; ORIF with             |
+  |                         | plates/screws, rods, external fixator,     |
+  |                         | bone graft                                 |
+  +-------------------------+--------------------------------------------+
+  | Healing Duration        | Children 4–6 weeks; adults 8–12 weeks;     |
+  |                         | full strength 3–6 months                   |
+  +-------------------------+--------------------------------------------+
+  | Rehabilitation Duration | 6–16 weeks of physiotherapy depending on   |
+  |                         | severity                                   |
+  +-------------------------+--------------------------------------------+
+  | Emergency Signs         | Open bone, cold/blue hand, spreading       |
+  |                         | numbness, uncontrolled bleeding,           |
+  |                         | compartment syndrome                       |
+  +-------------------------+--------------------------------------------+
+  | Keywords                | forearm fracture, broken forearm, radius   |
+  |                         | fracture, ulna fracture, both-bone         |
+  |                         | fracture, Monteggia, Galeazzi, FOOSH       |
+  +-------------------------+--------------------------------------------+
+  | Synonyms                | Broken forearm, cracked forearm bone,      |
+  |                         | radius/ulna break, lower arm fracture      |
+  +-------------------------+--------------------------------------------+
+  | Related Injuries        | Wrist fracture, elbow fracture, distal     |
+  |                         | radius fracture, humerus fracture          |
+  +-------------------------+--------------------------------------------+
+
