@@ -4,6 +4,7 @@ import joblib
 
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import classification_report
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
@@ -175,6 +176,29 @@ for name, model in models.items():
     print(
         "Accuracy:",
         accuracy
+    )
+
+
+    predictions = model.predict(
+        X_test
+    )
+
+
+    print(
+        f"Classification Report for {name}:"
+    )
+
+
+    print(
+        classification_report(
+            y_test,
+            predictions,
+            target_names=[
+                "No Liver Disease",
+                "Liver Disease"
+            ],
+            zero_division=0
+        )
     )
 
 
