@@ -337,6 +337,21 @@ button:disabled{
 
 }
 
+.report-link{
+    display:inline-block;
+    margin-top:18px;
+    padding:12px 24px;
+    border-radius:24px;
+    background:#0f766e;
+    color:#fff;
+    font-weight:600;
+    text-decoration:none;
+}
+
+.report-link:hover{
+    background:#115e59;
+}
+
 
 
 

@@ -16,7 +16,9 @@ from typing import Literal
 import shutil
 import uuid
 
-from RAG.scripts import ask_rag
+from agent.reports import DISCLAIMER, create_prediction_report
+from agent.service import get_agent_response
+from RAG.scripts import answer_from_documents
 
 
 app = FastAPI(
@@ -37,6 +39,23 @@ app.mount(
     ),
     name="static"
 )
+
+REPORT_FOLDER = os.path.join(BASE_DIR, "reports")
+os.makedirs(REPORT_FOLDER, exist_ok=True)
+app.mount("/reports", StaticFiles(directory=REPORT_FOLDER), name="reports")
+
+
+def build_report(title: str, prediction: str, confidence: float) -> str:
+    """Ground each model result in RAG, while keeping prediction usable offline."""
+    try:
+        rag_answer = answer_from_documents(
+            f"Provide patient-friendly information, key considerations, and next steps related to: {prediction}. "
+            "Do not diagnose and include the medical disclaimer."
+        ).get("answer", "")
+    except Exception as exc:
+        print("REPORT RAG ERROR:", exc)
+        rag_answer = "Retrieved guidance is temporarily unavailable. " + DISCLAIMER
+    return create_prediction_report(REPORT_FOLDER, title, prediction, confidence, rag_answer)
 
 
 # Templates
@@ -195,6 +214,12 @@ async def predict(
         file_path
     )
 
+    report_name = build_report(
+        "CURA AI X-Ray Fracture Analysis Report",
+        result["fracture_type"],
+        result["confidence"],
+    )
+
 
 
 
@@ -202,7 +227,8 @@ async def predict(
     {
         "fracture_type": result["fracture_type"],
         "confidence": result["confidence"],
-        "image": "/uploads/" + file_name
+        "image": "/uploads/" + file_name,
+        "report": "/reports/" + report_name,
     }
 )
 
@@ -250,12 +276,19 @@ async def predict_mri_image(
         file_path
     )
 
+    report_name = build_report(
+        "CURA AI MRI Analysis Report",
+        result["mri_type"],
+        result["confidence"],
+    )
+
 
     return JSONResponse(
     {
         "mri_type": result["mri_type"],
         "confidence": result["confidence"],
-        "image": "/uploads/" + file_name
+        "image": "/uploads/" + file_name,
+        "report": "/reports/" + report_name,
     }
 )
 
@@ -269,6 +302,12 @@ async def liver_predict(
         data.dict()
     )
 
+    report_name = build_report(
+        "CURA AI Liver Disease Prediction Report",
+        result["result"],
+        result["confidence"],
+    )
+
 
     return {
 
@@ -278,7 +317,8 @@ async def liver_predict(
 
         "confidence": result["confidence"],
 
-        "model_used": result["model_used"]
+        "model_used": result["model_used"],
+        "report": "/reports/" + report_name,
 
     }
 class ChatRequest(BaseModel):
@@ -295,7 +335,7 @@ async def rag_query(
 
     try:
 
-        result = ask_rag(
+        result = get_agent_response(
             data.question
         )
 

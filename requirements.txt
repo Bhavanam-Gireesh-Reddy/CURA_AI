@@ -43,6 +43,7 @@ langchain-core
 langchain-chroma
 langchain-huggingface
 langchain-experimental
+langchain-google-genai
 
 
 # ==========================

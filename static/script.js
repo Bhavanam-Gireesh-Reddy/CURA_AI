@@ -126,6 +126,8 @@ document.getElementById("liverForm")
 
             <p><strong>Confidence:</strong> ${result.confidence}%</p>
 
+            <a class="report-link" href="${result.report}" target="_blank" rel="noopener">Download PDF Report</a>
+
         </div>
 
     </div>
@@ -233,58 +235,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 let button = "";
 
 
-if(data.tool){
-
-
-if(data.tool.tool_name==="liver"){
-
-button = `
-
-<button onclick="location.href='#liver'">
-
-🩺 Check Liver Disease
-
-</button>
-
-`;
-
-}
-
-
-
-else if(data.tool.tool_name==="xray"){
-
-
-button = `
-
-<button onclick="location.href='#xray'">
-
-🦴 Detect Fracture
-
-</button>
-
-`;
-
-}
-
-
-
-else if(data.tool.tool_name==="mri"){
-
-
-button = `
-
-<button onclick="location.href='#mri'">
-
-🧠 Analyze MRI
-
-</button>
-
-`;
-
-}
-
-
+if (data.tool && data.tool.action === "navigate") {
+    const labels = { liver: "🩺 Check Liver Disease", xray: "🦴 Detect Fracture", mri: "🧠 Analyze MRI" };
+    button = `<button onclick="location.href='${data.tool.target}'">${labels[data.tool.tool_name] || "Open assessment"}</button>`;
 }
 
 

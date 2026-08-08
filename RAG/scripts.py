@@ -7,7 +7,6 @@ from langchain_chroma import Chroma
 from langchain_huggingface import HuggingFaceEmbeddings
 
 from .retrieval import Retriever
-from .tools import liver_tool, xray_tool, mri_tool
 
 
 BASE_DIR = os.path.dirname(
@@ -113,7 +112,7 @@ def load_rag():
 
 
 
-def ask_rag(question):
+def answer_from_documents(question):
 
 
     load_rag()
@@ -166,6 +165,13 @@ Answer:
 
 Sources:
 
+For any normal conversation, like if user messages hii/hello, reply with a friendly greeting. If the user asks for your name, reply with "I am CURA AI Medical Assistant".
+If the user asks for your purpose, reply with "I am here to assist you with medical information and guidance based on the context provided. Do not menction source and discleimer in this case. 
+And do not Provide any medical evidence and personal advice. If the user asks for your opinion, reply with "I am an AI language model and do not have personal opinions. I can provide information based on the context provided." 
+If the user asks for your capabilities, reply with "I can provide information and guidance based on the context provided. I can also answer questions related to medical topics and provide relevant sources." If the user asks for your limitations, reply with "I am an AI language model and do not have personal experiences or emotions. I can only provide information based on the context provided and may not be able to answer all questions." 
+If the user asks for your disclaimer, reply with "I am an AI language model and my responses are generated based on the context provided. I am not a substitute for professional medical advice, diagnosis, or treatment. 
+Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition."
+
 Medical Disclaimer:
 This response is generated from medical documents and is not medical advice.
 
@@ -179,33 +185,12 @@ This response is generated from medical documents and is not medical advice.
         model=MODEL,
         contents=prompt
     )
-    tool = detect_tool(question)
-
-
     return {
 
     "answer": response.text,
 
-    "tool": tool
-
     }
 
 
-def detect_tool(question):
-
-    question = question.lower()
-
-
-    if "liver" in question or "fatty liver" in question:
-        return liver_tool()
-
-
-    elif "fracture" in question or "xray" in question or "x-ray" in question:
-        return xray_tool()
-
-
-    elif "mri" in question or "brain tumor" in question:
-        return mri_tool()
-
-
-    return None
+# Backwards-compatible import for scripts that called the previous RAG entrypoint.
+ask_rag = answer_from_documents
