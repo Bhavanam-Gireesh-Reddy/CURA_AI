@@ -1,16 +1,3 @@
-# class Retriever:
-
-#     def __init__(self):
-#         pass
-
-#     def TopKretriever(self, question, db, TOP_K):
-#         retriever = db.as_retriever(search_kwargs = {"k":TOP_K})
-#         retriever_doc = retriever.invoke(question)
-#         context = "\n\n".join(doc.page_content for doc in retriever_doc)
-#         print("Context of TOPKRetriever: \n", context)
-
-#         return context
-
 class Retriever:
 
     def __init__(self):
