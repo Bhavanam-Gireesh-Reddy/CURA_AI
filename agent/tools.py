@@ -14,19 +14,19 @@ def _navigation_tool(tool_name: str, message: str, target: str) -> str:
 
 @tool
 def liver_prediction_tool(question: str) -> str:
-    """Use for liver disease, fatty liver, liver test, or liver prediction requests. Directs to the liver ML form."""
+    """Use only when the user explicitly asks to run a liver prediction or assessment. Do not use for general disease questions."""
     return _navigation_tool("liver", "Open the liver assessment form to enter patient values and run the ML prediction.", "#liver")
 
 
 @tool
 def xray_fracture_tool(question: str) -> str:
-    """Use for X-ray images, broken bones, and fracture classification requests. Directs to the X-ray upload workflow."""
+    """Use only when the user explicitly asks to upload or classify an X-ray. Do not use for general fracture questions."""
     return _navigation_tool("xray", "Open the X-ray section to upload an image for fracture classification.", "#xray")
 
 
 @tool
 def mri_analysis_tool(question: str) -> str:
-    """Use for MRI images, brain MRI, brain tumour, glioma, meningioma, or pituitary requests. Directs to the MRI workflow."""
+    """Use only when the user explicitly asks to upload or classify a brain MRI. Do not use for general tumor questions."""
     return _navigation_tool("mri", "Open the MRI section to upload an image for brain MRI classification.", "#mri")
 
 
